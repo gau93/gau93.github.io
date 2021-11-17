@@ -1,0 +1,5 @@
+{
+    "word": "ECP",
+    "meaning": "ECP (Error Correcting Protocol)Protocolo de corrección de errores en transmisión en el modem, que filtra ruidos y en caso de recibir una transmisión errónea pide que sea enviada de vuelta automáticamenteECP (Extended Capabilities Port)salida o puerto paralelo mejorado, salida paralela veloz que se apoya en comunicación bidireccional",
+    "details": "<C><F><H><L>ECP (Error Correcting Protocol)</L></H><I><N>Protocolo de corrección de errores en transmisión en el modem, que filtra ruidos y en caso de recibir una transmisión errónea pide que sea enviada de vuelta automáticamente</N></I></F><F><H><L>ECP (Extended Capabilities Port)</L></H><I><N>salida o puerto paralelo mejorado, salida paralela veloz que se apoya en comunicación bidireccional</N></I></F></C>"
+}

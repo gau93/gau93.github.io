@@ -1,0 +1,7 @@
+{
+    "word": "regressions",
+    "phonetic": "/ri'greʃn/",
+    "type": "danh từ",
+    "meaning": "(Econ) Hồi quy.; sự thoái bộ, sự thoái lui; sự đi giật lùi, sự đi ngược trở lại; (thống kê) hồi quy; curvilinear r. hồi quy phi tuyến; lag r. hồi quy có agumen trễ; multiple r. hồi quy bội",
+    "details": "<br />- (Econ) Hồi quy.<br />+ Là một phép phân tích bằng cách ghép một phương trình hồi quy quy (hoặc một quan hệ toán học) vào một tập hợp các điểm số liệu, thường là bằng phương pháp BÌNH PHƯƠNG TỐI THIỂU THÔNG THƯỜNG, để thiết lập các mối quan hệ kinh tế lượng (ước tính giá trị của các thông số), hoặc để kiểm định các giả thiết kinh tế.</Q></N></I></F></C><C><F><I><N><Q>@regression /ri'greʃn/<br />*  danh từ<br />- sự thoái bộ, sự thoái lui; sự đi giật lùi, sự đi ngược trở lại<br />- (toán học) hồi quy<br />=plane of regression+ mặt phẳng hồi quy<br /><br />@regression<br />- (thống kê) hồi quy<br />- biserial r. hồi quy hai chuỗi<br />- curvilinear r. hồi quy phi tuyến<br />- internal r. hồi quy trong<br />- lag r. hồi quy có agumen trễ<br />- linear r. hồi quy tuyến tính<br />- multiple r. hồi quy bội<br />- polynomial r. hồi quy đa thức"
+}

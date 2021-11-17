@@ -1,0 +1,86 @@
+[
+    {
+        "title": "Lớp 6",
+        "description": "Tổng hợp những từ mới tiếng Anh quan trọng trong Sách Giáo Khoa lớp 6, giúp các em ghi nhớ từ vựng, sẵn sàng cho các kỳ thi quan trọng cũng như là ôn tập lại bộ môn tiếng Anh.",
+        "imgUrl": "https://app.donghd.com/hdreader/images/Lop6.png",
+        "bgColor": "#8E0F45E6",
+        "isBuilding": false,
+        "isBuildingMsg": "Chúng tôi đang xây dựng bộ dữ liệu này, hãy theo dõi Fanpage để biết tiến độ nhé :)",
+        "type": "word",
+        "sourceDataUrl": "https://app.donghd.com/hdreader/data/tonghop_lop6-12_cat_lop6_details.json",
+        "price": 0,
+		"size": 387
+    },
+    {
+        "title": "Lớp 7",
+        "description": "Tổng hợp những từ mới tiếng Anh quan trọng trong Sách Giáo Khoa lớp 7, giúp các em ghi nhớ từ vựng, sẵn sàng cho các kỳ thi quan trọng cũng như là ôn tập lại bộ môn tiếng Anh.",
+        "imgUrl": "https://app.donghd.com/hdreader/images/Lop7.png",
+        "bgColor": "#8E460FE6",
+        "isBuilding": false,
+        "isBuildingMsg": "Chúng tôi đang xây dựng bộ dữ liệu này, hãy theo dõi Fanpage để biết tiến độ nhé :)",
+        "type": "word",
+        "sourceDataUrl": "https://app.donghd.com/hdreader/data/tonghop_lop6-12_cat_lop7_details.json",
+        "price": 0,
+		"size": 270
+    },
+    {
+        "title": "Lớp 8",
+        "description": "Tổng hợp những từ mới tiếng Anh quan trọng trong Sách Giáo Khoa lớp 8, giúp các em ghi nhớ từ vựng, sẵn sàng cho các kỳ thi quan trọng cũng như là ôn tập lại bộ môn tiếng Anh.",
+        "imgUrl": "https://app.donghd.com/hdreader/images/Lop8.png",
+        "bgColor": "#00ADB5E6",
+        "isBuilding": false,
+        "isBuildingMsg": "Chúng tôi đang xây dựng bộ dữ liệu này, hãy theo dõi Fanpage để biết tiến độ nhé :)",
+        "type": "word",
+        "sourceDataUrl": "https://app.donghd.com/hdreader/data/tonghop_lop6-12_cat_lop8_details.json",
+        "price": 0,
+		"size": 306
+    },
+    {
+        "title": "Lớp 9",
+        "description": "Tổng hợp những từ mới tiếng Anh quan trọng trong Sách Giáo Khoa lớp 9, giúp các em ghi nhớ từ vựng, sẵn sàng cho các kỳ thi quan trọng cũng như là ôn tập lại bộ môn tiếng Anh.",
+        "imgUrl": "https://app.donghd.com/hdreader/images/Lop9.png",
+        "bgColor": "#698E0FE6",
+        "isBuilding": false,
+        "isBuildingMsg": "Chúng tôi đang xây dựng bộ dữ liệu này, hãy theo dõi Fanpage để biết tiến độ nhé :)",
+        "type": "word",
+        "sourceDataUrl": "https://app.donghd.com/hdreader/data/tonghop_lop6-12_cat_lop9_details.json",
+        "price": 0,
+		"size": 303
+    },
+    {
+        "title": "Lớp 10",
+        "description": "Tổng hợp những từ mới tiếng Anh quan trọng trong Sách Giáo Khoa lớp 10, giúp các em ghi nhớ từ vựng, sẵn sàng cho các kỳ thi quan trọng cũng như là ôn tập lại bộ môn tiếng Anh.",
+        "imgUrl": "https://app.donghd.com/hdreader/images/Lop10.png",
+        "bgColor": "#0F8E8EE6",
+        "isBuilding": false,
+        "isBuildingMsg": "Chúng tôi đang xây dựng bộ dữ liệu này, hãy theo dõi Fanpage để biết tiến độ nhé :)",
+        "type": "word",
+        "sourceDataUrl": "https://app.donghd.com/hdreader/data/tonghop_lop6-12_cat_lop10_details.json",
+        "price": 0,
+		"size": 285
+    },
+    {
+        "title": "Lớp 11",
+        "description": "Tổng hợp những từ mới tiếng Anh quan trọng trong Sách Giáo Khoa lớp 11, giúp các em ghi nhớ từ vựng, sẵn sàng cho các kỳ thi quan trọng cũng như là ôn tập lại bộ môn tiếng Anh.",
+        "imgUrl": "https://app.donghd.com/hdreader/images/Lop11.png",
+        "bgColor": "#698E0FE6",
+        "isBuilding": false,
+        "isBuildingMsg": "Chúng tôi đang xây dựng bộ dữ liệu này, hãy theo dõi Fanpage để biết tiến độ nhé :)",
+        "type": "word",
+        "sourceDataUrl": "https://app.donghd.com/hdreader/data/tonghop_lop6-12_cat_lop11_details.json",
+        "price": 0,
+		"size": 314
+    },
+    {
+        "title": "Lớp 12",
+        "description": "Tổng hợp những từ mới tiếng Anh quan trọng trong Sách Giáo Khoa lớp 12, giúp các em ghi nhớ từ vựng, sẵn sàng cho các kỳ thi quan trọng cũng như là ôn tập lại bộ môn tiếng Anh.",
+        "imgUrl": "https://app.donghd.com/hdreader/images/Lop12.png",
+        "bgColor": "#0F8E21E6",
+        "isBuilding": false,
+        "isBuildingMsg": "Chúng tôi đang xây dựng bộ dữ liệu này, hãy theo dõi Fanpage để biết tiến độ nhé :)",
+        "type": "word",
+        "sourceDataUrl": "https://app.donghd.com/hdreader/data/tonghop_lop6-12_cat_lop12_details.json",
+        "price": 0,
+		"size": 207
+    }
+]

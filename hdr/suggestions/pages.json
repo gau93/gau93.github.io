@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "title": "Wikipedia, the free encyclopedia",
+        "imageURL": "https://en.wikipedia.org/static/images/project-logos/enwiki-1.5x.png",
+        "url": "https://en.wikipedia.org/wiki/Main_Page"
+    },
+    {
+        "id": 2,
+        "title": "E-NEWS, Weekly news for English language learners",
+        "imageURL": "https://www.enewsdispatch.com/wp-content/uploads/2017/10/coffeecup-300x300.png",
+        "url": "https://www.enewsdispatch.com/"
+    }
+]

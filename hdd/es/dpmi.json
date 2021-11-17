@@ -1,0 +1,5 @@
+{
+    "word": "DPMI",
+    "meaning": "DPMI (Dos Protected Mode Interface)Interfase del Modo protegido del Dos, interfase de DOS de estado protegido (en el cual un número de aplicaciones trabajan simultáneamente sin colisión entre ellas, cuando cada aplicación tiene su zona de memoria diferente)",
+    "details": "<C><F><H><L>DPMI (Dos Protected Mode Interface)</L></H><I><N>Interfase del Modo protegido del Dos, interfase de DOS de estado protegido (en el cual un número de aplicaciones trabajan simultáneamente sin colisión entre ellas, cuando cada aplicación tiene su zona de memoria diferente)</N></I></F></C>"
+}

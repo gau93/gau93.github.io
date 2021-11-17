@@ -1,0 +1,1996 @@
+[
+    {
+        "word": "benefit",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈbɛnəfɪt",
+        "yourLangMeaning": "lợi ích",
+        "userNoteToSave": "Unit 1: Family Life"
+    },
+    {
+        "word": "breadwinner",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈbrɛˌdwɪnər",
+        "yourLangMeaning": "người trụ cột đi làm nuôi cả gia đình",
+        "userNoteToSave": "Unit 1: Family Life"
+    },
+    {
+        "word": "chore",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ʧɔr",
+        "yourLangMeaning": "công việc vặt trong nhà, việc nhà",
+        "userNoteToSave": "Unit 1: Family Life"
+    },
+    {
+        "word": "contribute",
+        "wordTypeArr": "(v)",
+        "phoneticTxt": "kənˈtrɪbjut",
+        "yourLangMeaning": "đóng góp",
+        "userNoteToSave": "Unit 1: Family Life"
+    },
+    {
+        "word": "critical",
+        "wordTypeArr": "(adj)",
+        "phoneticTxt": "ˈkrɪtɪkəl",
+        "yourLangMeaning": "hay phê phán, chỉ trích; khó tính",
+        "userNoteToSave": "Unit 1: Family Life"
+    },
+    {
+        "word": "enormous",
+        "wordTypeArr": "(adj)",
+        "phoneticTxt": "ɪˈnɔrməs",
+        "yourLangMeaning": "to lớn, khổng lồ",
+        "userNoteToSave": "Unit 1: Family Life"
+    },
+    {
+        "word": "equally shared parenting",
+        "wordTypeArr": "(n.phr)",
+        "phoneticTxt": "ˈikwəli ʃɛrd ˈpɛrəntɪŋ",
+        "yourLangMeaning": "chia sẻ đều công việc nội trợ và chăm sóc con cái",
+        "userNoteToSave": "Unit 1: Family Life"
+    },
+    {
+        "word": "extended family",
+        "wordTypeArr": "(n.phr)",
+        "phoneticTxt": "ɪkˈstɛndəd ˈfæməli",
+        "yourLangMeaning": "gia đình lớn gồm nhiều thế hệ chung sống",
+        "userNoteToSave": "Unit 1: Family Life"
+    },
+    {
+        "word": "(household) finances",
+        "wordTypeArr": "(n.phr)",
+        "phoneticTxt": "(ˈhaʊsˌhoʊld) fɪˈnænsɪz",
+        "yourLangMeaning": "tài chính, tiền nong (của gia đình)",
+        "userNoteToSave": "Unit 1: Family Life"
+    },
+    {
+        "word": "financial burden",
+        "wordTypeArr": "(n.phr)",
+        "phoneticTxt": "fəˈnænʃəl ˈbɜrdən",
+        "yourLangMeaning": "gánh nặng về tài chính, tiền bạc",
+        "userNoteToSave": "Unit 1: Family Life"
+    },
+    {
+        "word": "gender convergence",
+        "wordTypeArr": "(n.phr)",
+        "phoneticTxt": "ˈʤɛndər kənˈvɜrʤəns",
+        "yourLangMeaning": "các giới tính trở nên có nhiều điểm chung",
+        "userNoteToSave": "Unit 1: Family Life"
+    },
+    {
+        "word": "grocery",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈgroʊsəri",
+        "yourLangMeaning": "thực phẩm và tạp hóa",
+        "userNoteToSave": "Unit 1: Family Life"
+    },
+    {
+        "word": "heavy lifting",
+        "wordTypeArr": "(n.phr)",
+        "phoneticTxt": "ˈhɛvi ˈlɪftɪŋ",
+        "yourLangMeaning": "mang vác nặng",
+        "userNoteToSave": "Unit 1: Family Life"
+    },
+    {
+        "word": "homemaker",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈhoʊmˌmeɪkər",
+        "yourLangMeaning": "người nội trợ",
+        "userNoteToSave": "Unit 1: Family Life"
+    },
+    {
+        "word": "iron",
+        "wordTypeArr": "(v)",
+        "phoneticTxt": "ˈaɪərn",
+        "yourLangMeaning": "là/ ủi (quần áo)",
+        "userNoteToSave": "Unit 1: Family Life"
+    },
+    {
+        "word": "laundry",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈlɔndri",
+        "yourLangMeaning": "quần áo, đồ giặt là/ ủi",
+        "userNoteToSave": "Unit 1: Family Life"
+    },
+    {
+        "word": "lay (the table for meals)",
+        "wordTypeArr": "(v)",
+        "phoneticTxt": "leɪ (ðə ˈteɪbəl fɔr milz)",
+        "yourLangMeaning": "dọn cơm",
+        "userNoteToSave": "Unit 1: Family Life"
+    },
+    {
+        "word": "nuclear family",
+        "wordTypeArr": "(n.phr)",
+        "phoneticTxt": "ˈnukliər ˈfæməli",
+        "yourLangMeaning": "gia đình nhỏ chỉ gồm có bố mẹ và con cái chung sống",
+        "userNoteToSave": "Unit 1: Family Life"
+    },
+    {
+        "word": "nurture",
+        "wordTypeArr": "(v)",
+        "phoneticTxt": "ˈnɜrʧər",
+        "yourLangMeaning": "nuôi dưỡng",
+        "userNoteToSave": "Unit 1: Family Life"
+    },
+    {
+        "word": "responsibility",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "riˌspɑnsəˈbɪləti",
+        "yourLangMeaning": "trách nhiệm",
+        "userNoteToSave": "Unit 1: Family Life"
+    },
+    {
+        "word": "acupuncture",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈækjuˌpʌŋkʧər",
+        "yourLangMeaning": "châm cứu",
+        "userNoteToSave": "Unit 2: Your Body and You"
+    },
+    {
+        "word": "ailment",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈeɪlmənt",
+        "yourLangMeaning": "bệnh tật",
+        "userNoteToSave": "Unit 2: Your Body and You"
+    },
+    {
+        "word": "allergy",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈælərʤi",
+        "yourLangMeaning": "dị ứng",
+        "userNoteToSave": "Unit 2: Your Body and You"
+    },
+    {
+        "word": "boost",
+        "wordTypeArr": "(v)",
+        "phoneticTxt": "bust",
+        "yourLangMeaning": "đẩy mạnh",
+        "userNoteToSave": "Unit 2: Your Body and You"
+    },
+    {
+        "word": "cancer",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈkænsər",
+        "yourLangMeaning": "ung thư",
+        "userNoteToSave": "Unit 2: Your Body and You"
+    },
+    {
+        "word": "circulatory",
+        "wordTypeArr": "(adj)",
+        "phoneticTxt": "ˈsɜrkjələˌtɔri",
+        "yourLangMeaning": "thuộc về tuần hoàn",
+        "userNoteToSave": "Unit 2: Your Body and You"
+    },
+    {
+        "word": "complicated",
+        "wordTypeArr": "(adj)",
+        "phoneticTxt": "ˈkɑmpləˌkeɪtəd",
+        "yourLangMeaning": "phức tạp",
+        "userNoteToSave": "Unit 2: Your Body and You"
+    },
+    {
+        "word": "compound",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈkɑmpaʊnd",
+        "yourLangMeaning": "hợp chất",
+        "userNoteToSave": "Unit 2: Your Body and You"
+    },
+    {
+        "word": "consume",
+        "wordTypeArr": "(v)",
+        "phoneticTxt": "kənˈsum",
+        "yourLangMeaning": "tiêu thụ, dùng",
+        "userNoteToSave": "Unit 2: Your Body and You"
+    },
+    {
+        "word": "digestive",
+        "wordTypeArr": "(adj) ",
+        "phoneticTxt": "daɪˈʤɛstɪv",
+        "yourLangMeaning": "(thuộc) tiêu hóa",
+        "userNoteToSave": "Unit 2: Your Body and You"
+    },
+    {
+        "word": "disease",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "dɪˈziz",
+        "yourLangMeaning": "bệnh",
+        "userNoteToSave": "Unit 2: Your Body and You"
+    },
+    {
+        "word": "evidence",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈɛvədəns",
+        "yourLangMeaning": "bằng chứng",
+        "userNoteToSave": "Unit 2: Your Body and You"
+    },
+    {
+        "word": "frown",
+        "wordTypeArr": "(v)",
+        "phoneticTxt": "fraʊn",
+        "yourLangMeaning": "cau mày",
+        "userNoteToSave": "Unit 2: Your Body and You"
+    },
+    {
+        "word": "grain",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "greɪn",
+        "yourLangMeaning": "ngũ cốc",
+        "userNoteToSave": "Unit 2: Your Body and You"
+    },
+    {
+        "word": "heal",
+        "wordTypeArr": "(v)",
+        "phoneticTxt": "hil",
+        "yourLangMeaning": "hàn gắn, chữa (bệnh)",
+        "userNoteToSave": "Unit 2: Your Body and You"
+    },
+    {
+        "word": "inspire",
+        "wordTypeArr": "(v)",
+        "phoneticTxt": "ɪnˈspaɪr",
+        "yourLangMeaning": "truyền cảm hứng",
+        "userNoteToSave": "Unit 2: Your Body and You"
+    },
+    {
+        "word": "intestine",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ɪnˈtɛstən",
+        "yourLangMeaning": "ruột",
+        "userNoteToSave": "Unit 2: Your Body and You"
+    },
+    {
+        "word": "lung",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "lʌŋ",
+        "yourLangMeaning": "phổi",
+        "userNoteToSave": "Unit 2: Your Body and You"
+    },
+    {
+        "word": "muscle",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈmʌsəl",
+        "yourLangMeaning": "cơ bắp",
+        "userNoteToSave": "Unit 2: Your Body and You"
+    },
+    {
+        "word": "needle",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈnidəl",
+        "yourLangMeaning": "cây kim",
+        "userNoteToSave": "Unit 2: Your Body and You"
+    },
+    {
+        "word": "nerve",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "nɜrv",
+        "yourLangMeaning": "dây thần kinh",
+        "userNoteToSave": "Unit 2: Your Body and You"
+    },
+    {
+        "word": "oxygenate",
+        "wordTypeArr": "(v)",
+        "phoneticTxt": "ˈɑksəʤəˌneɪt",
+        "yourLangMeaning": "cấp ô-xy",
+        "userNoteToSave": "Unit 2: Your Body and You"
+    },
+    {
+        "word": "poultry",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈpoʊltri",
+        "yourLangMeaning": "gia cầm ",
+        "userNoteToSave": "Unit 2: Your Body and You"
+    },
+    {
+        "word": "respiratory",
+        "wordTypeArr": "(adj) ",
+        "phoneticTxt": "ˈrɛspərəˌtɔri",
+        "yourLangMeaning": "(thuộc) hô hấp",
+        "userNoteToSave": "Unit 2: Your Body and You"
+    },
+    {
+        "word": "air",
+        "wordTypeArr": "(v)",
+        "phoneticTxt": "ɛr",
+        "yourLangMeaning": "phát thanh/ hình",
+        "userNoteToSave": "Unit 3: Music"
+    },
+    {
+        "word": "audience",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈɑdiəns",
+        "yourLangMeaning": "khán/ thính giả",
+        "userNoteToSave": "Unit 3: Music"
+    },
+    {
+        "word": "biography",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "baɪˈɑgrəfi",
+        "yourLangMeaning": "tiểu sử",
+        "userNoteToSave": "Unit 3: Music"
+    },
+    {
+        "word": "celebrity panel",
+        "wordTypeArr": "(n.phr)",
+        "phoneticTxt": "səˈlɛbrɪti ˈpænəl",
+        "yourLangMeaning": "ban giám khảo gồm những người nổi tiếng",
+        "userNoteToSave": "Unit 3: Music"
+    },
+    {
+        "word": "clip",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "klɪp",
+        "yourLangMeaning": "một đoạn phim/ nhạc",
+        "userNoteToSave": "Unit 3: Music"
+    },
+    {
+        "word": "composer",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "kəmˈpoʊzər",
+        "yourLangMeaning": "nhà soạn nhạc",
+        "userNoteToSave": "Unit 3: Music"
+    },
+    {
+        "word": "contest",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈkɑntɛst",
+        "yourLangMeaning": "cuộc thi",
+        "userNoteToSave": "Unit 3: Music"
+    },
+    {
+        "word": "dangdut",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "dangdut",
+        "yourLangMeaning": "một loại nhạc dân gian của In-đô-nê-xi-a",
+        "userNoteToSave": "Unit 3: Music"
+    },
+    {
+        "word": "debut album",
+        "wordTypeArr": "(n.phr)",
+        "phoneticTxt": "deɪˈbju ˈælbəm",
+        "yourLangMeaning": "tập nhạc tuyển đầu tay",
+        "userNoteToSave": "Unit 3: Music"
+    },
+    {
+        "word": "fan",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "fæn",
+        "yourLangMeaning": "người hâm mộ",
+        "userNoteToSave": "Unit 3: Music"
+    },
+    {
+        "word": "global smash hit",
+        "wordTypeArr": "(n.phr)",
+        "phoneticTxt": "ˈgloʊbəl smæʃ hɪt",
+        "yourLangMeaning": "thành công lớn trên thê giới",
+        "userNoteToSave": "Unit 3: Music"
+    },
+    {
+        "word": "idol",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈaɪdəl",
+        "yourLangMeaning": "thần tượng",
+        "userNoteToSave": "Unit 3: Music"
+    },
+    {
+        "word": "judge",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ʤʌʤ",
+        "yourLangMeaning": "ban giám khảo",
+        "userNoteToSave": "Unit 3: Music"
+    },
+    {
+        "word": "phenomenon",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "fəˈnɑməˌnɑn",
+        "yourLangMeaning": "hiện tượng",
+        "userNoteToSave": "Unit 3: Music"
+    },
+    {
+        "word": "platinum",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈplætnəm",
+        "yourLangMeaning": "danh hiệu thu âm dành cho ca sĩ hoặc nhóm nhạc có tuyển tập nhạc phát hành tối thiểu 1 triệu bản",
+        "userNoteToSave": "Unit 3: Music"
+    },
+    {
+        "word": "pop",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "pɑp",
+        "yourLangMeaning": "nhạc bình dân, phổ cập",
+        "userNoteToSave": "Unit 3: Music"
+    },
+    {
+        "word": "post",
+        "wordTypeArr": "(v)",
+        "phoneticTxt": "poʊst",
+        "yourLangMeaning": "đưa lên Internet",
+        "userNoteToSave": "Unit 3: Music"
+    },
+    {
+        "word": "process",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈprɑˌsɛs",
+        "yourLangMeaning": "quy trình",
+        "userNoteToSave": "Unit 3: Music"
+    },
+    {
+        "word": "release",
+        "wordTypeArr": "(v)",
+        "phoneticTxt": "riˈlis",
+        "yourLangMeaning": "công bố",
+        "userNoteToSave": "Unit 3: Music"
+    },
+    {
+        "word": "advertisement",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ədˈvɜrtəzmənt",
+        "yourLangMeaning": "quảng cáo, rao vặt",
+        "userNoteToSave": "Unit 4: For a Better Community"
+    },
+    {
+        "word": "announcement",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "əˈnaʊnsmənt",
+        "yourLangMeaning": "thông báo",
+        "userNoteToSave": "Unit 4: For a Better Community"
+    },
+    {
+        "word": "apply",
+        "wordTypeArr": "(v)",
+        "phoneticTxt": "əˈplaɪ",
+        "yourLangMeaning": "nộp đơn xin việc",
+        "userNoteToSave": "Unit 4: For a Better Community"
+    },
+    {
+        "word": "balance",
+        "wordTypeArr": "(v)",
+        "phoneticTxt": "ˈbæləns",
+        "yourLangMeaning": "làm cho cân bằng",
+        "userNoteToSave": "Unit 4: For a Better Community"
+    },
+    {
+        "word": "by chance",
+        "wordTypeArr": "(n.phr)",
+        "phoneticTxt": "baɪ ʧæns",
+        "yourLangMeaning": "tình cờ, ngẫu nhiên",
+        "userNoteToSave": "Unit 4: For a Better Community"
+    },
+    {
+        "word": "community",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "kəmˈjunəti",
+        "yourLangMeaning": "cộng đồng",
+        "userNoteToSave": "Unit 4: For a Better Community"
+    },
+    {
+        "word": "concerned",
+        "wordTypeArr": "(adj)",
+        "phoneticTxt": "kənˈsɜrnd",
+        "yourLangMeaning": "lo lắng, quan tâm",
+        "userNoteToSave": "Unit 4: For a Better Community"
+    },
+    {
+        "word": "creative",
+        "wordTypeArr": "(adj)",
+        "phoneticTxt": "kriˈeɪtɪv",
+        "yourLangMeaning": "sáng tạo",
+        "userNoteToSave": "Unit 4: For a Better Community"
+    },
+    {
+        "word": "dedicated",
+        "wordTypeArr": "(adj)",
+        "phoneticTxt": "ˈdɛdəkeɪtəd",
+        "yourLangMeaning": "tận tâm, tận tụy",
+        "userNoteToSave": "Unit 4: For a Better Community"
+    },
+    {
+        "word": "development",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "dɪˈvɛləpmənt",
+        "yourLangMeaning": "sự phát triển",
+        "userNoteToSave": "Unit 4: For a Better Community"
+    },
+    {
+        "word": "disadvantaged",
+        "wordTypeArr": "(adj)",
+        "phoneticTxt": "dɪsədˈvæntɪʤd",
+        "yourLangMeaning": "thiệt thòi",
+        "userNoteToSave": "Unit 4: For a Better Community"
+    },
+    {
+        "word": "donate",
+        "wordTypeArr": "(v)",
+        "phoneticTxt": "ˈdoʊˌneɪt",
+        "yourLangMeaning": "cho, tặng",
+        "userNoteToSave": "Unit 4: For a Better Community"
+    },
+    {
+        "word": "employment",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ɛmˈplɔɪmənt",
+        "yourLangMeaning": "việc tuyển dụng",
+        "userNoteToSave": "Unit 4: For a Better Community"
+    },
+    {
+        "word": "excited",
+        "wordTypeArr": "(adj)",
+        "phoneticTxt": "ɪkˈsaɪtəd",
+        "yourLangMeaning": "phấn khởi, phấn khích",
+        "userNoteToSave": "Unit 4: For a Better Community"
+    },
+    {
+        "word": "facility",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "fəˈsɪlɪti",
+        "yourLangMeaning": "cơ sở vật chất, trang thiết bị",
+        "userNoteToSave": "Unit 4: For a Better Community"
+    },
+    {
+        "word": "fortunate",
+        "wordTypeArr": "(adj)",
+        "phoneticTxt": "ˈfɔrʧənət",
+        "yourLangMeaning": "may mắn",
+        "userNoteToSave": "Unit 4: For a Better Community"
+    },
+    {
+        "word": "handicapped",
+        "wordTypeArr": "(adj)",
+        "phoneticTxt": "ˈhændiˌkæpt",
+        "yourLangMeaning": "tàn tật, khuyết tật",
+        "userNoteToSave": "Unit 4: For a Better Community"
+    },
+    {
+        "word": "helpful",
+        "wordTypeArr": "(adj)",
+        "phoneticTxt": "ˈhɛlpfəl",
+        "yourLangMeaning": "hữu ích",
+        "userNoteToSave": "Unit 4: For a Better Community"
+    },
+    {
+        "word": "hopeless",
+        "wordTypeArr": "(adj)",
+        "phoneticTxt": "ˈhoʊpləs",
+        "yourLangMeaning": "vô vọng",
+        "userNoteToSave": "Unit 4: For a Better Community"
+    },
+    {
+        "word": "interact",
+        "wordTypeArr": "(v)",
+        "phoneticTxt": "ˌɪntəˈrækt",
+        "yourLangMeaning": "tương tác",
+        "userNoteToSave": "Unit 4: For a Better Community"
+    },
+    {
+        "word": "interested",
+        "wordTypeArr": "(adj)",
+        "phoneticTxt": "ˈɪntrəstəd",
+        "yourLangMeaning": "quan tâm, hứng thú",
+        "userNoteToSave": "Unit 4: For a Better Community"
+    },
+    {
+        "word": "interesting",
+        "wordTypeArr": "(adj)",
+        "phoneticTxt": "ˈɪntrəstɪŋ",
+        "yourLangMeaning": "hay, thú vị",
+        "userNoteToSave": "Unit 4: For a Better Community"
+    },
+    {
+        "word": "invalid",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈɪnvəlɪd",
+        "yourLangMeaning": "người tàn tật, người khuyết tật",
+        "userNoteToSave": "Unit 4: For a Better Community"
+    },
+    {
+        "word": "leader",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈlidər",
+        "yourLangMeaning": "người đứng đầu, nhà lãnh đạo",
+        "userNoteToSave": "Unit 4: For a Better Community"
+    },
+    {
+        "word": "martyr",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈmɑrtər",
+        "yourLangMeaning": "liệt sỹ",
+        "userNoteToSave": "Unit 4: For a Better Community"
+    },
+    {
+        "word": "meaningful",
+        "wordTypeArr": "(adj)",
+        "phoneticTxt": "ˈminɪŋfəl",
+        "yourLangMeaning": "có ý nghĩa",
+        "userNoteToSave": "Unit 4: For a Better Community"
+    },
+    {
+        "word": "narrow-minded",
+        "wordTypeArr": "(adj)",
+        "phoneticTxt": "ˈnɛroʊ-ˈmaɪndəd",
+        "yourLangMeaning": "nông cạn, hẹp hòi",
+        "userNoteToSave": "Unit 4: For a Better Community"
+    },
+    {
+        "word": "non-profit",
+        "wordTypeArr": "(adj)",
+        "phoneticTxt": "nɑn-ˈprɑfət",
+        "yourLangMeaning": "phi lợi nhuận",
+        "userNoteToSave": "Unit 4: For a Better Community"
+    },
+    {
+        "word": "obvious",
+        "wordTypeArr": "(adj)",
+        "phoneticTxt": "ˈɑbviəs",
+        "yourLangMeaning": "rõ ràng, hiển nhiên",
+        "userNoteToSave": "Unit 4: For a Better Community"
+    },
+    {
+        "word": "opportunity",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˌɑpərˈtunəti",
+        "yourLangMeaning": "cơ hội, dịp",
+        "userNoteToSave": "Unit 4: For a Better Community"
+    },
+    {
+        "word": "passionate",
+        "wordTypeArr": "(adj)",
+        "phoneticTxt": "ˈpæʃənət",
+        "yourLangMeaning": "say mê, đam mê",
+        "userNoteToSave": "Unit 4: For a Better Community"
+    },
+    {
+        "word": "patient",
+        "wordTypeArr": "(adj)",
+        "phoneticTxt": "ˈpeɪʃənt",
+        "yourLangMeaning": "kiên trì, kiên nhẫn",
+        "userNoteToSave": "Unit 4: For a Better Community"
+    },
+    {
+        "word": "position",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "pəˈzɪʃən",
+        "yourLangMeaning": "vị trí, địa vị, chức vụ",
+        "userNoteToSave": "Unit 4: For a Better Community"
+    },
+    {
+        "word": "post",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "poʊst",
+        "yourLangMeaning": "vị trí, địa vị, chức vụ",
+        "userNoteToSave": "Unit 4: For a Better Community"
+    },
+    {
+        "word": "priority",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "praɪˈɔrəti",
+        "yourLangMeaning": "việc ưu tiên hàng đầu",
+        "userNoteToSave": "Unit 4: For a Better Community"
+    },
+    {
+        "word": "public",
+        "wordTypeArr": "(adj)",
+        "phoneticTxt": "ˈpʌblɪk",
+        "yourLangMeaning": "công cộng",
+        "userNoteToSave": "Unit 4: For a Better Community"
+    },
+    {
+        "word": "remote",
+        "wordTypeArr": "(adj)",
+        "phoneticTxt": "rɪˈmoʊt",
+        "yourLangMeaning": "xa xôi, hẻo lánh",
+        "userNoteToSave": "Unit 4: For a Better Community"
+    },
+    {
+        "word": "running water",
+        "wordTypeArr": "(n.phr)",
+        "phoneticTxt": "ˈrʌnɪŋ ˈwɔtər",
+        "yourLangMeaning": "nước máy",
+        "userNoteToSave": "Unit 4: For a Better Community"
+    },
+    {
+        "word": "bulky",
+        "wordTypeArr": "(adj)",
+        "phoneticTxt": "ˈbʌlki",
+        "yourLangMeaning": "to lớn, kềnh càng",
+        "userNoteToSave": "Unit 5: Inventions"
+    },
+    {
+        "word": "collapse",
+        "wordTypeArr": "(v)",
+        "phoneticTxt": "kəˈlæps",
+        "yourLangMeaning": "xếp lại, cụp lại",
+        "userNoteToSave": "Unit 5: Inventions"
+    },
+    {
+        "word": "earbuds",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "earbuds",
+        "yourLangMeaning": "tai nghe",
+        "userNoteToSave": "Unit 5: Inventions"
+    },
+    {
+        "word": "economical",
+        "wordTypeArr": "(adj)",
+        "phoneticTxt": "ˌɛkəˈnɑmɪkəl",
+        "yourLangMeaning": "tiết kiệm, không lãng phí",
+        "userNoteToSave": "Unit 5: Inventions"
+    },
+    {
+        "word": "fabric",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈfæbrɪk",
+        "yourLangMeaning": "vải, chất liệu vải",
+        "userNoteToSave": "Unit 5: Inventions"
+    },
+    {
+        "word": "generous",
+        "wordTypeArr": "(adj)",
+        "phoneticTxt": "ˈʤɛnərəs",
+        "yourLangMeaning": "rộng rãi, hào phóng",
+        "userNoteToSave": "Unit 5: Inventions"
+    },
+    {
+        "word": "headphones",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈhɛdˌfoʊnz",
+        "yourLangMeaning": "tai nghe qua đầu",
+        "userNoteToSave": "Unit 5: Inventions"
+    },
+    {
+        "word": "imitate",
+        "wordTypeArr": "(v)",
+        "phoneticTxt": "ˈɪməˌteɪt",
+        "yourLangMeaning": "bắt chước, mô phỏng theo",
+        "userNoteToSave": "Unit 5: Inventions"
+    },
+    {
+        "word": "inspiration",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˌɪnspəˈreɪʃən",
+        "yourLangMeaning": "nguồn cảm hứng",
+        "userNoteToSave": "Unit 5: Inventions"
+    },
+    {
+        "word": "invention",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ɪnˈvɛnʃən",
+        "yourLangMeaning": "sự phát minh, vật phát minh",
+        "userNoteToSave": "Unit 5: Inventions"
+    },
+    {
+        "word": "laptop",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈlæpˌtɑp",
+        "yourLangMeaning": "máy tính xách tay",
+        "userNoteToSave": "Unit 5: Inventions"
+    },
+    {
+        "word": "patent",
+        "wordTypeArr": "(n,v)",
+        "phoneticTxt": "ˈpætənt",
+        "yourLangMeaning": "bằng sáng chế; được cấp bằng sáng chế",
+        "userNoteToSave": "Unit 5: Inventions"
+    },
+    {
+        "word": "portable",
+        "wordTypeArr": "(adj)",
+        "phoneticTxt": "ˈpɔrtəbəl",
+        "yourLangMeaning": "dễ dàng mang, xách theo",
+        "userNoteToSave": "Unit 5: Inventions"
+    },
+    {
+        "word": "principle",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈprɪnsəpəl",
+        "yourLangMeaning": "nguyên tắc, yếu tố cơ bản",
+        "userNoteToSave": "Unit 5: Inventions"
+    },
+    {
+        "word": "submarine",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈsʌbməˌrin",
+        "yourLangMeaning": "tàu ngầm",
+        "userNoteToSave": "Unit 5: Inventions"
+    },
+    {
+        "word": "velcro",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈvɛlkroʊ",
+        "yourLangMeaning": "một loại khóa dán",
+        "userNoteToSave": "Unit 5: Inventions"
+    },
+    {
+        "word": "address",
+        "wordTypeArr": "(v)",
+        "phoneticTxt": "ˈæˌdrɛs",
+        "yourLangMeaning": "giải quyết",
+        "userNoteToSave": "Unit 6: Gender Equality"
+    },
+    {
+        "word": "affect",
+        "wordTypeArr": "(v)",
+        "phoneticTxt": "əˈfɛkt",
+        "yourLangMeaning": "ảnh hưởng",
+        "userNoteToSave": "Unit 6: Gender Equality"
+    },
+    {
+        "word": "caretaker",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈkɛrˌteɪkər",
+        "yourLangMeaning": "người trông nom nhà",
+        "userNoteToSave": "Unit 6: Gender Equality"
+    },
+    {
+        "word": "challenge",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈʧælənʤ",
+        "yourLangMeaning": "thách thức",
+        "userNoteToSave": "Unit 6: Gender Equality"
+    },
+    {
+        "word": "discrimination",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "dɪˌskrɪməˈneɪʃən",
+        "yourLangMeaning": "phân biệt đối xử",
+        "userNoteToSave": "Unit 6: Gender Equality"
+    },
+    {
+        "word": "effective",
+        "wordTypeArr": "(adj)",
+        "phoneticTxt": "ɪˈfɛktɪv",
+        "yourLangMeaning": "có hiệu quả",
+        "userNoteToSave": "Unit 6: Gender Equality"
+    },
+    {
+        "word": "eliminate",
+        "wordTypeArr": "(v)",
+        "phoneticTxt": "ɪˈlɪməˌneɪt",
+        "yourLangMeaning": "xóa bỏ",
+        "userNoteToSave": "Unit 6: Gender Equality"
+    },
+    {
+        "word": "encourage",
+        "wordTypeArr": "(v)",
+        "phoneticTxt": "ɛnˈkɜrɪʤ",
+        "yourLangMeaning": "động viên, khuyến khích",
+        "userNoteToSave": "Unit 6: Gender Equality"
+    },
+    {
+        "word": "enrol",
+        "wordTypeArr": "(v)",
+        "phoneticTxt": "enrol",
+        "yourLangMeaning": "đăng ký nhập học",
+        "userNoteToSave": "Unit 6: Gender Equality"
+    },
+    {
+        "word": "enrolment",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "enrolment",
+        "yourLangMeaning": "sự đăng ký nhập học",
+        "userNoteToSave": "Unit 6: Gender Equality"
+    },
+    {
+        "word": "equal",
+        "wordTypeArr": "(adj)",
+        "phoneticTxt": "ˈikwəl",
+        "yourLangMeaning": "ngang bằng",
+        "userNoteToSave": "Unit 6: Gender Equality"
+    },
+    {
+        "word": "equality",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ɪˈkwɑləti",
+        "yourLangMeaning": "ngang bằng, bình đẳng",
+        "userNoteToSave": "Unit 6: Gender Equality"
+    },
+    {
+        "word": "inequality",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˌɪnɪˈkwɑləti",
+        "yourLangMeaning": "không bình đẳng",
+        "userNoteToSave": "Unit 6: Gender Equality"
+    },
+    {
+        "word": "force",
+        "wordTypeArr": "(v)",
+        "phoneticTxt": "fɔrs",
+        "yourLangMeaning": "bắt buộc, ép buộc",
+        "userNoteToSave": "Unit 6: Gender Equality"
+    },
+    {
+        "word": "gender",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈʤɛndər",
+        "yourLangMeaning": "giới, giới tính",
+        "userNoteToSave": "Unit 6: Gender Equality"
+    },
+    {
+        "word": "government",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈgʌvərmənt",
+        "yourLangMeaning": "chính phủ",
+        "userNoteToSave": "Unit 6: Gender Equality"
+    },
+    {
+        "word": "income",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈɪnˌkʌm",
+        "yourLangMeaning": "thu thập",
+        "userNoteToSave": "Unit 6: Gender Equality"
+    },
+    {
+        "word": "limitation",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˌlɪmɪˈteɪʃən",
+        "yourLangMeaning": "hạn chế, giới hạn",
+        "userNoteToSave": "Unit 6: Gender Equality"
+    },
+    {
+        "word": "loneliness",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈloʊnlinəs",
+        "yourLangMeaning": "sự cô đơn",
+        "userNoteToSave": "Unit 6: Gender Equality"
+    },
+    {
+        "word": "opportunity",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˌɑpərˈtunəti",
+        "yourLangMeaning": "cơ hội ",
+        "userNoteToSave": "Unit 6: Gender Equality"
+    },
+    {
+        "word": "personal",
+        "wordTypeArr": "(adj)",
+        "phoneticTxt": "ˈpɜrsɪnɪl",
+        "yourLangMeaning": "cá nhân",
+        "userNoteToSave": "Unit 6: Gender Equality"
+    },
+    {
+        "word": "progress",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈprɑˌgrɛs",
+        "yourLangMeaning": "tiến bộ",
+        "userNoteToSave": "Unit 6: Gender Equality"
+    },
+    {
+        "word": "property",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈprɑpərti",
+        "yourLangMeaning": "tài sản",
+        "userNoteToSave": "Unit 6: Gender Equality"
+    },
+    {
+        "word": "pursue",
+        "wordTypeArr": "(v)",
+        "phoneticTxt": "pərˈsu",
+        "yourLangMeaning": "theo đuổi",
+        "userNoteToSave": "Unit 6: Gender Equality"
+    },
+    {
+        "word": "qualified",
+        "wordTypeArr": "(adj)",
+        "phoneticTxt": "ˈkwɑləˌfaɪd",
+        "yourLangMeaning": "đủ khả năng/ năng lực",
+        "userNoteToSave": "Unit 6: Gender Equality"
+    },
+    {
+        "word": "remarkable",
+        "wordTypeArr": "(adj)",
+        "phoneticTxt": "rɪˈmɑrkəbəl",
+        "yourLangMeaning": "đáng chú ý, khác thường",
+        "userNoteToSave": "Unit 6: Gender Equality"
+    },
+    {
+        "word": "right",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "raɪt",
+        "yourLangMeaning": "quyền lợi",
+        "userNoteToSave": "Unit 6: Gender Equality"
+    },
+    {
+        "word": "sue",
+        "wordTypeArr": "(v)",
+        "phoneticTxt": "su",
+        "yourLangMeaning": "kiện",
+        "userNoteToSave": "Unit 6: Gender Equality"
+    },
+    {
+        "word": "treatment",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈtritmənt",
+        "yourLangMeaning": "sự đối xử",
+        "userNoteToSave": "Unit 6: Gender Equality"
+    },
+    {
+        "word": "violent",
+        "wordTypeArr": "(adj)",
+        "phoneticTxt": "ˈvaɪələnt",
+        "yourLangMeaning": "có tính bạo lực, hung dữ",
+        "userNoteToSave": "Unit 6: Gender Equality"
+    },
+    {
+        "word": "violence",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈvaɪələns",
+        "yourLangMeaning": "bạo lực; dữ dội",
+        "userNoteToSave": "Unit 6: Gender Equality"
+    },
+    {
+        "word": "wage",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "weɪʤ",
+        "yourLangMeaning": "tiền lương",
+        "userNoteToSave": "Unit 6: Gender Equality"
+    },
+    {
+        "word": "workforce",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈwɜrkˌfɔrs",
+        "yourLangMeaning": "lực lượng lao động",
+        "userNoteToSave": "Unit 6: Gender Equality"
+    },
+    {
+        "word": "alert",
+        "wordTypeArr": "(adj)",
+        "phoneticTxt": "əˈlɜrt",
+        "yourLangMeaning": "tỉnh táo",
+        "userNoteToSave": "Unit 7: Cultural Diversity"
+    },
+    {
+        "word": "altar",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈɔltər",
+        "yourLangMeaning": "bàn thờ",
+        "userNoteToSave": "Unit 7: Cultural Diversity"
+    },
+    {
+        "word": "ancestor",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈænˌsɛstər",
+        "yourLangMeaning": "ông bà, tổ tiên",
+        "userNoteToSave": "Unit 7: Cultural Diversity"
+    },
+    {
+        "word": "Aquarius",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "əˈkwɛriəs",
+        "yourLangMeaning": "chòm sao/ cung Thủy bình",
+        "userNoteToSave": "Unit 7: Cultural Diversity"
+    },
+    {
+        "word": "Aries",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈɛriz",
+        "yourLangMeaning": "chòm sao/ cung Bạch dương",
+        "userNoteToSave": "Unit 7: Cultural Diversity"
+    },
+    {
+        "word": "assignment",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "əˈsaɪnmənt",
+        "yourLangMeaning": "bài tập lớn",
+        "userNoteToSave": "Unit 7: Cultural Diversity"
+    },
+    {
+        "word": "best man",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "bɛst mæn",
+        "yourLangMeaning": "phù rể",
+        "userNoteToSave": "Unit 7: Cultural Diversity"
+    },
+    {
+        "word": "bride",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "braɪd",
+        "yourLangMeaning": "cô dâu",
+        "userNoteToSave": "Unit 7: Cultural Diversity"
+    },
+    {
+        "word": "bridegroom/groom",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈbraɪdˌgrum/grum",
+        "yourLangMeaning": "chú rể",
+        "userNoteToSave": "Unit 7: Cultural Diversity"
+    },
+    {
+        "word": "bridesmaid",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈbraɪdzˌmeɪd",
+        "yourLangMeaning": "phù dâu",
+        "userNoteToSave": "Unit 7: Cultural Diversity"
+    },
+    {
+        "word": "Cancer",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈkænsər",
+        "yourLangMeaning": "chòm sao/ cung Cự giải",
+        "userNoteToSave": "Unit 7: Cultural Diversity"
+    },
+    {
+        "word": "Capricorn",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈkæprəkɔrn",
+        "yourLangMeaning": "chòm sao/ cung Ma kết",
+        "userNoteToSave": "Unit 7: Cultural Diversity"
+    },
+    {
+        "word": "complicated",
+        "wordTypeArr": "(adj)",
+        "phoneticTxt": "ˈkɑmpləˌkeɪtəd",
+        "yourLangMeaning": "phức tạp",
+        "userNoteToSave": "Unit 7: Cultural Diversity"
+    },
+    {
+        "word": "contrast",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈkɑntræst",
+        "yourLangMeaning": "sự tương phản, sự trái ngược",
+        "userNoteToSave": "Unit 7: Cultural Diversity"
+    },
+    {
+        "word": "contrast",
+        "wordTypeArr": "(v)",
+        "phoneticTxt": "ˈkɑntræst",
+        "yourLangMeaning": "tương phản, khác nhau",
+        "userNoteToSave": "Unit 7: Cultural Diversity"
+    },
+    {
+        "word": "crowded",
+        "wordTypeArr": "(adj)",
+        "phoneticTxt": "ˈkraʊdəd",
+        "yourLangMeaning": "đông đúc",
+        "userNoteToSave": "Unit 7: Cultural Diversity"
+    },
+    {
+        "word": "decent",
+        "wordTypeArr": "(adj)",
+        "phoneticTxt": "ˈdisənt",
+        "yourLangMeaning": "đàng hoàng, tử tế",
+        "userNoteToSave": "Unit 7: Cultural Diversity"
+    },
+    {
+        "word": "diversity",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "dɪˈvɜrsəti",
+        "yourLangMeaning": "sự da dạng, phong phú",
+        "userNoteToSave": "Unit 7: Cultural Diversity"
+    },
+    {
+        "word": "engaged",
+        "wordTypeArr": "(adj)",
+        "phoneticTxt": "ɛnˈgeɪʤd",
+        "yourLangMeaning": "đính hôn, đính ước",
+        "userNoteToSave": "Unit 7: Cultural Diversity"
+    },
+    {
+        "word": "engagement",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ɛnˈgeɪʤmənt",
+        "yourLangMeaning": "sự đính hôn, sự đính ước",
+        "userNoteToSave": "Unit 7: Cultural Diversity"
+    },
+    {
+        "word": "export",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈɛkspɔrt",
+        "yourLangMeaning": "sự xuất khẩu, hàng xuất",
+        "userNoteToSave": "Unit 7: Cultural Diversity"
+    },
+    {
+        "word": "export",
+        "wordTypeArr": "(v)",
+        "phoneticTxt": "ˈɛkspɔrt",
+        "yourLangMeaning": "xuất khẩu",
+        "userNoteToSave": "Unit 7: Cultural Diversity"
+    },
+    {
+        "word": "favourable",
+        "wordTypeArr": "(adj)",
+        "phoneticTxt": "favourable",
+        "yourLangMeaning": "thuận lợi",
+        "userNoteToSave": "Unit 7: Cultural Diversity"
+    },
+    {
+        "word": "fortune",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈfɔrʧən",
+        "yourLangMeaning": "vận may, sự giàu có",
+        "userNoteToSave": "Unit 7: Cultural Diversity"
+    },
+    {
+        "word": "funeral",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈfjunərəl",
+        "yourLangMeaning": "đám tang",
+        "userNoteToSave": "Unit 7: Cultural Diversity"
+    },
+    {
+        "word": "garter",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈgɑrtər",
+        "yourLangMeaning": "nịt bít bất",
+        "userNoteToSave": "Unit 7: Cultural Diversity"
+    },
+    {
+        "word": "Gemini",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈʤɛməˌnaɪ",
+        "yourLangMeaning": "chòm sao/ cung Song tử",
+        "userNoteToSave": "Unit 7: Cultural Diversity"
+    },
+    {
+        "word": "handkerchief",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈhæŋkərʧɪf",
+        "yourLangMeaning": "khăn tay",
+        "userNoteToSave": "Unit 7: Cultural Diversity"
+    },
+    {
+        "word": "high status",
+        "wordTypeArr": "(n.phr)",
+        "phoneticTxt": "haɪ ˈstætəs",
+        "yourLangMeaning": "có địa vị cao, có vị trí cao",
+        "userNoteToSave": "Unit 7: Cultural Diversity"
+    },
+    {
+        "word": "honeymoon",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈhʌniˌmun",
+        "yourLangMeaning": "tuần trăng mật",
+        "userNoteToSave": "Unit 7: Cultural Diversity"
+    },
+    {
+        "word": "horoscope",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈhɔrəˌskoʊp",
+        "yourLangMeaning": "số tử vi, cung Hoàng đạo",
+        "userNoteToSave": "Unit 7: Cultural Diversity"
+    },
+    {
+        "word": "import",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈɪmpɔrt",
+        "yourLangMeaning": "sự nhập khẩu, hàng nhập ",
+        "userNoteToSave": "Unit 7: Cultural Diversity"
+    },
+    {
+        "word": "import",
+        "wordTypeArr": "(v)",
+        "phoneticTxt": "ˈɪmpɔrt",
+        "yourLangMeaning": "nhập khẩu",
+        "userNoteToSave": "Unit 7: Cultural Diversity"
+    },
+    {
+        "word": "influence",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈɪnfluəns",
+        "yourLangMeaning": "sự ảnh hưởng",
+        "userNoteToSave": "Unit 7: Cultural Diversity"
+    },
+    {
+        "word": "legend",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈlɛʤənd",
+        "yourLangMeaning": "truyền thuyết, truyện cổ tích",
+        "userNoteToSave": "Unit 7: Cultural Diversity"
+    },
+    {
+        "word": "lentil",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈlɛntəl",
+        "yourLangMeaning": "đậu lăng, hạt đậu lăng",
+        "userNoteToSave": "Unit 7: Cultural Diversity"
+    },
+    {
+        "word": "Leo",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈlioʊ",
+        "yourLangMeaning": "chòm sao/ cung Sư tử",
+        "userNoteToSave": "Unit 7: Cultural Diversity"
+    },
+    {
+        "word": "Libra",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈlibrə",
+        "yourLangMeaning": "chòm sao/ cung Thiên bình",
+        "userNoteToSave": "Unit 7: Cultural Diversity"
+    },
+    {
+        "word": "life partner",
+        "wordTypeArr": "(n.phr)",
+        "phoneticTxt": "laɪf ˈpɑrtnər",
+        "yourLangMeaning": "bạn đời",
+        "userNoteToSave": "Unit 7: Cultural Diversity"
+    },
+    {
+        "word": "magpie",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈmægˌpaɪ",
+        "yourLangMeaning": "chim chích chòe",
+        "userNoteToSave": "Unit 7: Cultural Diversity"
+    },
+    {
+        "word": "majority",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "məˈʤɔrəti",
+        "yourLangMeaning": "phần lớn",
+        "userNoteToSave": "Unit 7: Cultural Diversity"
+    },
+    {
+        "word": "mystery",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈmɪstəri",
+        "yourLangMeaning": "điều huyền bí, bí ẩn",
+        "userNoteToSave": "Unit 7: Cultural Diversity"
+    },
+    {
+        "word": "object",
+        "wordTypeArr": "(v)",
+        "phoneticTxt": "ˈɑbʤɛkt",
+        "yourLangMeaning": "phản đối, chống lại",
+        "userNoteToSave": "Unit 7: Cultural Diversity"
+    },
+    {
+        "word": "object",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈɑbʤɛkt",
+        "yourLangMeaning": "đồ vật, vật thể",
+        "userNoteToSave": "Unit 7: Cultural Diversity"
+    },
+    {
+        "word": "Pisces",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈpaɪsiz",
+        "yourLangMeaning": "chòm sao/ cung Song ngư",
+        "userNoteToSave": "Unit 7: Cultural Diversity"
+    },
+    {
+        "word": "present",
+        "wordTypeArr": "(adj)",
+        "phoneticTxt": "ˈprɛzənt",
+        "yourLangMeaning": "có mặt, hiện tại",
+        "userNoteToSave": "Unit 7: Cultural Diversity"
+    },
+    {
+        "word": "present",
+        "wordTypeArr": "(v)",
+        "phoneticTxt": "ˈprɛzənt",
+        "yourLangMeaning": "đưa ra, trình bày",
+        "userNoteToSave": "Unit 7: Cultural Diversity"
+    },
+    {
+        "word": "present",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈprɛzənt",
+        "yourLangMeaning": "món quà",
+        "userNoteToSave": "Unit 7: Cultural Diversity"
+    },
+    {
+        "word": "prestigious",
+        "wordTypeArr": "(adj)",
+        "phoneticTxt": "prɛˈstɪʤəs",
+        "yourLangMeaning": "có uy tín, có thanh thế",
+        "userNoteToSave": "Unit 7: Cultural Diversity"
+    },
+    {
+        "word": "proposal",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "prəˈpoʊzəl",
+        "yourLangMeaning": "sự cầu hôn",
+        "userNoteToSave": "Unit 7: Cultural Diversity"
+    },
+    {
+        "word": "protest",
+        "wordTypeArr": "(n,v)",
+        "phoneticTxt": "ˈproʊˌtɛst",
+        "yourLangMeaning": "sự phản kháng, sự phản đối",
+        "userNoteToSave": "Unit 7: Cultural Diversity"
+    },
+    {
+        "word": "rebel",
+        "wordTypeArr": "(v,n)",
+        "phoneticTxt": "ˈrɛbəl",
+        "yourLangMeaning": "nổi loạn, chống đối",
+        "userNoteToSave": "Unit 7: Cultural Diversity"
+    },
+    {
+        "word": "ritual",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈrɪʧuəl",
+        "yourLangMeaning": "lễ nghi, nghi thức",
+        "userNoteToSave": "Unit 7: Cultural Diversity"
+    },
+    {
+        "word": "Sagittarius",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˌsædʒəˈtɛriəs",
+        "yourLangMeaning": "chòm sao/ cung Nhân mã",
+        "userNoteToSave": "Unit 7: Cultural Diversity"
+    },
+    {
+        "word": "Scorpio",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈskɔrpiˌoʊ",
+        "yourLangMeaning": "chòm sao/ cung Thiên yết",
+        "userNoteToSave": "Unit 7: Cultural Diversity"
+    },
+    {
+        "word": "soul",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "soʊl",
+        "yourLangMeaning": "linh hồn, tâm hồn",
+        "userNoteToSave": "Unit 7: Cultural Diversity"
+    },
+    {
+        "word": "superstition",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˌsupərˈstɪʃən",
+        "yourLangMeaning": "sự tín ngưỡng, mê tín",
+        "userNoteToSave": "Unit 7: Cultural Diversity"
+    },
+    {
+        "word": "superstitious",
+        "wordTypeArr": "(adj)",
+        "phoneticTxt": "ˌsupərˈstɪʃəs",
+        "yourLangMeaning": "mê tín",
+        "userNoteToSave": "Unit 7: Cultural Diversity"
+    },
+    {
+        "word": "sweep",
+        "wordTypeArr": "(v)",
+        "phoneticTxt": "swip",
+        "yourLangMeaning": "quét",
+        "userNoteToSave": "Unit 7: Cultural Diversity"
+    },
+    {
+        "word": "take place",
+        "wordTypeArr": "(v)",
+        "phoneticTxt": "teɪk pleɪs",
+        "yourLangMeaning": "diễn ra",
+        "userNoteToSave": "Unit 7: Cultural Diversity"
+    },
+    {
+        "word": "Taurus",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈtɔrəs",
+        "yourLangMeaning": "chòm sao/ cung Kim ngưu",
+        "userNoteToSave": "Unit 7: Cultural Diversity"
+    },
+    {
+        "word": "veil",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "veɪl",
+        "yourLangMeaning": "mạng che mặt",
+        "userNoteToSave": "Unit 7: Cultural Diversity"
+    },
+    {
+        "word": "venture",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈvɛnʧər",
+        "yourLangMeaning": "dự án hoặc công việc kinh doanh",
+        "userNoteToSave": "Unit 7: Cultural Diversity"
+    },
+    {
+        "word": "Virgo",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈvɜrgoʊ",
+        "yourLangMeaning": "chòm sao/ cung Xử nữ",
+        "userNoteToSave": "Unit 7: Cultural Diversity"
+    },
+    {
+        "word": "wealth",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "wɛlθ",
+        "yourLangMeaning": "sự giàu có, giàu sang, của cải",
+        "userNoteToSave": "Unit 7: Cultural Diversity"
+    },
+    {
+        "word": "wedding ceremony",
+        "wordTypeArr": "(n.phr)",
+        "phoneticTxt": "ˈwɛdɪŋ ˈsɛrəˌmoʊni",
+        "yourLangMeaning": "lễ cưới",
+        "userNoteToSave": "Unit 7: Cultural Diversity"
+    },
+    {
+        "word": "wedding reception",
+        "wordTypeArr": "(n.phr)",
+        "phoneticTxt": "ˈwɛdɪŋ rɪˈsɛpʃən",
+        "yourLangMeaning": "tiệc cưới ",
+        "userNoteToSave": "Unit 7: Cultural Diversity"
+    },
+    {
+        "word": "access",
+        "wordTypeArr": "(v)",
+        "phoneticTxt": "ˈækˌsɛs",
+        "yourLangMeaning": "truy cập",
+        "userNoteToSave": "Unit 8: New Ways to Learn"
+    },
+    {
+        "word": "application",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˌæpləˈkeɪʃən",
+        "yourLangMeaning": "ứng dụng",
+        "userNoteToSave": "Unit 8: New Ways to Learn"
+    },
+    {
+        "word": "concentrate",
+        "wordTypeArr": "(v)",
+        "phoneticTxt": "ˈkɑnsənˌtreɪt",
+        "yourLangMeaning": "tập trung",
+        "userNoteToSave": "Unit 8: New Ways to Learn"
+    },
+    {
+        "word": "device",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "dɪˈvaɪs",
+        "yourLangMeaning": "thiết bị",
+        "userNoteToSave": "Unit 8: New Ways to Learn"
+    },
+    {
+        "word": "digital",
+        "wordTypeArr": "(adj)",
+        "phoneticTxt": "ˈdɪʤətəl",
+        "yourLangMeaning": "kỹ thuật số",
+        "userNoteToSave": "Unit 8: New Ways to Learn"
+    },
+    {
+        "word": "disadvantage",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˌdɪsədˈvæntɪʤ",
+        "yourLangMeaning": "nhược/ khuyết điểm",
+        "userNoteToSave": "Unit 8: New Ways to Learn"
+    },
+    {
+        "word": "educate",
+        "wordTypeArr": "(v)",
+        "phoneticTxt": "ˈɛʤəˌkeɪt",
+        "yourLangMeaning": "giáo dục",
+        "userNoteToSave": "Unit 8: New Ways to Learn"
+    },
+    {
+        "word": "education",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˌɛʤəˈkeɪʃən",
+        "yourLangMeaning": "nền giáo dục",
+        "userNoteToSave": "Unit 8: New Ways to Learn"
+    },
+    {
+        "word": "educational",
+        "wordTypeArr": "(adj)",
+        "phoneticTxt": "ˌɛʤəˈkeɪʃənəl",
+        "yourLangMeaning": "có tính/thuộc giáo dục",
+        "userNoteToSave": "Unit 8: New Ways to Learn"
+    },
+    {
+        "word": "fingertip",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈfɪŋgərˌtɪp",
+        "yourLangMeaning": "đầu ngón tay",
+        "userNoteToSave": "Unit 8: New Ways to Learn"
+    },
+    {
+        "word": "identify",
+        "wordTypeArr": "(v)",
+        "phoneticTxt": "aɪˈdɛntəˌfaɪ",
+        "yourLangMeaning": "nhận dạng",
+        "userNoteToSave": "Unit 8: New Ways to Learn"
+    },
+    {
+        "word": "improve",
+        "wordTypeArr": "(v)",
+        "phoneticTxt": "ɪmˈpruv",
+        "yourLangMeaning": "cải thiện/tiến",
+        "userNoteToSave": "Unit 8: New Ways to Learn"
+    },
+    {
+        "word": "instruction",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ɪnˈstrʌkʃən",
+        "yourLangMeaning": "hướng/chỉ dẫn",
+        "userNoteToSave": "Unit 8: New Ways to Learn"
+    },
+    {
+        "word": "native",
+        "wordTypeArr": "(adj)",
+        "phoneticTxt": "ˈneɪtɪv",
+        "yourLangMeaning": "bản ngữ",
+        "userNoteToSave": "Unit 8: New Ways to Learn"
+    },
+    {
+        "word": "portable",
+        "wordTypeArr": "(adj)",
+        "phoneticTxt": "ˈpɔrtəbəl",
+        "yourLangMeaning": "xách tay",
+        "userNoteToSave": "Unit 8: New Ways to Learn"
+    },
+    {
+        "word": "software",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈsɔfˌtwɛr",
+        "yourLangMeaning": "phần mềm",
+        "userNoteToSave": "Unit 8: New Ways to Learn"
+    },
+    {
+        "word": "syllable",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈsɪləbəl",
+        "yourLangMeaning": "âm tiết",
+        "userNoteToSave": "Unit 8: New Ways to Learn"
+    },
+    {
+        "word": "technology",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "tɛkˈnɑləʤi",
+        "yourLangMeaning": "công nghệ",
+        "userNoteToSave": "Unit 8: New Ways to Learn"
+    },
+    {
+        "word": "touch screen",
+        "wordTypeArr": "(n.phr)",
+        "phoneticTxt": "tʌʧ skrin",
+        "yourLangMeaning": "màn hình cảm ứng",
+        "userNoteToSave": "Unit 8: New Ways to Learn"
+    },
+    {
+        "word": "voice recognition",
+        "wordTypeArr": "(n.phr)",
+        "phoneticTxt": "vɔɪs ˌrɛkəgˈnɪʃən",
+        "yourLangMeaning": "nhận dạng giọng nói",
+        "userNoteToSave": "Unit 8: New Ways to Learn"
+    },
+    {
+        "word": "aquatic",
+        "wordTypeArr": "(adj)",
+        "phoneticTxt": "əˈkwɑtɪk",
+        "yourLangMeaning": "dưới nước, sống ở trong nước",
+        "userNoteToSave": "Unit 9: Preserving the Environment"
+    },
+    {
+        "word": "article",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈɑrtəkəl",
+        "yourLangMeaning": "bài báo",
+        "userNoteToSave": "Unit 9: Preserving the Environment"
+    },
+    {
+        "word": "chemical",
+        "wordTypeArr": "(n)/(adj)",
+        "phoneticTxt": "ˈkɛməkəl",
+        "yourLangMeaning": "hóa chất, hóa học",
+        "userNoteToSave": "Unit 9: Preserving the Environment"
+    },
+    {
+        "word": "confuse",
+        "wordTypeArr": "(v)",
+        "phoneticTxt": "kənˈfjuz",
+        "yourLangMeaning": "làm lẫn lộn, nhầm lẫn",
+        "userNoteToSave": "Unit 9: Preserving the Environment"
+    },
+    {
+        "word": "confusion",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "kənˈfjuʒən",
+        "yourLangMeaning": "sự lẫn lộn, nhầm lẫn",
+        "userNoteToSave": "Unit 9: Preserving the Environment"
+    },
+    {
+        "word": "consumption",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "kənˈsʌmpʃən",
+        "yourLangMeaning": "sự tiêu thụ, tiêu dùng",
+        "userNoteToSave": "Unit 9: Preserving the Environment"
+    },
+    {
+        "word": "contaminate",
+        "wordTypeArr": "(v)",
+        "phoneticTxt": "kənˈtæməˌneɪt",
+        "yourLangMeaning": "làm bẩn, nhiễm",
+        "userNoteToSave": "Unit 9: Preserving the Environment"
+    },
+    {
+        "word": "damage",
+        "wordTypeArr": "(v)",
+        "phoneticTxt": "ˈdæməʤ",
+        "yourLangMeaning": "làm hại, làm hỏng",
+        "userNoteToSave": "Unit 9: Preserving the Environment"
+    },
+    {
+        "word": "deforestation",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "dɪˌfɔrɪˈsteɪʃən",
+        "yourLangMeaning": "sự phá rừng, sự phát quang",
+        "userNoteToSave": "Unit 9: Preserving the Environment"
+    },
+    {
+        "word": "degraded",
+        "wordTypeArr": "(adj)",
+        "phoneticTxt": "dɪˈgreɪdəd",
+        "yourLangMeaning": "giảm sút chất lượng",
+        "userNoteToSave": "Unit 9: Preserving the Environment"
+    },
+    {
+        "word": "deplete",
+        "wordTypeArr": "(v)",
+        "phoneticTxt": "dɪˈplit",
+        "yourLangMeaning": "làm suy yếu, cạn kiệt",
+        "userNoteToSave": "Unit 9: Preserving the Environment"
+    },
+    {
+        "word": "depletion",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "dɪˈpliʃən",
+        "yourLangMeaning": "sự suy yếu, cạn kiệt",
+        "userNoteToSave": "Unit 9: Preserving the Environment"
+    },
+    {
+        "word": "destruction",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "dɪˈstrʌkʃən",
+        "yourLangMeaning": "sự phá hủy, tiêu diệt",
+        "userNoteToSave": "Unit 9: Preserving the Environment"
+    },
+    {
+        "word": "ecosystem",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈikoʊˌsɪstəm",
+        "yourLangMeaning": "hệ sinh thái",
+        "userNoteToSave": "Unit 9: Preserving the Environment"
+    },
+    {
+        "word": "editor",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈɛdətər",
+        "yourLangMeaning": "biên tập viên",
+        "userNoteToSave": "Unit 9: Preserving the Environment"
+    },
+    {
+        "word": "fertilizer",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈfɜrtəˌlaɪzər",
+        "yourLangMeaning": "phân bón",
+        "userNoteToSave": "Unit 9: Preserving the Environment"
+    },
+    {
+        "word": "fossil fuel",
+        "wordTypeArr": "(n.phr)",
+        "phoneticTxt": "ˈfɑsəl ˈfjuəl",
+        "yourLangMeaning": "nhiên liệu hóa thạch (làm từ sự phân hủy của động vật hay thực vật tiền sử)",
+        "userNoteToSave": "Unit 9: Preserving the Environment"
+    },
+    {
+        "word": "global warming",
+        "wordTypeArr": "(n.phr)",
+        "phoneticTxt": "ˈgloʊbəl ˈwɔrmɪŋ",
+        "yourLangMeaning": "sự nóng lên toàn cầu",
+        "userNoteToSave": "Unit 9: Preserving the Environment"
+    },
+    {
+        "word": "greenhouse effect",
+        "wordTypeArr": "(n.phr)",
+        "phoneticTxt": "ˈgrinˌhaʊs ɪˈfɛkt",
+        "yourLangMeaning": "hiệu ứng nhà kính",
+        "userNoteToSave": "Unit 9: Preserving the Environment"
+    },
+    {
+        "word": "influence",
+        "wordTypeArr": "(v,n)",
+        "phoneticTxt": "ˈɪnfluəns",
+        "yourLangMeaning": "ảnh hưởng, tác dụng",
+        "userNoteToSave": "Unit 9: Preserving the Environment"
+    },
+    {
+        "word": "inorganic",
+        "wordTypeArr": "(adj)",
+        "phoneticTxt": "ɪnɔrˈgænɪk",
+        "yourLangMeaning": "vô cơ",
+        "userNoteToSave": "Unit 9: Preserving the Environment"
+    },
+    {
+        "word": "long-term",
+        "wordTypeArr": "(adj)",
+        "phoneticTxt": "ˈlɔŋˈtɜrm",
+        "yourLangMeaning": "dài hạn, lâu dài",
+        "userNoteToSave": "Unit 9: Preserving the Environment"
+    },
+    {
+        "word": "mass-media",
+        "wordTypeArr": "(n.phr)",
+        "phoneticTxt": "mæs-ˈmidiə",
+        "yourLangMeaning": "thông đại chúng",
+        "userNoteToSave": "Unit 9: Preserving the Environment"
+    },
+    {
+        "word": "pesticide",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈpɛstəˌsaɪd",
+        "yourLangMeaning": "thuốc trừ sâu",
+        "userNoteToSave": "Unit 9: Preserving the Environment"
+    },
+    {
+        "word": "polar ice melting",
+        "phoneticTxt": "ˈpoʊlər aɪs ˈmɛltɪŋ",
+        "yourLangMeaning": "sự tan băng ở địa cực",
+        "userNoteToSave": "Unit 9: Preserving the Environment"
+    },
+    {
+        "word": "pollute",
+        "wordTypeArr": "(v)",
+        "phoneticTxt": "pəˈlut",
+        "yourLangMeaning": "gây ô nhiễm",
+        "userNoteToSave": "Unit 9: Preserving the Environment"
+    },
+    {
+        "word": "pollutant",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "pəˈlutənt",
+        "yourLangMeaning": "chất ô nhiễm",
+        "userNoteToSave": "Unit 9: Preserving the Environment"
+    },
+    {
+        "word": "pollution",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "pəˈluʃən",
+        "yourLangMeaning": "sự ô nhiễm",
+        "userNoteToSave": "Unit 9: Preserving the Environment"
+    },
+    {
+        "word": "preserve",
+        "wordTypeArr": "(v)",
+        "phoneticTxt": "prəˈzɜrv",
+        "yourLangMeaning": "giữ gìn, bảo tồn",
+        "userNoteToSave": "Unit 9: Preserving the Environment"
+    },
+    {
+        "word": "preservation",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˌprɛzərˈveɪʃən",
+        "yourLangMeaning": "sự bảo tồn, duy trì",
+        "userNoteToSave": "Unit 9: Preserving the Environment"
+    },
+    {
+        "word": "protect",
+        "wordTypeArr": "(v)",
+        "phoneticTxt": "prəˈtɛkt",
+        "yourLangMeaning": "bảo vệ, che chở",
+        "userNoteToSave": "Unit 9: Preserving the Environment"
+    },
+    {
+        "word": "protection",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "prəˈtɛkʃən",
+        "yourLangMeaning": "sự bảo vệ, che chở",
+        "userNoteToSave": "Unit 9: Preserving the Environment"
+    },
+    {
+        "word": "sewage",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈsuəʤ",
+        "yourLangMeaning": "nước cống",
+        "userNoteToSave": "Unit 9: Preserving the Environment"
+    },
+    {
+        "word": "solution",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "səˈluʃən",
+        "yourLangMeaning": "giải pháp, cách giải quyết",
+        "userNoteToSave": "Unit 9: Preserving the Environment"
+    },
+    {
+        "word": "vegetation",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˌvɛʤəˈteɪʃən",
+        "yourLangMeaning": "cây cỏ, thực vật",
+        "userNoteToSave": "Unit 9: Preserving the Environment"
+    },
+    {
+        "word": "adapt",
+        "wordTypeArr": "(v)",
+        "phoneticTxt": "əˈdæpt",
+        "yourLangMeaning": "sửa lại cho phù hợp, thích nghi",
+        "userNoteToSave": "Unit 10: Ecotourism"
+    },
+    {
+        "word": "biosphere reserve",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈbaɪoʊˌsfɪr rɪˈzɜrv",
+        "yourLangMeaning": "khu dự trữ sinh quyển",
+        "userNoteToSave": "Unit 10: Ecotourism"
+    },
+    {
+        "word": "discharge",
+        "wordTypeArr": "(v)",
+        "phoneticTxt": "dɪsˈʧɑrʤ",
+        "yourLangMeaning": "thải ra, xả ra",
+        "userNoteToSave": "Unit 10: Ecotourism"
+    },
+    {
+        "word": "eco-friendly",
+        "wordTypeArr": "(adj)",
+        "phoneticTxt": "ˈikoʊ-ˈfrɛndli",
+        "yourLangMeaning": "thân thiện với môi trường",
+        "userNoteToSave": "Unit 10: Ecotourism"
+    },
+    {
+        "word": "ecology",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ɪˈkɑləʤi",
+        "yourLangMeaning": "hệ sinh thái",
+        "userNoteToSave": "Unit 10: Ecotourism"
+    },
+    {
+        "word": "ecotourism",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ecotourism",
+        "yourLangMeaning": "du lịch sinh thái",
+        "userNoteToSave": "Unit 10: Ecotourism"
+    },
+    {
+        "word": "entertain",
+        "wordTypeArr": "(v)",
+        "phoneticTxt": "ˌɛntərˈteɪn",
+        "yourLangMeaning": "tiếp đãi, giải trí",
+        "userNoteToSave": "Unit 10: Ecotourism"
+    },
+    {
+        "word": "exotic",
+        "wordTypeArr": "(adj)",
+        "phoneticTxt": "ɪgˈzɑtɪk",
+        "yourLangMeaning": "từ nước ngoài dựa vào; đẹp kì lạ",
+        "userNoteToSave": "Unit 10: Ecotourism"
+    },
+    {
+        "word": "fauna",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈfɔnə",
+        "yourLangMeaning": "hệ động vật",
+        "userNoteToSave": "Unit 10: Ecotourism"
+    },
+    {
+        "word": "flora",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈflɔrə",
+        "yourLangMeaning": "hệ thực vật",
+        "userNoteToSave": "Unit 10: Ecotourism"
+    },
+    {
+        "word": "impact",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈɪmpækt",
+        "yourLangMeaning": "ảnh hưởng",
+        "userNoteToSave": "Unit 10: Ecotourism"
+    },
+    {
+        "word": "sustainable",
+        "wordTypeArr": "(adj)",
+        "phoneticTxt": "səˈsteɪnəbəl",
+        "yourLangMeaning": "không gây hại cho môi trường; bền vững",
+        "userNoteToSave": "Unit 10: Ecotourism"
+    },
+    {
+        "word": "tour guide",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "tʊr gaɪd",
+        "yourLangMeaning": "hướng dẫn viên du lịch",
+        "userNoteToSave": "Unit 10: Ecotourism"
+    }
+]

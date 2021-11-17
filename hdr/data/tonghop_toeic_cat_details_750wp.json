@@ -1,0 +1,4306 @@
+[
+    {
+        "word": "acceptance",
+        "wordTypeArr": "n",
+        "phoneticTxt": "əkˈsɛptəns",
+        "yourLangMeaning": "sự chấp nhận",
+        "exampleEng": "Now that you have shown your acceptance of our offer, I will prepare the contract for you to sign.",
+        "exampleVn": "Bây giờ bạn đã thể hiện sự chấp nhận đề nghị của chúng tôi, tôi sẽ chuẩn bị hợp đồng để bạn ký."
+    },
+    {
+        "word": "agreement",
+        "wordTypeArr": "n",
+        "phoneticTxt": "əˈgriːmənt ",
+        "yourLangMeaning": "hợp đồng",
+        "exampleEng": "The two countries signed a trade agreement.",
+        "exampleVn": "Hai nước đã ký hiệp định thương mại."
+    },
+    {
+        "word": "amend",
+        "wordTypeArr": "v",
+        "phoneticTxt": "əˈmɛnd",
+        "yourLangMeaning": "sửa đổi, hiệu chỉnh",
+        "exampleEng": "Can we amend this part of the contract before we sign?",
+        "exampleVn": "Chúng tôi có thể sửa đổi phần này của hợp đồng trước khi chúng tôi ký không?"
+    },
+    {
+        "word": "amendment",
+        "wordTypeArr": "n",
+        "phoneticTxt": "əˈmɛndmənt ",
+        "yourLangMeaning": "sự sửa đổi, sự hiệu chỉnh",
+        "exampleEng": "I have made the amendments you wanted; would you like to sign it now?",
+        "exampleVn": "Tôi đã thực hiện các sửa đổi mà bạn muốn; bạn có muốn ký nó ngay bây giờ không?"
+    },
+    {
+        "word": "bind",
+        "wordTypeArr": "v",
+        "phoneticTxt": "baɪnd ",
+        "yourLangMeaning": "buộc, bó buộc, ràng buộc",
+        "exampleEng": "She cannot work for anyone else as she is bound by her contract.",
+        "exampleVn": "Cô ấy không thể làm việc cho bất kỳ ai khác vì cô ấy bị ràng buộc bởi hợp đồng của mình."
+    },
+    {
+        "word": "binding",
+        "wordTypeArr": "adj",
+        "phoneticTxt": "ˈbaɪndɪŋ ",
+        "yourLangMeaning": "ràng buộc",
+        "exampleEng": "The contract is legally binding.",
+        "exampleVn": "Hợp đồng có giá trị pháp lý ràng buộc."
+    },
+    {
+        "word": "breach",
+        "wordTypeArr": "n,v",
+        "phoneticTxt": "briːʧ ",
+        "yourLangMeaning": "sự vi phạm, vi phạm",
+        "exampleEng": "If you raise the price, that will be a breach of our contract.",
+        "exampleVn": "Nếu bạn tăng giá, điều đó sẽ vi phạm hợp đồng của chúng tôi."
+    },
+    {
+        "word": "clause",
+        "wordTypeArr": "n",
+        "phoneticTxt": "klɔːz ",
+        "yourLangMeaning": "điều khoản",
+        "exampleEng": "I want a clause put in the contract that says I will also get 5 percent of the profits.",
+        "exampleVn": "Tôi muốn một điều khoản ghi trong hợp đồng nói rằng tôi cũng sẽ nhận được 5% lợi nhuận."
+    },
+    {
+        "word": "contractual",
+        "wordTypeArr": "adj",
+        "phoneticTxt": "kənˈtræktjʊəl ",
+        "yourLangMeaning": "bằng hợp đồng",
+        "exampleEng": "We have a contractual agreement.",
+        "exampleVn": "Chúng tôi có một thỏa thuận hợp đồng."
+    },
+    {
+        "word": "currently",
+        "wordTypeArr": "adv",
+        "phoneticTxt": "ˈkʌrəntli ",
+        "yourLangMeaning": "hiện tại, hiện thời",
+        "exampleEng": "We are currently tied to another contract, but that will end early next year.",
+        "exampleVn": "Chúng tôi hiện đang ràng buộc với một hợp đồng khác, nhưng điều đó sẽ kết thúc vào đầu năm sau."
+    },
+    {
+        "word": "obligate",
+        "wordTypeArr": "v",
+        "phoneticTxt": "ˈɒblɪgeɪt ",
+        "yourLangMeaning": "bắt buộc",
+        "exampleEng": "You are obligated to buy our products for the next three years.",
+        "exampleVn": "Bạn có nghĩa vụ mua sản phẩm của chúng tôi trong ba năm tới."
+    },
+    {
+        "word": "obligation",
+        "wordTypeArr": "n",
+        "phoneticTxt": "ˌɒblɪˈgeɪʃən ",
+        "yourLangMeaning": "nghĩa vụ, bổn phận, trách nhiệm",
+        "exampleEng": "According to the contract, you have an obligation to pay.",
+        "exampleVn": "Theo hợp đồng, bạn có nghĩa vụ thanh toán."
+    },
+    {
+        "word": "oblige",
+        "wordTypeArr": "v",
+        "phoneticTxt": "əˈblaɪʤ ",
+        "yourLangMeaning": "bắt buộc, cưỡng chế",
+        "exampleEng": "The law obliges people to pay tax.",
+        "exampleVn": "Luật bắt buộc mọi người phải nộp thuế."
+    },
+    {
+        "word": "party",
+        "wordTypeArr": "n",
+        "phoneticTxt": "ˈpɑːti ",
+        "yourLangMeaning": "bên",
+        "exampleEng": "Both parties need to sign the contract.",
+        "exampleVn": "Cả hai bên cần phải ký hợp đồng."
+    },
+    {
+        "word": "persuasion",
+        "wordTypeArr": "n",
+        "phoneticTxt": "pəˈsweɪʒən ",
+        "yourLangMeaning": "sự thuyết phục",
+        "exampleEng": "It took a lot of persuasion to get her to sign.",
+        "exampleVn": "Phải thuyết phục rất nhiều để cô ấy ký."
+    },
+    {
+        "word": "protect",
+        "wordTypeArr": "v",
+        "phoneticTxt": "prəˈtɛkt ",
+        "yourLangMeaning": "bảo vệ",
+        "exampleEng": "The contract protects us both from any misunderstandings later.",
+        "exampleVn": "Hợp đồng bảo vệ cả hai chúng tôi khỏi mọi hiểu lầm sau này."
+    },
+    {
+        "word": "satisfy",
+        "wordTypeArr": "v",
+        "phoneticTxt": "ˈsætɪsfaɪ ",
+        "yourLangMeaning": "làm thỏa mãn, đáp ứng, tuân thủ",
+        "exampleEng": "You must satisfy the contract.",
+        "exampleVn": "Bạn phải thỏa mãn hợp đồng."
+    },
+    {
+        "word": "sign",
+        "wordTypeArr": "v,n",
+        "phoneticTxt": "saɪn ",
+        "yourLangMeaning": "ký, ký kết",
+        "exampleEng": "We just need to sign the contract now.",
+        "exampleVn": "Chúng tôi chỉ cần ký hợp đồng ngay bây giờ."
+    },
+    {
+        "word": "signature",
+        "wordTypeArr": "n",
+        "phoneticTxt": "ˈsɪgnɪʧə ",
+        "yourLangMeaning": "chữ ký",
+        "exampleEng": "Please put your signature at the bottom of the page.",
+        "exampleVn": "Vui lòng đặt chữ ký của bạn ở cuối trang."
+    },
+    {
+        "word": "accommodate",
+        "wordTypeArr": "v",
+        "phoneticTxt": "əˈkɒmədeɪt ",
+        "yourLangMeaning": "cung cấp, cung cấp chỗ ở",
+        "exampleEng": "Can you accommodate us with a better offer?",
+        "exampleVn": "Bạn có thể đáp ứng cho chúng tôi với một đề nghị tốt hơn?"
+    },
+    {
+        "word": "afford",
+        "wordTypeArr": "v",
+        "phoneticTxt": "əˈfɔːd ",
+        "yourLangMeaning": "có đủ khả năng, cố gắng",
+        "exampleEng": "I don’t think we can afford to hire a new employee until we get more clients.",
+        "exampleVn": "Tôi không nghĩ rằng chúng tôi có thể đủ khả năng để thuê một nhân viên mới cho đến khi chúng tôi có thêm khách hàng."
+    },
+    {
+        "word": "aggressive",
+        "wordTypeArr": "adj",
+        "phoneticTxt": "əˈgrɛsɪv ",
+        "yourLangMeaning": "đẩy mạnh, tăng cường, xông xáo, mạnh dạn",
+        "exampleEng": "New companies have to be arrgressive in promoting their products in order to break into the market.",
+        "exampleVn": "Các công ty mới phải mạnh dạn quảng bá sản phẩm của họ để thâm nhập thị trường."
+    },
+    {
+        "word": "apprehensive",
+        "wordTypeArr": "adj",
+        "phoneticTxt": "ˌæprɪˈhɛnsɪv ",
+        "yourLangMeaning": "lo lắng, lo âu, e ngại",
+        "exampleEng": "Leslie was a little apprehensive about being in charge of her first project, but she performed well .",
+        "exampleVn": "Leslie có chút e ngại khi chịu trách nhiệm cho dự án đầu tiên của mình, nhưng cô ấy đã thể hiện rất tốt."
+    },
+    {
+        "word": "bargain",
+        "wordTypeArr": "v,n",
+        "phoneticTxt": "ˈbɑːgɪn ",
+        "yourLangMeaning": "thương lượng, trả giá, sực mặc cả",
+        "exampleEng": "They are bargaining over the price right now.",
+        "exampleVn": "Họ đang mặc cả về giá cả ngay bây giờ."
+    },
+    {
+        "word": "compromise",
+        "wordTypeArr": "n,v",
+        "phoneticTxt": "ˈkɒmprəmaɪz ",
+        "yourLangMeaning": "nhất trí, thống nhất",
+        "exampleEng": "The two sides could not reach a compromise, so the meeting ended without resolving anything .",
+        "exampleVn": "Hai bên không thỏa hiệp được nên cuộc họp kết thúc mà không giải quyết được gì."
+    },
+    {
+        "word": "concede",
+        "wordTypeArr": "v",
+        "phoneticTxt": "kənˈsiːd ",
+        "yourLangMeaning": "thừa nhận, nhượng bộ",
+        "exampleEng": "After five years, the company had to concede that the project had been a failure.",
+        "exampleVn": "Sau năm năm, công ty phải thừa nhận rằng dự án đã thất bại."
+    },
+    {
+        "word": "consider",
+        "wordTypeArr": "v",
+        "phoneticTxt": "kənˈsɪdə ",
+        "yourLangMeaning": "xem xét",
+        "exampleEng": "Would you consider lowering the price ?",
+        "exampleVn": "Bạn có cân nhắc giảm giá không?"
+    },
+    {
+        "word": "delicately",
+        "wordTypeArr": "adv",
+        "phoneticTxt": "ˈdɛlɪkɪtli ",
+        "yourLangMeaning": "một cách tế nhị",
+        "exampleEng": "Grant delicately asked Jan about her divorce because he knew it was a sensitive subject.",
+        "exampleVn": "Grant tế nhị hỏi Jan về việc ly hôn của cô vì anh biết đó là một chủ đề nhạy cảm."
+    },
+    {
+        "word": "offer",
+        "wordTypeArr": "n,v",
+        "phoneticTxt": "ˈɒfə ",
+        "yourLangMeaning": "đề nghị, lời đề nghị",
+        "exampleEng": "Is that your final offer? I was hoping you might lower the price more than that.",
+        "exampleVn": "Đó có phải là đề nghị cuối cùng của bạn không? Tôi đã hy vọng bạn có thể giảm giá nhiều hơn thế."
+    },
+    {
+        "word": "offset",
+        "wordTypeArr": "v",
+        "phoneticTxt": "ɑːfˈset",
+        "yourLangMeaning": "bù cho, bù đắp (thiệt hại)",
+        "exampleEng": "The losses incurred by the luxury car division in the last quarter were offset by the increase in the sales of compacts.",
+        "exampleVn": "Khoản lỗ của mảng xe sang trong quý vừa qua được bù đắp bằng việc doanh số bán xe compact tăng."
+    },
+    {
+        "word": "strong",
+        "wordTypeArr": "adj",
+        "phoneticTxt": "strɒŋ ",
+        "yourLangMeaning": "mạnh",
+        "exampleEng": "They have a very strong position in the negotiations.",
+        "exampleVn": "Họ có một vị trí rất vững chắc trong các cuộc đàm phán."
+    },
+    {
+        "word": "commercial",
+        "wordTypeArr": "n, adj",
+        "phoneticTxt": "kəˈmɜːʃəl ",
+        "yourLangMeaning": "thuộc về thương mại; buổi phát thanh, phát hình quảng cáo",
+        "exampleEng": "Our new commercial will be shown on TV tonight.",
+        "exampleVn": "Quảng cáo mới của chúng tôi sẽ được chiếu trên TV vào tối nay."
+    },
+    {
+        "word": "compare",
+        "wordTypeArr": "v",
+        "phoneticTxt": "kəmˈpeə ",
+        "yourLangMeaning": "so sánh",
+        "exampleEng": "Customers will always compare your product with those of other companies.",
+        "exampleVn": "Khách hàng sẽ luôn so sánh sản phẩm của bạn với sản phẩm của các công ty khác."
+    },
+    {
+        "word": "consume",
+        "wordTypeArr": "v",
+        "phoneticTxt": "kənˈsjuːm ",
+        "yourLangMeaning": "tiêu thụ, tiêu dùng",
+        "exampleEng": "What kind of people consume our services?",
+        "exampleVn": "Loại người nào sử dụng dịch vụ của chúng tôi?"
+    },
+    {
+        "word": "direct marketing",
+        "wordTypeArr": "n",
+        "phoneticTxt": "dɪˈrɛkt ˈmɑːkɪtɪŋ",
+        "yourLangMeaning": "tiếp thị trực tiếp",
+        "exampleEng": "Using direct marketing, we were able to advertise our products to the people most likely to buy them.",
+        "exampleVn": "Sử dụng tiếp thị trực tiếp, chúng tôi có thể quảng cáo sản phẩm của mình cho những người có nhiều khả năng mua chúng nhất."
+    },
+    {
+        "word": "direct-response",
+        "wordTypeArr": "adj",
+        "phoneticTxt": "dɪˈrɛkt-rɪsˈpɒns",
+        "yourLangMeaning": "trả lời trực tiếp",
+        "exampleEng": "Direct-response advertising is very popular on the internet.",
+        "exampleVn": "Quảng cáo phản hồi trực tiếp rất phổ biến trên internet."
+    },
+    {
+        "word": "distribution",
+        "wordTypeArr": "n",
+        "phoneticTxt": "ˌdɪstrɪˈbjuːʃən ",
+        "yourLangMeaning": "sự phân phối",
+        "exampleEng": "We are planning for global distribution of our product.",
+        "exampleVn": "Chúng tôi đang lên kế hoạch cho việc phân phối toàn cầu sản phẩm của mình."
+    },
+    {
+        "word": "distributor",
+        "wordTypeArr": "n",
+        "phoneticTxt": "dɪsˈtrɪbjʊtə ",
+        "yourLangMeaning": "nhà phân phối, đại lý",
+        "exampleEng": "Contact the distributor and find out where we can buy this product.",
+        "exampleVn": "Liên hệ với nhà phân phối và tìm nơi chúng tôi có thể mua sản phẩm này."
+    },
+    {
+        "word": "fair trade",
+        "wordTypeArr": "n",
+        "phoneticTxt": "feə treɪd",
+        "yourLangMeaning": "hội chợ thương mại",
+        "exampleEng": "We buy our coffe directly from the farmer in Brazil, as we believe in fair-trade.",
+        "exampleVn": "Chúng tôi mua cà phê trực tiếp từ nông dân ở Brazil vì chúng tôi tin tưởng vào thương mại công bằng."
+    },
+    {
+        "word": "hook",
+        "wordTypeArr": "n",
+        "phoneticTxt": "hʊk ",
+        "yourLangMeaning": "cách, phương pháp",
+        "exampleEng": "The marketing hook for the movie The Blair Witch Project was making people believe that what happened was real and not acted.",
+        "exampleVn": "Móc tiếp thị cho bộ phim The Blair Witch Project là khiến mọi người tin rằng những gì đã xảy ra là có thật chứ không phải là hành động."
+    },
+    {
+        "word": "market",
+        "wordTypeArr": "v,n",
+        "phoneticTxt": "ˈmɑːkɪt ",
+        "yourLangMeaning": "tiếp thị, chợ",
+        "exampleEng": "They are marketing their product toward young females.",
+        "exampleVn": "Họ đang tiếp thị sản phẩm của mình cho phụ nữ trẻ."
+    },
+    {
+        "word": "merchandising",
+        "wordTypeArr": "n",
+        "phoneticTxt": "ˈmɜːʧəndaɪzɪŋ ",
+        "yourLangMeaning": "hoạt động bán hàng",
+        "exampleEng": "One kind of merchandising is to use popular movies to help sell food.",
+        "exampleVn": "Một loại hàng hóa là sử dụng các bộ phim nổi tiếng để giúp bán thực phẩm."
+    },
+    {
+        "word": "primarily",
+        "wordTypeArr": "adv",
+        "phoneticTxt": "ˈpraɪmərɪli ",
+        "yourLangMeaning": "chính yếu, chủ yếu",
+        "exampleEng": "Our customers are primarily women, but many men also buy our products.",
+        "exampleVn": "Khách hàng của chúng tôi chủ yếu là phụ nữ, nhưng nhiều nam giới cũng mua sản phẩm của chúng tôi."
+    },
+    {
+        "word": "reputation",
+        "wordTypeArr": "n",
+        "phoneticTxt": "ˌrɛpju(ː)ˈteɪʃən ",
+        "yourLangMeaning": "danh tiếng",
+        "exampleEng": "Customers will trust a company with a good reputation.",
+        "exampleVn": "Khách hàng sẽ tin tưởng một công ty có danh tiếng tốt."
+    },
+    {
+        "word": "satisfaction",
+        "wordTypeArr": "n",
+        "phoneticTxt": "ˌsætɪsˈfækʃən ",
+        "yourLangMeaning": "sự thỏa mãn, sự hài lòng",
+        "exampleEng": "Customer satisfaction is very important.",
+        "exampleVn": "Sự hài lòng của khách hàng là rất quan trọng."
+    },
+    {
+        "word": "strategy",
+        "wordTypeArr": "n",
+        "phoneticTxt": "ˈstrætɪʤi ",
+        "yourLangMeaning": "chiến lược, kế hoạch",
+        "exampleEng": "We need to think very carefully about our marketing strategy for this product .",
+        "exampleVn": "Chúng tôi cần suy nghĩ rất kỹ về chiến lược tiếp thị của mình cho sản phẩm này."
+    },
+    {
+        "word": "assurance",
+        "wordTypeArr": "n",
+        "phoneticTxt": "əˈʃʊərəns ",
+        "yourLangMeaning": "sự bảo đảm",
+        "exampleEng": "The salesman gave this assurance that the price would not go up.",
+        "exampleVn": "Người bán hàng đảm bảo rằng giá sẽ không tăng."
+    },
+    {
+        "word": "auction",
+        "wordTypeArr": "n",
+        "phoneticTxt": "ˈɔːkʃ(ə)n ",
+        "yourLangMeaning": "buổi đấu giá",
+        "exampleEng": "Sotheby’s announced that they would be selling a Monet painting in the May auction.",
+        "exampleVn": "Sotheby’s thông báo rằng họ sẽ bán một bức tranh của Monet trong cuộc đấu giá vào tháng Năm."
+    },
+    {
+        "word": "avoid",
+        "wordTypeArr": "v",
+        "phoneticTxt": "əˈvɔɪd ",
+        "yourLangMeaning": "tránh",
+        "exampleEng": "Try to avoid talking about the price until the very end .",
+        "exampleVn": "Cố gắng tránh nói về giá cả cho đến khi kết thúc."
+    },
+    {
+        "word": "boom",
+        "wordTypeArr": "v,n",
+        "phoneticTxt": "buːm ",
+        "yourLangMeaning": "phát triển thịnh vượng, tiếng nổ lớn",
+        "exampleEng": "During the 90s, the U.S. economy boomed in large part because of the expansion of the Internet.",
+        "exampleVn": "Trong những năm 90, nền kinh tế Hoa Kỳ bùng nổ một phần lớn là do sự mở rộng của Internet."
+    },
+    {
+        "word": "characteristic",
+        "wordTypeArr": "n",
+        "phoneticTxt": "ˌkærɪktəˈrɪstɪk ",
+        "yourLangMeaning": "đặc điểm, đặc tính",
+        "exampleEng": "Explain the characteristics of the product to the customer.",
+        "exampleVn": "Giải thích các đặc tính của sản phẩm cho khách hàng."
+    },
+    {
+        "word": "convince",
+        "wordTypeArr": "v",
+        "phoneticTxt": "kənˈvɪns ",
+        "yourLangMeaning": "thuyết phục",
+        "exampleEng": "You must convince the customer that your product is what he or she wants.",
+        "exampleVn": "Bạn phải thuyết phục khách hàng rằng sản phẩm của bạn là những gì họ muốn."
+    },
+    {
+        "word": "demonstrate",
+        "wordTypeArr": "v",
+        "phoneticTxt": "ˈdɛmənstreɪt ",
+        "yourLangMeaning": "chứng minh, mô tả",
+        "exampleEng": "Customers are more likely to buy if you demonstrate the product for them.",
+        "exampleVn": "Khách hàng có nhiều khả năng mua hơn nếu bạn giới thiệu sản phẩm cho họ."
+    },
+    {
+        "word": "evaluate",
+        "wordTypeArr": "v",
+        "phoneticTxt": "ɪˈvæljʊeɪt ",
+        "yourLangMeaning": "đánh giá",
+        "exampleEng": "It will help you make the sale if you first evaluate the mood of the customer.",
+        "exampleVn": "Nó sẽ giúp bạn bán được hàng nếu bạn đánh giá tâm trạng của khách hàng trước."
+    },
+    {
+        "word": "legitimate",
+        "wordTypeArr": "adj",
+        "phoneticTxt": "lɪˈʤɪtɪmɪt ",
+        "yourLangMeaning": "hợp pháp, chính thống",
+        "exampleEng": "Criminals with excess money often invest in legitimate businesses.",
+        "exampleVn": "Tội phạm thừa tiền thường đầu tư vào các doanh nghiệp hợp pháp."
+    },
+    {
+        "word": "promise",
+        "wordTypeArr": "v,n",
+        "phoneticTxt": "ˈprɒmɪs ",
+        "yourLangMeaning": "hứa, cam đoan, lời hứa",
+        "exampleEng": "Never promise the customer anything!",
+        "exampleVn": "Đừng bao giờ hứa với khách hàng bất cứ điều gì!"
+    },
+    {
+        "word": "specific",
+        "wordTypeArr": "adj",
+        "phoneticTxt": "spɪˈsɪfɪk ",
+        "yourLangMeaning": "riêng, đặc trưng, cụ thể",
+        "exampleEng": "Every customer has a specific need.",
+        "exampleVn": "Mỗi khách hàng có một nhu cầu cụ thể."
+    },
+    {
+        "word": "variety",
+        "wordTypeArr": "n",
+        "phoneticTxt": "vəˈraɪəti ",
+        "yourLangMeaning": "sự đa dạng",
+        "exampleEng": "We have a variety of products that would suit you.",
+        "exampleVn": "Chúng tôi có nhiều loại sản phẩm phù hợp với bạn."
+    },
+    {
+        "word": "address",
+        "wordTypeArr": "v",
+        "phoneticTxt": "əˈdrɛs",
+        "yourLangMeaning": "diễn thuyết với",
+        "exampleEng": "The speaker addressed the audience.",
+        "exampleVn": "Người nói phát biểu trước thính giả."
+    },
+    {
+        "word": "affiliate",
+        "wordTypeArr": "n",
+        "phoneticTxt": "əˈfɪlɪeɪt ",
+        "yourLangMeaning": "công ty con",
+        "exampleEng": "The organization is an affiliate of the Red Cross.",
+        "exampleVn": "Tổ chức là một chi nhánh của Hội Chữ thập đỏ."
+    },
+    {
+        "word": "attend",
+        "wordTypeArr": "v",
+        "phoneticTxt": "əˈtɛnd ",
+        "yourLangMeaning": "tham dự",
+        "exampleEng": "Five hundred businesspeople attended the conference.",
+        "exampleVn": "Năm trăm doanh nhân tham dự hội nghị."
+    },
+    {
+        "word": "attract",
+        "wordTypeArr": "v",
+        "phoneticTxt": "əˈtrækt ",
+        "yourLangMeaning": "thu hút",
+        "exampleEng": "The conference attracted businesspeople from all over the world .",
+        "exampleVn": "Hội nghị đã thu hút các doanh nhân từ khắp nơi trên thế giới."
+    },
+    {
+        "word": "cancellation",
+        "wordTypeArr": "n",
+        "phoneticTxt": "ˌkænsəˈleɪʃən ",
+        "yourLangMeaning": "sự hủy bỏ",
+        "exampleEng": "We are sorry to inform you of the cancellation of the conference.",
+        "exampleVn": "Chúng tôi rất tiếc phải thông báo với bạn về việc hủy bỏ hội nghị."
+    },
+    {
+        "word": "gather",
+        "wordTypeArr": "v",
+        "phoneticTxt": "ˈgæðə ",
+        "yourLangMeaning": "tập trung, tụ họp",
+        "exampleEng": "Thousands of managers are gathering in Taipei for the trade fair.",
+        "exampleVn": "Hàng nghìn nhà quản lý đang tập trung tại Đài Bắc cho hội chợ thương mại."
+    },
+    {
+        "word": "hold",
+        "wordTypeArr": "v",
+        "phoneticTxt": "həʊld ",
+        "yourLangMeaning": "tổ chức",
+        "exampleEng": "The meeting was held in Taipei.",
+        "exampleVn": "Cuộc họp được tổ chức tại Đài Bắc."
+    },
+    {
+        "word": "location",
+        "wordTypeArr": "n",
+        "phoneticTxt": "ləʊˈkeɪʃən ",
+        "yourLangMeaning": "địa điểm",
+        "exampleEng": "We need to find a good location for the convention.",
+        "exampleVn": "Chúng tôi cần tìm một địa điểm tốt cho đại hội."
+    },
+    {
+        "word": "productive",
+        "wordTypeArr": "adj",
+        "phoneticTxt": "prəˈdʌktɪv ",
+        "yourLangMeaning": "đạt năng suất, hiệu quả",
+        "exampleEng": "I thought the discussion was very productive.",
+        "exampleVn": "Tôi nghĩ rằng cuộc thảo luận rất hiệu quả."
+    },
+    {
+        "word": "session",
+        "wordTypeArr": "n",
+        "phoneticTxt": "ˈsɛʃən ",
+        "yourLangMeaning": "buổi, phiên, phiên họp",
+        "exampleEng": "The presentation will be given in two sessions: one in the morning, and the other in the afternoon.",
+        "exampleVn": "Bài thuyết trình sẽ được trình bày trong hai phiên: một vào buổi sáng và một vào buổi chiều."
+    },
+    {
+        "word": "arrangement",
+        "wordTypeArr": "n",
+        "phoneticTxt": "əˈreɪnʤmənt ",
+        "yourLangMeaning": "sự sắp xếp, sự giao kèo",
+        "exampleEng": "We have a special arrangement with the supplier, so we don't have to pay immediately.",
+        "exampleVn": "Chúng tôi có một thỏa thuận đặc biệt với nhà cung cấp, vì vậy chúng tôi không phải thanh toán ngay lập tức."
+    },
+    {
+        "word": "competition",
+        "wordTypeArr": "n",
+        "phoneticTxt": "ˌkɒmpɪˈtɪʃən ",
+        "yourLangMeaning": "sự cạnh tranh",
+        "exampleEng": "It is important to know who your competition will be .",
+        "exampleVn": "Điều quan trọng là phải biết đối thủ cạnh tranh của bạn sẽ là ai."
+    },
+    {
+        "word": "consequence",
+        "wordTypeArr": "n",
+        "phoneticTxt": "ˈkɒnsɪkwəns ",
+        "yourLangMeaning": "hậu quả, kết quả",
+        "exampleEng": "The consequence of not planning well is a business that does badly .",
+        "exampleVn": "Hệ quả của việc lập kế hoạch không tốt là một doanh nghiệp làm ăn tệ hại."
+    },
+    {
+        "word": "cover",
+        "wordTypeArr": "v",
+        "phoneticTxt": "ˈkʌvə ",
+        "yourLangMeaning": "bao gồm, bao hàm",
+        "exampleEng": "A good business plan should cover everything.",
+        "exampleVn": "Một kế hoạch kinh doanh tốt nên bao gồm tất cả mọi thứ."
+    },
+    {
+        "word": "designate",
+        "wordTypeArr": "v",
+        "phoneticTxt": "ˈdɛzɪgnɪt ",
+        "yourLangMeaning": "bổ nhiệm, chỉ định",
+        "exampleEng": "We voted last night, and designated Tom the spokesman for our group .",
+        "exampleVn": "Chúng tôi đã bỏ phiếu vào tối qua và chỉ định Tom là người phát ngôn cho nhóm của chúng tôi."
+    },
+    {
+        "word": "determine",
+        "wordTypeArr": "v",
+        "phoneticTxt": "dɪˈtɜːmɪn ",
+        "yourLangMeaning": "quyết định",
+        "exampleEng": "We have determined both our market and price.",
+        "exampleVn": "Chúng tôi đã xác định cả thị trường và giá cả của chúng tôi."
+    },
+    {
+        "word": "develop",
+        "wordTypeArr": "v",
+        "phoneticTxt": "dɪˈvɛləp ",
+        "yourLangMeaning": "phát triển",
+        "exampleEng": "We need to develop a strong sales team.",
+        "exampleVn": "Chúng tôi cần phát triển một đội ngũ bán hàng mạnh mẽ."
+    },
+    {
+        "word": "downsize",
+        "wordTypeArr": "v",
+        "phoneticTxt": "ˈdaʊnsaɪz ",
+        "yourLangMeaning": "cắt giảm nhân công",
+        "exampleEng": "With the economy having problems , a lot of companies have been forced to downsize to stay competitive .",
+        "exampleVn": "Với nền kinh tế đang gặp vấn đề, rất nhiều công ty đã buộc phải giảm quy mô để duy trì sức cạnh tranh."
+    },
+    {
+        "word": "enterprise",
+        "wordTypeArr": "n",
+        "phoneticTxt": "ˈɛntəpraɪz ",
+        "yourLangMeaning": "doanh nghiệp",
+        "exampleEng": "The city government offered grants in hopes of stimulating local enterprises.",
+        "exampleVn": "Chính quyền thành phố đề nghị tài trợ với hy vọng kích thích các doanh nghiệp địa phương."
+    },
+    {
+        "word": "entrepreneur",
+        "wordTypeArr": "n",
+        "phoneticTxt": "ˌɒntrəprəˈnɜː ",
+        "yourLangMeaning": "doanh nhân",
+        "exampleEng": "Donald Trump is one of the most famous entrepreneurs in the world.",
+        "exampleVn": "Donald Trump là một trong những doanh nhân nổi tiếng nhất thế giới."
+    },
+    {
+        "word": "establish",
+        "wordTypeArr": "v",
+        "phoneticTxt": "ɪsˈtæblɪʃ ",
+        "yourLangMeaning": "thiết lập, thành lập",
+        "exampleEng": "It isn’t easy establishing a new business.",
+        "exampleVn": "Không dễ để thành lập một doanh nghiệp mới."
+    },
+    {
+        "word": "expand",
+        "wordTypeArr": "v",
+        "phoneticTxt": "ɪksˈpænd ",
+        "yourLangMeaning": "mở rộng",
+        "exampleEng": "The company has recently found it difficult to expand its market base and reach new customers.",
+        "exampleVn": "Công ty gần đây gặp khó khăn trong việc mở rộng cơ sở thị trường và tiếp cận khách hàng mới."
+    },
+    {
+        "word": "fad",
+        "wordTypeArr": "n",
+        "phoneticTxt": "fæd ",
+        "yourLangMeaning": "mốt, kiểu thời trang, khuynh hướng",
+        "exampleEng": "A good businessperson will know all the latest fads .",
+        "exampleVn": "Một doanh nhân giỏi sẽ biết tất cả các mốt mới nhất."
+    },
+    {
+        "word": "franchise",
+        "wordTypeArr": "n",
+        "phoneticTxt": "ˈfrænʧaɪz ",
+        "yourLangMeaning": "đặc quyền, quyền ưu tiên",
+        "exampleEng": "The largest fast-food chains operate on the franchise system.",
+        "exampleVn": "Các chuỗi thức ăn nhanh lớn nhất hoạt động theo hệ thống nhượng quyền."
+    },
+    {
+        "word": "headquarters",
+        "wordTypeArr": "n",
+        "phoneticTxt": "ˈhɛdˈkwɔːtəz ",
+        "yourLangMeaning": "trụ sở",
+        "exampleEng": "The CEO promised to hold a press conference from the company headquarters in Chicago.",
+        "exampleVn": "Giám đốc điều hành hứa sẽ tổ chức một cuộc họp báo từ trụ sở công ty ở Chicago."
+    },
+    {
+        "word": "joint venture",
+        "wordTypeArr": "n",
+        "phoneticTxt": "ʤɔɪnt ˈvɛnʧə",
+        "yourLangMeaning": "liên doanh",
+        "exampleEng": "Most of the foreign investments in mainland China are joint ventures between foreign and local firms.",
+        "exampleVn": "Hầu hết các khoản đầu tư nước ngoài vào Trung Quốc đại lục là liên doanh giữa các công ty nước ngoài và địa phương."
+    },
+    {
+        "word": "mission",
+        "wordTypeArr": "n",
+        "phoneticTxt": "ˈmɪʃən ",
+        "yourLangMeaning": "sứ mệnh, công việc, nhiệm vụ",
+        "exampleEng": "This company’s goals are outlined in our mission statement.",
+        "exampleVn": "Mục tiêu của công ty này được nêu trong tuyên bố sứ mệnh của chúng tôi."
+    },
+    {
+        "word": "register",
+        "wordTypeArr": "v",
+        "phoneticTxt": "ˈrɛʤɪstə ",
+        "yourLangMeaning": "đăng ký",
+        "exampleEng": "You must register the business before you can start selling anything.",
+        "exampleVn": "Bạn phải đăng ký kinh doanh trước khi có thể bắt đầu bán bất cứ thứ gì."
+    },
+    {
+        "word": "require",
+        "wordTypeArr": "v",
+        "phoneticTxt": "rɪˈkwaɪə ",
+        "yourLangMeaning": "đòi hỏi, yêu cầu",
+        "exampleEng": "Most banks require some kind of ID before they will let you open an account.",
+        "exampleVn": "Hầu hết các ngân hàng đều yêu cầu một số loại ID trước khi cho phép bạn mở tài khoản."
+    },
+    {
+        "word": "risk",
+        "wordTypeArr": "n",
+        "phoneticTxt": "rɪsk ",
+        "yourLangMeaning": "rủi ro",
+        "exampleEng": "Starting a new business has its risks, but also many rewards.",
+        "exampleVn": "Bắt đầu một công việc kinh doanh mới có những rủi ro, nhưng cũng có nhiều phần thưởng."
+    },
+    {
+        "word": "capacity",
+        "wordTypeArr": "n",
+        "phoneticTxt": "kəˈpæsɪti",
+        "yourLangMeaning": "sức chứa, dung tích, năng suất",
+        "exampleEng": "The boardroom has a large seating capacity.",
+        "exampleVn": "Phòng họp của công ty có sức chưa lớn."
+    },
+    {
+        "word": "expose",
+        "wordTypeArr": "v",
+        "phoneticTxt": "ɪksˈpəʊz",
+        "yourLangMeaning": "phơi bày, bộc lộ",
+        "exampleEng": "The problem was exposed at the meeting.",
+        "exampleVn": "Vấn đề được phơi bày tại cuộc họp."
+    },
+    {
+        "word": "initiative",
+        "wordTypeArr": "n",
+        "phoneticTxt": "ɪˈnɪʃɪətɪv",
+        "yourLangMeaning": "sáng kiến",
+        "exampleEng": "I took the initiative of calling a meeting.",
+        "exampleVn": "Tôi bắt đầu kêu gọi cuộc họp."
+    },
+    {
+        "word": "mention",
+        "wordTypeArr": "v",
+        "phoneticTxt": "ˈmɛnʃən",
+        "yourLangMeaning": "đề cập",
+        "exampleEng": "I think what you said is important. Maybe you should mention it at the meeting.",
+        "exampleVn": "Tôi nghĩ những gì bạn nói là quan trọng. Có lẽ bạn nên đề cập nó tại buổi họp."
+    },
+    {
+        "word": "outlook",
+        "wordTypeArr": "n",
+        "phoneticTxt": "ˈaʊtlʊk",
+        "yourLangMeaning": "viễn cảnh, quan điểm",
+        "exampleEng": "With the appointment of a new CEO, the company's outlook has gotten better.",
+        "exampleVn": "Với việc bổ nhiệm giám đốc điều hành mới, viễn cảnh của công ty sẽ tốt hơn."
+    },
+    {
+        "word": "sharp",
+        "wordTypeArr": "adv",
+        "phoneticTxt": "ʃɑːp",
+        "yourLangMeaning": "chính xác",
+        "exampleEng": "The meeting starts at nine o'clock sharp, so don't be late.",
+        "exampleVn": "Cuộc họp bắt đầu lúc 9 giờ đúng, vì vậy đừng đến trễ."
+    },
+    {
+        "word": "appoint",
+        "wordTypeArr": "v",
+        "phoneticTxt": "əˈpɔɪnt",
+        "yourLangMeaning": "chọn, bổ nhiệm, chỉ định",
+        "exampleEng": "He had the most successful track record, so he was appointed head of the new project.",
+        "exampleVn": "Anh ấy có thành tích cá nhân thành công nhất, vì vậy anh ấy được chỉ định làm trưởng nhóm cho dự án mới."
+    },
+    {
+        "word": "association",
+        "wordTypeArr": "n",
+        "phoneticTxt": "əˌsəʊsɪˈeɪʃ(ə)n",
+        "yourLangMeaning": "sự hợp tác",
+        "exampleEng": "Our long-term association with your advertising firm has brought benefits to both sides.",
+        "exampleVn": "Sự hợp tác lâu dài của chúng tôi với công ty quảng cáo của bạn đã mang đến lợi ích cho cả hai bên."
+    },
+    {
+        "word": "colleague",
+        "wordTypeArr": "n",
+        "phoneticTxt": "ˈkɒliːg",
+        "yourLangMeaning": "đồng nghiệp",
+        "exampleEng": "My colleague would be happy to meet with you and answer any questions you have.",
+        "exampleVn": "Đồng nghiệp của tôi vui vẻ gặp và trả lời những thắc mắc của các bạn."
+    },
+    {
+        "word": "commitment",
+        "wordTypeArr": "n",
+        "phoneticTxt": "kəˈmɪtmənt",
+        "yourLangMeaning": "sự ủy thác, sự chuyển giao một dự luật",
+        "exampleEng": "The U.S army demands a four-year commitment from its enlistees.",
+        "exampleVn": "Quân đội Mỹ đòi hỏi sự chuyển giao 4 năm 1 lần từ những người có tên trên danh sách."
+    },
+    {
+        "word": "committee",
+        "wordTypeArr": "n",
+        "phoneticTxt": "kəˈmɪti",
+        "yourLangMeaning": "ủy ban",
+        "exampleEng": "Congresspeople all have to serve on committees that facilitate the evaluation of laws.",
+        "exampleVn": "Tất cả nghĩ sĩ quốc hội phải phục vụ trên những ủy ban tạo thuận tiện trong việc đánh giá các điều luật."
+    },
+    {
+        "word": "consensus",
+        "wordTypeArr": "n",
+        "phoneticTxt": "kənˈsɛnsəs",
+        "yourLangMeaning": "sự thống nhất, sự nhất trí",
+        "exampleEng": "By general consensus, Jerry was picked as the class president.",
+        "exampleVn": "Qua sự nhất trí chung. Jerry được bầy làm lớp trưởng của lớp."
+    },
+    {
+        "word": "discharge",
+        "wordTypeArr": "v",
+        "phoneticTxt": "dɪsˈʧɑːʤ",
+        "yourLangMeaning": "sa thải",
+        "exampleEng": "He was discharged after failing to meet company standards.",
+        "exampleVn": "Anh ta bị sa thải sau khi không đáp ứng được tiêu chuẩn của công ty."
+    },
+    {
+        "word": "executive",
+        "wordTypeArr": "n, adj",
+        "phoneticTxt": "ɪgˈzɛkjʊtɪv",
+        "yourLangMeaning": "người điều hành, giám đốc điều hành",
+        "exampleEng": "His ambition is to become an executive in a multinational corporation.",
+        "exampleVn": "Hoài bão của anh ta là trở thành giám đốc điều hành tạo một công ty đa quốc gia."
+    },
+    {
+        "word": "appreciation",
+        "wordTypeArr": "n",
+        "phoneticTxt": "əˌpriːʃɪˈeɪʃ(ə)n",
+        "yourLangMeaning": "sự biết ơn, sự đánh giá cao",
+        "exampleEng": "We need to send a letter of appreciation to the mayor for helping us out yesterday.",
+        "exampleVn": "Chúng ta cần gửi một lá thư cám ơn ông thị trưởng vì đã giúp đỡ chúng ta hôm qua."
+    },
+    {
+        "word": "authorization",
+        "wordTypeArr": "n",
+        "phoneticTxt": "ˌɔːθəraɪˈzeɪʃ(ə)n",
+        "yourLangMeaning": "sự ủy quyền",
+        "exampleEng": "We have gotten authorization from our boss to agree to your terms.",
+        "exampleVn": "Chúng tôi được ông chủ ủy quyền để chấp nhận các điều khoản của bạn"
+    },
+    {
+        "word": "branch",
+        "wordTypeArr": "n",
+        "phoneticTxt": "brɑːnʧ",
+        "yourLangMeaning": "nhánh, chi nhánh",
+        "exampleEng": "You can contact the company either at the main headquarters or the branch office nearest you.",
+        "exampleVn": "Bạn cần liên hệ với công ty tại trụ sở chính hoặc văn phòng chi nhánh gần bạn nhất."
+    },
+    {
+        "word": "bulletin",
+        "wordTypeArr": "n",
+        "phoneticTxt": "ˈbʊlɪtɪn",
+        "yourLangMeaning": "bản báo cáo, bản thông báo",
+        "exampleEng": "Justin posted a bulletin at the dorm that said he was looking for a new roommate.",
+        "exampleVn": "Justin đã dán một bản thông báo tại ký túc xá thông báo rằng anh ấy đang tìm một người bạn ở chung phòng mới."
+    },
+    {
+        "word": "correspondence",
+        "wordTypeArr": "n",
+        "phoneticTxt": "ˌkɒrɪsˈpɒndəns",
+        "yourLangMeaning": "sự liên lạc thư từ",
+        "exampleEng": "Most of the company's correspondence is now done by email.",
+        "exampleVn": "Hầu hết việc liên lạc của công ty bây giờ được thực hiện bằng thư điện tử."
+    },
+    {
+        "word": "delete",
+        "wordTypeArr": "v",
+        "phoneticTxt": "dɪˈliːt",
+        "yourLangMeaning": "xóa",
+        "exampleEng": "Can I delete these emails now?",
+        "exampleVn": "Bây giờ tôi có thể xóa những bức thư điện tử này chứ?"
+    },
+    {
+        "word": "disk",
+        "wordTypeArr": "n",
+        "phoneticTxt": "dɪsk",
+        "yourLangMeaning": "ổ đĩa",
+        "exampleEng": "Be sure to save all your files on a disk.",
+        "exampleVn": "Hãy đảm bảo lưu tất cả hồ sơ dữ liệu trên ổ đĩa"
+    },
+    {
+        "word": "forward",
+        "wordTypeArr": "adv",
+        "phoneticTxt": "ˈfɔːwəd",
+        "yourLangMeaning": "trước, phía trước",
+        "exampleEng": "Arguing about past mistakes does not help you move forward to success.",
+        "exampleVn": "Tranh cãi về những lỗi lầm trong quá khứ không giúp anh đạt được thành công phía trước."
+    },
+    {
+        "word": "glimpse",
+        "wordTypeArr": "n, v",
+        "phoneticTxt": "glɪmps",
+        "yourLangMeaning": "sự liếc nhìn thoáng qua, liếc qua",
+        "exampleEng": "I only had a glimpse of the tax, I'll read it properly now.",
+        "exampleVn": "Tôi chỉ mới liếc qua tờ fax, bây giờ tôi sẽ đọc chi tiết nó."
+    },
+    {
+        "word": "ignore",
+        "wordTypeArr": "v",
+        "phoneticTxt": "ɪgˈnɔː",
+        "yourLangMeaning": "phớt lờ, xao lãng",
+        "exampleEng": "You must answer the telephone, you can't keep ignoring it .",
+        "exampleVn": "Bạn phải trả lời điện thoại, bạn không thể phớt lờ hoài."
+    },
+    {
+        "word": "interaction",
+        "wordTypeArr": "n",
+        "phoneticTxt": "ˌɪntərˈækʃən",
+        "yourLangMeaning": "sự tương tác, sự giao tiếp",
+        "exampleEng": "Computers are more efficient, but customers often prefer interaction with real people.",
+        "exampleVn": "Máy tính có nhiều lợi ích nhưng khách hàng thường thích giao tiếp với người thật hơn."
+    },
+    {
+        "word": "letterhead",
+        "wordTypeArr": "n",
+        "phoneticTxt": "ˈlɛtəhɛd",
+        "yourLangMeaning": "giấy viết thư",
+        "exampleEng": "All correspondence with our clients must be put on company letterhead.",
+        "exampleVn": "Tất cả giao dịch bằng thư từ với khách hàng của chúng ta phải được viết trên giấy viết thư của công ty."
+    },
+    {
+        "word": "physically",
+        "wordTypeArr": "adv",
+        "phoneticTxt": "ˈfɪzɪkəli",
+        "yourLangMeaning": "về thân thể",
+        "exampleEng": "The good thing about emails is that you don't have to physically send them.",
+        "exampleVn": "Mặt tốt của thư điện tử là bạn không cần gửi chúng bằng sức người."
+    },
+    {
+        "word": "popularity",
+        "wordTypeArr": "n",
+        "phoneticTxt": "ˌpɒpjʊˈlærɪti",
+        "yourLangMeaning": "sự phổ biến",
+        "exampleEng": "Faxes are losing popularity as people prefer to send emails.",
+        "exampleVn": "Fax dần mất tính phổ biến khi người ta thích gửi bằng thư điện tử hơn."
+    },
+    {
+        "word": "provider",
+        "wordTypeArr": "n",
+        "phoneticTxt": "prəˈvaɪdə",
+        "yourLangMeaning": "nhà cung cấp",
+        "exampleEng": "The Internet provider will send you monthly bills.",
+        "exampleVn": "Nhà cung cấp dịch vụ Internet sẽ gửi hóa đơn hàng tháng cho bạn."
+    },
+    {
+        "word": "affordable",
+        "wordTypeArr": "adj",
+        "phoneticTxt": "əˈfɔːdəbl",
+        "yourLangMeaning": "đủ khả năng, đủ điều kiện, hữu dụng",
+        "exampleEng": "This computer system is very affordable.",
+        "exampleVn": "Hệ thống máy tính này rất hữu dụng."
+    },
+    {
+        "word": "allocate",
+        "wordTypeArr": "v",
+        "phoneticTxt": "ˈæləʊkeɪt",
+        "yourLangMeaning": "cấp cho, phân phát",
+        "exampleEng": "Every member of staff is allocated his or her own desk.",
+        "exampleVn": "Mỗi nhân viên được cấp một chiếc bàn làm việc."
+    },
+    {
+        "word": "assemble",
+        "wordTypeArr": "v",
+        "phoneticTxt": "əˈsɛmbl",
+        "yourLangMeaning": "họp lại, tụ tập, ráp",
+        "exampleEng": "The new desks have arrived, but we need to assemble them ourselves.",
+        "exampleVn": "Những chiếc bàn mới vừa đến nhưng chúng ta cần ráp chúng lại với nhau."
+    },
+    {
+        "word": "compatible",
+        "wordTypeArr": "adj",
+        "phoneticTxt": "kəmˈpætəbl",
+        "yourLangMeaning": "tương thích, tương hợp",
+        "exampleEng": "Are these printers compatible with our computer system?",
+        "exampleVn": "Những máy in này tương thích với hệ thống máy tính của bạn chứ?"
+    },
+    {
+        "word": "courier",
+        "wordTypeArr": "n",
+        "phoneticTxt": "ˈkʊrɪə",
+        "yourLangMeaning": "người đưa thư",
+        "exampleEng": "I am sending this package by courier right away, as it must arrive before noon.",
+        "exampleVn": "Tôi sẽ yêu cầu người đưa thư gửi kiện hàng này ngay lập tức vì nó phải đến trước buổi trưa."
+    },
+    {
+        "word": "durable",
+        "wordTypeArr": "adj",
+        "phoneticTxt": "ˈdjʊərəbl",
+        "yourLangMeaning": "bền",
+        "exampleEng": "The strong plastic makes these chairs very durable .",
+        "exampleVn": "Nhựa dẻo làm cho những chiêc ghế này rất bền."
+    },
+    {
+        "word": "express",
+        "wordTypeArr": "adj",
+        "phoneticTxt": "ɪksˈprɛs",
+        "yourLangMeaning": "nhanh, cấp tốc",
+        "exampleEng": "This letter needs to arrive tomorrow, so please send it by express delivery.",
+        "exampleVn": "Bức thư này cần đến vào ngày mai, vì thế hãy gửi nó cấp tốc."
+    },
+    {
+        "word": "fold",
+        "wordTypeArr": "v",
+        "phoneticTxt": "fəʊld",
+        "yourLangMeaning": "xếp, gấp (một tờ giấy)",
+        "exampleEng": "We should hire someone to fold all these letters and put them in the envelopes.",
+        "exampleVn": "Chúng ta nên thuê ai đó gấp những bức thư này và bỏ chúng vào phong bì."
+    },
+    {
+        "word": "layout",
+        "wordTypeArr": "n",
+        "phoneticTxt": "ˈleɪaʊt",
+        "yourLangMeaning": "cách bố trí, cách trình bày",
+        "exampleEng": "I'm working on the layout of the company newsletter.",
+        "exampleVn": "Tôi đang làm công việc trình bày bản tin cho công ty."
+    },
+    {
+        "word": "network",
+        "wordTypeArr": "n",
+        "phoneticTxt": "ˈnɛtwɜːk",
+        "yourLangMeaning": "hệ thống, mạng",
+        "exampleEng": "A computer network allows you to see files on other people's computers.",
+        "exampleVn": "Mạng máy vi tính cho phép bạn nhìn thấy tất cả hồ sơ trên máy tính người khác."
+    },
+    {
+        "word": "outdated",
+        "wordTypeArr": "adj",
+        "phoneticTxt": "aʊtˈdeɪtɪd",
+        "yourLangMeaning": "lỗi thời",
+        "exampleEng": "The computer system is outdated, we need to get a new one .",
+        "exampleVn": "Hệ thống máy tính này lỗi thời rồi, chúng ta cần có một hệ thống mới"
+    },
+    {
+        "word": "replace",
+        "wordTypeArr": "v",
+        "phoneticTxt": "rɪˈpleɪs",
+        "yourLangMeaning": "thay thế",
+        "exampleEng": "All the chair have been replaced with newer, more comfortable ones.",
+        "exampleVn": "Tất cả những chiếc ghế này cần được thay thế bằng những chiêc mới hơn, thoải mái hơn."
+    },
+    {
+        "word": "search",
+        "wordTypeArr": "v",
+        "phoneticTxt": "sɜːʧ",
+        "yourLangMeaning": "tìm kiếm, tra cứu",
+        "exampleEng": "We're searching for some good, cheap office furniture.",
+        "exampleVn": "Chúng tôi đang tìm một số đồ đạc văn phòng tốt mà rẻ."
+    },
+    {
+        "word": "software",
+        "wordTypeArr": "n",
+        "phoneticTxt": "ˈsɒftweə",
+        "yourLangMeaning": "phần mềm",
+        "exampleEng": "Purchasing software for all the computers can be very expensive.",
+        "exampleVn": "Mua phần mềm cho tất cả máy tính có thể rất tốn kèm."
+    },
+    {
+        "word": "access",
+        "wordTypeArr": "n",
+        "phoneticTxt": "ˈæksɛs",
+        "yourLangMeaning": "sự truy cập, lối vào",
+        "exampleEng": "We now have access to the Internet.",
+        "exampleVn": "Bây giờ chúng tôi truy cập Internet."
+    },
+    {
+        "word": "beforehand",
+        "wordTypeArr": "adv",
+        "phoneticTxt": "bɪˈfɔːhænd",
+        "yourLangMeaning": "trước, trước tiên",
+        "exampleEng": "If you need to take a day off, be sure to tell the manager beforehand.",
+        "exampleVn": "Nếu bạn cần nghỉ một ngày, chắc chắn phải nói trước với giám đốc"
+    },
+    {
+        "word": "code",
+        "wordTypeArr": "n",
+        "phoneticTxt": "kəʊd",
+        "yourLangMeaning": "mật mã, mã số, quy tắc",
+        "exampleEng": "We don't have a dress code in the office, but it's better to wear something smart.",
+        "exampleVn": "Chúng ta không cần phải ăn mặc đúng quy cách tại công sở, nhưng tốt hơn là chúng ta nên mặc đồ lịch sự."
+    },
+    {
+        "word": "complication",
+        "wordTypeArr": "n",
+        "phoneticTxt": "ˌkɒmplɪˈkeɪʃən",
+        "yourLangMeaning": "sự rắc rối, sự phức tạp",
+        "exampleEng": "To avoid complications, it's better to let the manager fix any problems that aren't part of your job.",
+        "exampleVn": "Để tránh những rắc rối, tốt hơn nên để giám đốc giải quyết những vấn đề không phải là việc của bạn."
+    },
+    {
+        "word": "display",
+        "wordTypeArr": "v",
+        "phoneticTxt": "dɪsˈpleɪ",
+        "yourLangMeaning": "phơi bày, trưng bày",
+        "exampleEng": "The office rules are displayed on the message board.",
+        "exampleVn": "Quy định của văn phòng được nêu rõ trên bảng dán thông báo."
+    },
+    {
+        "word": "duplicate",
+        "wordTypeArr": "n",
+        "phoneticTxt": "ˈdjuːplɪkɪt",
+        "yourLangMeaning": "bản sao",
+        "exampleEng": "Give the customer the original invoice and keep the duplicate for our records.",
+        "exampleVn": "Đưa cho khách hàng hóa đơn gốc và giữ lại bản sao để chúng ta lưu trữ."
+    },
+    {
+        "word": "facilitate",
+        "wordTypeArr": "v",
+        "phoneticTxt": "fəˈsɪlɪteɪt",
+        "yourLangMeaning": "tạo điều kiện thuận lợi",
+        "exampleEng": "An open office facilitates teamwork, one with many small offices and closed doors doesn't.",
+        "exampleVn": "Một văn phòng mở tạo điều kiện thuận lợi để làm việc theo nhóm, một văn phòng với nhiều văn phòng nhỏ và cửa đóng không làm được như vậy."
+    },
+    {
+        "word": "process",
+        "wordTypeArr": "n",
+        "phoneticTxt": "ˈprəʊsɛs",
+        "yourLangMeaning": "quy trình",
+        "exampleEng": "All staff must follow the same process for booking time off work.",
+        "exampleVn": "Tất cả nhân viên phải theo cùng một quy trình để xin nghỉ phép."
+    },
+    {
+        "word": "practice",
+        "wordTypeArr": "v",
+        "phoneticTxt": "ˈpræktɪs",
+        "yourLangMeaning": "thực hành, luyện tập",
+        "exampleEng": "Every three months, we practice what to do if there is a fire.",
+        "exampleVn": "Cứ 3 tháng 1 lần, chúng tôi luyện tập những việc phải làm nếu có hỏa hoạn."
+    },
+    {
+        "word": "reduction",
+        "wordTypeArr": "n",
+        "phoneticTxt": "rɪˈdʌkʃən",
+        "yourLangMeaning": "sự giảm xuống",
+        "exampleEng": "Recycling helped us achieve a big reduction in paper costs last year.",
+        "exampleVn": "Việc tái chế giúp chúng ta giảm đáng kể chi phí giấy vào năm ngoái"
+    },
+    {
+        "word": "revise",
+        "wordTypeArr": "v",
+        "phoneticTxt": "rɪˈvaɪz",
+        "yourLangMeaning": "sửa đổi",
+        "exampleEng": "The office rules are being revised, so we'll have new ones very soon .",
+        "exampleVn": "Những quy định của văn phòng được sửa đổi, vì thế chúng ta sẽ có những quy định mới ngay."
+    },
+    {
+        "word": "stock",
+        "wordTypeArr": "n",
+        "phoneticTxt": "stɒk",
+        "yourLangMeaning": "hàng tồn kho, kho hàng",
+        "exampleEng": "If you need any stock for your department, just ask your supervisor.",
+        "exampleVn": "Nếu bạn cần hàng cho ban của bạn, hãy hỏi người giám sát."
+    },
+    {
+        "word": "warning",
+        "wordTypeArr": "n",
+        "phoneticTxt": "ˈwɔːnɪŋ",
+        "yourLangMeaning": "lời cảnh báo",
+        "exampleEng": "If you keep breaking office rules, the manager will give you a written warning.",
+        "exampleVn": "Nếu bạn vẫn cứ vi phạm quy định của văn phòng, giám đốc sẽ cảnh báo bạn bằng văn bản."
+    },
+    {
+        "word": "verbally",
+        "wordTypeArr": "adv",
+        "phoneticTxt": "ˈvɜːbəli",
+        "yourLangMeaning": "bằng lời nói, bằng miệng",
+        "exampleEng": "Employees should be told in writing that they are being fired, but only after first being told verbally.",
+        "exampleVn": "Nhân viên được thông báo bằng văn bản rằng họ bị sa thải, nhưng chỉ sau khi họ được thông báo trước bằng miệng."
+    },
+    {
+        "word": "abundant",
+        "wordTypeArr": "adj",
+        "phoneticTxt": "əˈbʌndənt",
+        "yourLangMeaning": "phong phú, đa dạng, nhiều",
+        "exampleEng": "An abundant supply of willing workers drives the price of labor down.",
+        "exampleVn": "Lượng cung công nhân sẵn sàng làm việc phong phú làm cho giá cả lao động giảm xuống"
+    },
+    {
+        "word": "candidate",
+        "wordTypeArr": "n",
+        "phoneticTxt": "ˈkændɪˌdeɪt",
+        "yourLangMeaning": "thí sinh, ứng cử viên",
+        "exampleEng": "Only the best candidates will be invited to an interview.",
+        "exampleVn": "Chỉ có những ứng viên giỏi nhất mới được mời phỏng vấn"
+    },
+    {
+        "word": "generate",
+        "wordTypeArr": "v",
+        "phoneticTxt": "ˈʤɛnəreɪt",
+        "yourLangMeaning": "tạo, sản xuất",
+        "exampleEng": "The ad generated only a few applications.",
+        "exampleVn": "Quảng cáo đó chỉ tạo nên vài ứng dụng"
+    },
+    {
+        "word": "hire",
+        "wordTypeArr": "v",
+        "phoneticTxt": "ˈhaɪə",
+        "yourLangMeaning": "thuê, mướn",
+        "exampleEng": "We need to hire some more office staff.",
+        "exampleVn": "Chúng ta cần thuê thêm một số nhân viên văn phòng."
+    },
+    {
+        "word": "qualification",
+        "wordTypeArr": "n",
+        "phoneticTxt": "ˌkwɒlɪfɪˈkeɪʃən",
+        "yourLangMeaning": "phẩm chất, tiêu chuẩn, khả năng",
+        "exampleEng": "We will chose the person with the best qualifications for this position.",
+        "exampleVn": "Chúng ta cần chọn người có phẩm chất tốt nhát cho vị trí này."
+    },
+    {
+        "word": "recruit",
+        "wordTypeArr": "v",
+        "phoneticTxt": "rɪˈkruːt",
+        "yourLangMeaning": "tuyển chọn, tuyển dụng",
+        "exampleEng": "The company likes to recruit people straight out of school.",
+        "exampleVn": "Công ty thích tuyển người trực tiếp từ trường học."
+    },
+    {
+        "word": "eligible",
+        "wordTypeArr": "adj",
+        "phoneticTxt": "ˈɛlɪʤəbl",
+        "yourLangMeaning": "đủ điều kiện",
+        "exampleEng": "I'll be eligible for retirement next year.",
+        "exampleVn": "Tôi đủ điều kiện để về hưu vào năm sau."
+    },
+    {
+        "word": "loyal",
+        "wordTypeArr": "adj",
+        "phoneticTxt": "ˈlɔɪəl",
+        "yourLangMeaning": "trung thành",
+        "exampleEng": "You have been a loyal employee, having worked in our company for over forty years.",
+        "exampleVn": "Bạn là một nhân viên trung thành khi bạn làm việc tại công ty chúng tôi trên 40 năm."
+    },
+    {
+        "word": "mentor",
+        "wordTypeArr": "n",
+        "phoneticTxt": "ˈmɛntɔː",
+        "yourLangMeaning": "người cố vấn, quân sư",
+        "exampleEng": "I am so sad you are retiring because you are my mentor. Who will teach me now?",
+        "exampleVn": "Tôi rất buồn khi anh sắp về hưu vì anh là quân sư của tôi mà. Bây giờ ai sẽ dậy tôi đây?"
+    },
+    {
+        "word": "present",
+        "wordTypeArr": "v",
+        "phoneticTxt": "ˈprɛznt",
+        "yourLangMeaning": "tặng, biếu",
+        "exampleEng": "Harry's boss presented him with a gold watch on his retirement.",
+        "exampleVn": "Ông chủ của Harry tặng anh ấy một chiếc đồng hộ đeo tay bằng vàng khi anh ấy nghỉ hưu."
+    },
+    {
+        "word": "recognition",
+        "wordTypeArr": "n",
+        "phoneticTxt": "ˌrɛkəgˈnɪʃən",
+        "yourLangMeaning": "sự công nhận",
+        "exampleEng": "The company threw a retirement party for fim in recognition of his many years of hard work.",
+        "exampleVn": "Công ty tổ chức một bữa tiệc nghỉ hưu cho ông ấy để công nhận nhiều năm làm việc chăm chỉ của ông."
+    },
+    {
+        "word": "retire",
+        "wordTypeArr": "v",
+        "phoneticTxt": "rɪˈtaɪə",
+        "yourLangMeaning": "nghỉ hưu",
+        "exampleEng": "I hope I don't get bored when I retire.",
+        "exampleVn": "Tôi hy vọng mình không chán khi về hưu."
+    },
+    {
+        "word": "value",
+        "wordTypeArr": "v",
+        "phoneticTxt": "ˈvæljuː",
+        "yourLangMeaning": "đánh giá, xem xét",
+        "exampleEng": "We will miss Terry; we valued her as a coworker and a friend.",
+        "exampleVn": "Chúng ta sẽ nhớ Terry; chúng ta xem cô ấy như một người đồng nghiệp, một người bạn."
+    },
+    {
+        "word": "basis",
+        "wordTypeArr": "n",
+        "phoneticTxt": "ˈbeɪsɪs",
+        "yourLangMeaning": "nền tảng, căn cứ",
+        "exampleEng": "Your experience and qualifications are the basis for your starting salary.",
+        "exampleVn": "Kinh nghiệm và khả năng của bạn là căn cứ cho mức lương khởi điểm của bạn"
+    },
+    {
+        "word": "benefit",
+        "wordTypeArr": "n",
+        "phoneticTxt": "ˈbɛnɪfɪt",
+        "yourLangMeaning": "phúc lợi, tiền phụ cấp",
+        "exampleEng": "The salary is not very good, but the benefits are excellent.",
+        "exampleVn": "Lương không khá lắm nhưng phúc lợi thì tuyệt vời."
+    },
+    {
+        "word": "compensate",
+        "wordTypeArr": "v",
+        "phoneticTxt": "ˈkɒmpɛnseɪt",
+        "yourLangMeaning": "đền bù, bồi thường",
+        "exampleEng": "You will be compensated for any extra hours you work.",
+        "exampleVn": "Bạn sẽ được đền bù cho những giờ làm việc thêm."
+    },
+    {
+        "word": "constantly",
+        "wordTypeArr": "adv",
+        "phoneticTxt": "ˈkɒnstəntli",
+        "yourLangMeaning": "thường xuyên, liên tục",
+        "exampleEng": "She is constantly talking about her salary; she rarely talks about anything else!",
+        "exampleVn": "Cô ta thường xuyên nói về lương bổng của cô ta; cô ta hiếm khi nói gì khác!"
+    },
+    {
+        "word": "hesitant",
+        "wordTypeArr": "adj",
+        "phoneticTxt": "ˈhɛzɪtənt",
+        "yourLangMeaning": "do dự",
+        "exampleEng": "I was a little hesitant to ask for a pay raise because I had only been with the company for a few months.",
+        "exampleVn": "Tôi có một chút do dự để yêu cầu tăng lương vì tôi chỉ làm việc tại công ty được vài tháng."
+    },
+    {
+        "word": "match",
+        "wordTypeArr": "v",
+        "phoneticTxt": "mæʧ",
+        "yourLangMeaning": "làm bằng nhau, tương xứng",
+        "exampleEng": "I'm hoping you can match the salary I had with my last company.",
+        "exampleVn": "Tôi hy vọng bạn có thể đưa mức lương bằng mức lương của tôi ở công ty trước đây."
+    },
+    {
+        "word": "negotiate",
+        "wordTypeArr": "v",
+        "phoneticTxt": "nɪˈgəʊʃɪeɪt",
+        "yourLangMeaning": "thương lượng, đàm phán",
+        "exampleEng": "He's talking to the boss to try to negotiate a pay raise.",
+        "exampleVn": "Anh ấy nói chuyện với ông chủ để cố gắng đòi tăng lương."
+    },
+    {
+        "word": "obviously",
+        "wordTypeArr": "adv",
+        "phoneticTxt": "ˈɒbvɪəsli",
+        "yourLangMeaning": "rõ ràng",
+        "exampleEng": "She keeps asking for a pay raise; she obviously needs the money.",
+        "exampleVn": "Cô ấy cứ yêu cầu tăng lương; rõ ràng cô ấy cần tiền."
+    },
+    {
+        "word": "apprentice",
+        "wordTypeArr": "n",
+        "phoneticTxt": "əˈprɛntɪs",
+        "yourLangMeaning": "thực tập sinh",
+        "exampleEng": "Most skilled laborers learn their trade by becoming apprentices to more experienced people.",
+        "exampleVn": "Hầu hết những lao động giỏi học nghề của họ bằng cách trở thành thực tập sinh cho những người có nhiều kinh nghiệm hơn."
+    },
+    {
+        "word": "commensurate",
+        "wordTypeArr": "adj",
+        "phoneticTxt": "kəˈmɛnʃərɪt",
+        "yourLangMeaning": "cân xứng, tương xứng",
+        "exampleEng": "You will receive a new salary commensurate with the position.",
+        "exampleVn": "Bạn sẽ nhận một mức lương mới tương xứng với vị trí này."
+    },
+    {
+        "word": "conduct",
+        "wordTypeArr": "n",
+        "phoneticTxt": "ˈkɒndʌkt",
+        "yourLangMeaning": "tư cách đạo đức, cách chỉ đạo, cách quản lý",
+        "exampleEng": "She was given a promotion because of her excellent conduct at work.",
+        "exampleVn": "Cô ấy được thằng chức bởi vì cách quản lý tuyệt vời của cô ở công việc."
+    },
+    {
+        "word": "dedication",
+        "wordTypeArr": "b",
+        "phoneticTxt": "ˌdɛdɪˈkeɪʃən",
+        "yourLangMeaning": "sự cống hiến, sự đóng góp",
+        "exampleEng": "Her dedication to the job has finally earned her a promotion.",
+        "exampleVn": "Sự cống hiến cho công việc của cô ấy cuối cùng đã đem đến sự thăng chức cho cô ấy."
+    },
+    {
+        "word": "expert",
+        "wordTypeArr": "n",
+        "phoneticTxt": "ˈɛkspɜːt",
+        "yourLangMeaning": "chuyên gia",
+        "exampleEng": "You were chosen for the job because you are an expert on doing business in China.",
+        "exampleVn": "Bạn được chọn cho công việc này bởi vì bạn là chuyên gia về kinh doanh ở Trung Quốc"
+    },
+    {
+        "word": "promote",
+        "wordTypeArr": "v",
+        "phoneticTxt": "prəˈməʊt",
+        "yourLangMeaning": "đề bạt, thăng tiến",
+        "exampleEng": "She has recently been promoted to manager.",
+        "exampleVn": "Gần đây cô ấy được đề bạt làm giám đốc."
+    },
+    {
+        "word": "success",
+        "wordTypeArr": "n",
+        "phoneticTxt": "səkˈsɛs",
+        "yourLangMeaning": "sự thành công",
+        "exampleEng": "He got promoted again; he is such a success, isn't he?",
+        "exampleVn": "Anh ấy lại được thăng chức; anh ấy là một người thành công đúng không?"
+    },
+    {
+        "word": "vested",
+        "wordTypeArr": "adj",
+        "phoneticTxt": "ˈvɛstɪd",
+        "yourLangMeaning": "được trao cho, (thuộc) quyền sở hữu bất di bất dịch",
+        "exampleEng": "She had a vested interest in the company's success.",
+        "exampleVn": "Cô ấy được trao cho quyền lợi trong sự thành công của công ty."
+    },
+    {
+        "word": "accomplishment",
+        "wordTypeArr": "n",
+        "phoneticTxt": "əˈkɒmplɪʃmənt",
+        "yourLangMeaning": "thành tích, thành tựu",
+        "exampleEng": "What are some of you greatest accomplishments ?",
+        "exampleVn": "Vài thành tích nổi bật nhất của anh là gì?"
+    },
+    {
+        "word": "achievement",
+        "wordTypeArr": "n",
+        "phoneticTxt": "achievement",
+        "yourLangMeaning": "thành tự",
+        "exampleEng": "He is a man of many achievements, both in the business world and in his personal life.",
+        "exampleVn": "Anh ấy là người đàn ông có nhiều thành tựu, cả trong lĩnh vực kinh doanh và trong đời sống cá nhân."
+    },
+    {
+        "word": "apply",
+        "wordTypeArr": "v",
+        "phoneticTxt": "əˈplaɪ",
+        "yourLangMeaning": "nộp đơn, xin, thỉnh cầu",
+        "exampleEng": "Why don't you apply for the job?",
+        "exampleVn": "Tại sao bạn không nộp đơn cho công việc này?"
+    },
+    {
+        "word": "background",
+        "wordTypeArr": "n",
+        "phoneticTxt": "ˈbækgraʊnd",
+        "yourLangMeaning": "bố cảnh, quá trình đào tạo, nền tảng",
+        "exampleEng": "I currently work as an office manager, but my background is in engineering.",
+        "exampleVn": "Hiện tôi làm giám đốc văn phòng, nhưng nghành đào tạo của tôi là kỹ sư xây dựng."
+    },
+    {
+        "word": "confidence",
+        "wordTypeArr": "n",
+        "phoneticTxt": "ˈkɒnfɪdəns",
+        "yourLangMeaning": "sự tin tưởng, lòng tin",
+        "exampleEng": "I can see you certainly have enough confidence for the position, but do you have the experience?",
+        "exampleVn": "Tôi có thể thấy được bạn có đủ sự tự tin cho vị trí này, nhưng bạn có kinh nghiệm không?"
+    },
+    {
+        "word": "contribute",
+        "wordTypeArr": "v",
+        "phoneticTxt": "kənˈtrɪbju(ː)t",
+        "yourLangMeaning": "đóng góp",
+        "exampleEng": "With my experience, I feel I can contribute a lot to the company's success.",
+        "exampleVn": "Với kinh nghiệm của tôi, tôi nhận thấy mình có thể đóng góp nhiều cho sự thành công của công ty."
+    },
+    {
+        "word": "merit",
+        "wordTypeArr": "n",
+        "phoneticTxt": "ˈmɛrɪt",
+        "yourLangMeaning": "sự xuất sắc, sự xứng đáng",
+        "exampleEng": "Your resume lists all your merits, but tell me what you think your biggest fault is.",
+        "exampleVn": "Bản sơ yếu lý lịch của bạn liệt kê tất cả những phẩm chất xuất sắc của bạn, nhưng hãy cho tôi biết bạn nghĩa điểm yếu lớn nhất của bạn là gì?"
+    },
+    {
+        "word": "profile",
+        "wordTypeArr": "n",
+        "phoneticTxt": "ˈprəʊfaɪl",
+        "yourLangMeaning": "sự mô tả sơ lược",
+        "exampleEng": "Please include a short profile with your resume.",
+        "exampleVn": "Vui lòng bao gồm sự mô tả ngắn cùng với sơ yếu lý lịch của bạn."
+    },
+    {
+        "word": "reject",
+        "wordTypeArr": "v",
+        "phoneticTxt": "ˈriːʤɛkt",
+        "yourLangMeaning": "từ chối, bác bỏ",
+        "exampleEng": "His application was rejected because he doesn't have a college degree.",
+        "exampleVn": "Đơn xin việc của anh ấy bị bác bỏ vì anh ấy không có bằng đại học."
+    },
+    {
+        "word": "submit",
+        "wordTypeArr": "v",
+        "phoneticTxt": "səbˈmɪt",
+        "yourLangMeaning": "đệ trình, nộp",
+        "exampleEng": "Please submit your application before February 28th.",
+        "exampleVn": "Vui lòng nộp đơn xin việc của bạn trước ngày 28 tháng Hai."
+    },
+    {
+        "word": "time-consuming",
+        "wordTypeArr": "adj",
+        "phoneticTxt": "ˈtaɪmkənˈsjuːmɪŋ",
+        "yourLangMeaning": "tốn thời gian",
+        "exampleEng": "Reading all the applications can be so time-consuming.",
+        "exampleVn": "Đọc tất cả đơn xin việc có thể rất tốn nhiều thời gian."
+    },
+    {
+        "word": "training",
+        "wordTypeArr": "n",
+        "phoneticTxt": "ˈtreɪnɪŋ",
+        "yourLangMeaning": "sự đào tạo",
+        "exampleEng": "We provide training for the job, so it's OK if you don't have experience.",
+        "exampleVn": "Chúng tôi sẽ đào tạo cho công việc này, vì thế nếu bạn không có kinh nghiệm cũng không sao."
+    },
+    {
+        "word": "update",
+        "wordTypeArr": "v",
+        "phoneticTxt": "ʌpˈdeɪt",
+        "yourLangMeaning": "cập nhật, cung cấp thông tin mới nhất cho ai",
+        "exampleEng": "Your resume only goes up to the end of last year; can you update me on what you have been doing recently?",
+        "exampleVn": "Sơ yếu lý lịch của bạn chỉ nêu đến cuối năm ngoái, bạn có thể cung cấp cho tôi những gì bạn đã làm gần đây chứ?"
+    },
+    {
+        "word": "wage",
+        "wordTypeArr": "n",
+        "phoneticTxt": "weɪʤ",
+        "yourLangMeaning": "tiền công",
+        "exampleEng": "I want a fair wage for this new position.",
+        "exampleVn": "Tôi muốn tiền lương công bằng cho vị trí mới này."
+    },
+    {
+        "word": "allowance",
+        "wordTypeArr": "n",
+        "phoneticTxt": "əˈlaʊəns",
+        "yourLangMeaning": "sự cho phép, tiền phụ cấp",
+        "exampleEng": "You have to check with the airline to find out their weight allowance.",
+        "exampleVn": "Bạn phải kiểm tra với công ty hàng không để biết trong lượng cho phép"
+    },
+    {
+        "word": "checkout",
+        "wordTypeArr": "n",
+        "phoneticTxt": "ˈʧəkˈaʊt",
+        "yourLangMeaning": "việc trả tiền để rời khỏi khách sạn",
+        "exampleEng": "I got to the checkout and then found that I didn't have any money on me!",
+        "exampleVn": "Tôi phải trả tiền để rời khỏi khách sạn và rồi tôi phát hiện mình không mang theo tiền"
+    },
+    {
+        "word": "customer",
+        "wordTypeArr": "n",
+        "phoneticTxt": "ˈkʌstəmə",
+        "yourLangMeaning": "khách hàng",
+        "exampleEng": "If a store has no customers, it will make no money.",
+        "exampleVn": "Nếu một của hàng không có khách hàng thì nó không kiếm được tiền."
+    },
+    {
+        "word": "item",
+        "wordTypeArr": "n",
+        "phoneticTxt": "ˈaɪtəm",
+        "yourLangMeaning": "khoản mục, món hàng",
+        "exampleEng": "I only have two items; can I go in front of you?",
+        "exampleVn": "Tôi chỉ có 2 món, tôi có thể đi trước bạn không?"
+    },
+    {
+        "word": "obtain",
+        "wordTypeArr": "v",
+        "phoneticTxt": "əbˈteɪn",
+        "yourLangMeaning": "thu được, kiếm được, giành được",
+        "exampleEng": "I need to obtain a free parking ticket.",
+        "exampleVn": "Tôi cần đạt được chiếc vé đậu xe miễn phí."
+    },
+    {
+        "word": "prerequisite",
+        "wordTypeArr": "n",
+        "phoneticTxt": "ˌpriːˈrɛkwɪzɪt",
+        "yourLangMeaning": "điều bắt buộc trước nhất, điều chủ yếu",
+        "exampleEng": "Knowing what you want and how much you want to pay is a prerequisite to a happy shopping experience.",
+        "exampleVn": "Biết những gì bạn muốn và bao nhiêu tiền bạn muốn trả là điều chủ yếu nhất để có một trải nghiệm mua sắm vui vẻ."
+    },
+    {
+        "word": "quality",
+        "wordTypeArr": "n",
+        "phoneticTxt": "ˈkwɒlɪti",
+        "yourLangMeaning": "chất lượng",
+        "exampleEng": "Usually, a cheaper price means poorer quality.",
+        "exampleVn": "Thường thường, giá rẻ hơn đồng nghĩa với chất lượng kém hơn."
+    },
+    {
+        "word": "scan",
+        "wordTypeArr": "v",
+        "phoneticTxt": "skæn",
+        "yourLangMeaning": "quét qua",
+        "exampleEng": "If the price label won't scan properly, you'll have to type in the price by hand.",
+        "exampleVn": "Nếu nhãn giá không thể quét được, bạn sẽ phải đánh máy giá cả bằng tay."
+    },
+    {
+        "word": "trend",
+        "wordTypeArr": "n",
+        "phoneticTxt": "trɛnd",
+        "yourLangMeaning": "khuynh hướng",
+        "exampleEng": "Shopping trends show what kinds of things people buy and when.",
+        "exampleVn": "Khuynh hướng mua sắm cho biết loại hàng hóa nào người ta mua và khi nào mua."
+    },
+    {
+        "word": "automatically",
+        "wordTypeArr": "adv",
+        "phoneticTxt": "ˌɔːtəˈmætɪkəli",
+        "yourLangMeaning": "một cách tự động",
+        "exampleEng": "Our computer system automatically tells us when we need to order more supplies.",
+        "exampleVn": "Hệ thống máy tính của chúng ta tự động báo khi nào chúng ta cần đặt mua nhiều hàng cung cấp hơn."
+    },
+    {
+        "word": "catalog",
+        "wordTypeArr": "n",
+        "phoneticTxt": "ˈkætəlɒg",
+        "yourLangMeaning": "sách in kiểu mẫu và giá tiền",
+        "exampleEng": "I would like to order something I saw in your catalog.",
+        "exampleVn": "Tôi muốn đặt mua vài thứ tôi thấy trong catalog của bạn."
+    },
+    {
+        "word": "crucial",
+        "wordTypeArr": "adj",
+        "phoneticTxt": "ˈkruːʃəl",
+        "yourLangMeaning": "quan trọng, thiết yếu",
+        "exampleEng": "It's crucial that we receive these supplies before Christmas.",
+        "exampleVn": "Điều quan trọng là chúng tôi phải nhận được những hàng hóa này trước lễ Giáng Sinh."
+    },
+    {
+        "word": "fulfill",
+        "wordTypeArr": "v",
+        "phoneticTxt": "fʊlˈfɪl",
+        "yourLangMeaning": "hoàn thành",
+        "exampleEng": "Will you be able to fulfill our order?",
+        "exampleVn": "Bạn có thể hoàn thành đơn đặt hàng này không?"
+    },
+    {
+        "word": "inventory",
+        "wordTypeArr": "n",
+        "phoneticTxt": "ˈɪnvəntri",
+        "yourLangMeaning": "bản kiểm kê hàng hóa",
+        "exampleEng": "I have taken inventory to see what supplies we need to order.",
+        "exampleVn": "Tôi kiểm kê hàng hóa để xem chúng tôi cần đặt những hàng hóa nào."
+    },
+    {
+        "word": "maintain",
+        "wordTypeArr": "v",
+        "phoneticTxt": "meɪnˈteɪn",
+        "yourLangMeaning": "duy trì, bảo trì",
+        "exampleEng": "You can usually get better prices and service if you maintain a good relationship with the supplier.",
+        "exampleVn": "Bạn thường có thể nhận giá cả và dịch vụ tốt hơn nếu bạn duy trì quan hệ tốt với nhà cung cấp."
+    },
+    {
+        "word": "order",
+        "wordTypeArr": "v",
+        "phoneticTxt": "ˈɔːdə",
+        "yourLangMeaning": "đặt hàng",
+        "exampleEng": "If we order the pens today, when will we receive them?",
+        "exampleVn": "Nếu hôm nay chúng tôi đặt mua viết thì khi nào chúng tôi sẽ nhận chúng?"
+    },
+    {
+        "word": "promptly",
+        "wordTypeArr": "adv",
+        "phoneticTxt": "ˈprɒmptli",
+        "yourLangMeaning": "nhanh chóng, ngay lập tức",
+        "exampleEng": "I ordered the supplies and they promptly arrived the next day.",
+        "exampleVn": "Tôi đặt hàng và chúng ngay lập tức đến vào ngày hôm sau."
+    },
+    {
+        "word": "rectify",
+        "wordTypeArr": "v",
+        "phoneticTxt": "ˈrɛktɪfaɪ",
+        "yourLangMeaning": "chỉnh sửa, hiệu đính",
+        "exampleEng": "You sent us the wrong order. How will you rectify the situation?",
+        "exampleVn": "Bạn đã gửi đơn hàng sai cho chúng tôi. Bạn sẽ sửa đổi tình trạng này như thế nào?"
+    },
+    {
+        "word": "remember",
+        "wordTypeArr": "v",
+        "phoneticTxt": "rɪˈmɛmbə",
+        "yourLangMeaning": "nhớ, ghi nhớ",
+        "exampleEng": "Did you remember to order the copy paper?",
+        "exampleVn": "Bạn có nhớ đặt mua giấy copy không?"
+    },
+    {
+        "word": "stationery",
+        "wordTypeArr": "n",
+        "phoneticTxt": "ˈsteɪʃnəri",
+        "yourLangMeaning": "văn phòng phẩm",
+        "exampleEng": "I need some more stationery: just some paper and pens.",
+        "exampleVn": "Tôi cần thêm văn phòng phẩm: chỉ giấy và bút."
+    },
+    {
+        "word": "sufficiently",
+        "wordTypeArr": "adv",
+        "phoneticTxt": "səˈfɪʃəntli",
+        "yourLangMeaning": "đầy đủ",
+        "exampleEng": "The defects resulted from the workers not being sufficiently trained.",
+        "exampleVn": "Sai sót do từ những công nhân chưa được đào tạo đầy đủ."
+    },
+    {
+        "word": "supply",
+        "wordTypeArr": "v",
+        "phoneticTxt": "səˈplaɪ",
+        "yourLangMeaning": "cung cấp",
+        "exampleEng": "This is the company that supplies our computer equipment.",
+        "exampleVn": "Đây là công ty cung cấp thiết bị máy tính."
+    },
+    {
+        "word": "verify",
+        "wordTypeArr": "v",
+        "phoneticTxt": "ˈvɛrɪfaɪ",
+        "yourLangMeaning": "xác minh, xác nhận, khẳng định",
+        "exampleEng": "Can you verify that the order will arrive by the end of the week?",
+        "exampleVn": "Bạn có thể khẳng định hàng đặt sẽ đến vào cuối tuần chứ?"
+    },
+    {
+        "word": "carrier",
+        "wordTypeArr": "n",
+        "phoneticTxt": "ˈkærɪə",
+        "yourLangMeaning": "hãng vận tải, tầu chuyên chở",
+        "exampleEng": "We can ship it out tomorrow, but which carrier do you want to use?",
+        "exampleVn": "Chúng tôi có thể gửi chở hàng bằng tàu vào ngày mai, nhưng bạn muốn sử dụng hãng vận tải nào?"
+    },
+    {
+        "word": "essentially",
+        "wordTypeArr": "adv",
+        "phoneticTxt": "ɪˈsɛnʃəli",
+        "yourLangMeaning": "về cơ bản, về bản chất",
+        "exampleEng": "Essentially, we need your order by the 7th if you want to receive the goods by the end of the month.",
+        "exampleVn": "Về cơ bản, chúng tôi cân đơn đặt hàng của các anh vào ngày 7 nếu các anh muốn nhận hàng vòa cuối tháng."
+    },
+    {
+        "word": "estimate",
+        "wordTypeArr": "n",
+        "phoneticTxt": "ˈɛstɪmɪt",
+        "yourLangMeaning": "sự đánh giá, sự ước lượng",
+        "exampleEng": "Can you give me an estimate of the delivery time?",
+        "exampleVn": "Bạn có thể cho tôi một ước lượng về thời gian giao hàng được không?"
+    },
+    {
+        "word": "liability",
+        "wordTypeArr": "n",
+        "phoneticTxt": "ˌlaɪəˈbɪlɪti",
+        "yourLangMeaning": "trách nhiệm pháp lý",
+        "exampleEng": "What is your liability if the order is lost or broken in shipping?",
+        "exampleVn": "Trách nhiệm pháp lý của bạn là gì nếu hàng hóa bị mất hoặc bị vỡ trong quá trình vận chuyển?"
+    },
+    {
+        "word": "mandatory",
+        "wordTypeArr": "adj",
+        "phoneticTxt": "ˈmændətəri",
+        "yourLangMeaning": "có tính bắt buộc",
+        "exampleEng": "Shipping insurance is mandatory and included in the price.",
+        "exampleVn": "Bảo hiểm vận chuyển bằng tàu là bắt buộc và được bao gồm trong giá cả."
+    },
+    {
+        "word": "merchandise",
+        "wordTypeArr": "n",
+        "phoneticTxt": "ˈmɜːʧəndaɪz",
+        "yourLangMeaning": "hàng hóa",
+        "exampleEng": "When will our merchandise arrive?",
+        "exampleVn": "Khi nào hàng hóa của chúng tôi sẽ đến?"
+    },
+    {
+        "word": "minimize",
+        "wordTypeArr": "v",
+        "phoneticTxt": "ˈmɪnɪmaɪz",
+        "yourLangMeaning": "tối thiểu hóa",
+        "exampleEng": "Shipping the order out on a Monday will minimize the shipping time.",
+        "exampleVn": "Chở hàng hóa bằng tàu vào thứ Hai sẽ làm ít tốn thời gian chuyên chở bằng tàu nhất."
+    },
+    {
+        "word": "reflection",
+        "wordTypeArr": "n",
+        "phoneticTxt": "rɪˈflɛkʃən",
+        "yourLangMeaning": "sự phản ảnh, sự phản chiếu",
+        "exampleEng": "Satisfied customers are a reflection of how professional a company is.",
+        "exampleVn": "Khách hàng được thỏa mãn là sự phản ảnh một công ty chuyên nghiệp như thế nào."
+    },
+    {
+        "word": "ship",
+        "wordTypeArr": "v",
+        "phoneticTxt": "ʃɪp",
+        "yourLangMeaning": "chở bằng tàu",
+        "exampleEng": "We can ship orders anywhere in the world.",
+        "exampleVn": "Chúng ta có thể chở hàng bằng tầu tới bất cứ nơi đâu trên thế giới."
+    },
+    {
+        "word": "accurately",
+        "wordTypeArr": "adv",
+        "phoneticTxt": "ˈækjʊrɪtli",
+        "yourLangMeaning": "một cách chính xác",
+        "exampleEng": "Invoices must be written accurately, otherwise, we could lose money.",
+        "exampleVn": "Hóa đơn phải được viết một cách chính xác, nếu không chúng ta có thể mất tiền."
+    },
+    {
+        "word": "adjustment",
+        "wordTypeArr": "n",
+        "phoneticTxt": "əˈʤʌstmənt",
+        "yourLangMeaning": "sự điều chỉnh",
+        "exampleEng": "You promised me a discount, so can you make an adjustment to the invoice, please?",
+        "exampleVn": "Bạn hứa đưa tôi một khoản chiết khấu, vì thế bạn có thể vui lòng điều chỉnh trên hóa đơn?"
+    },
+    {
+        "word": "charge",
+        "wordTypeArr": "n",
+        "phoneticTxt": "ʧɑːʤ",
+        "yourLangMeaning": "phí, chi phí",
+        "exampleEng": "If this invoice is not paid by the 25th, there will be an additional charge of one percent per day.",
+        "exampleVn": "Nếu hóa đơn này không được trả vào ngày 25 thì mỗi ngày sẽ có thêm khoản phí 1%."
+    },
+    {
+        "word": "compile",
+        "wordTypeArr": "v",
+        "phoneticTxt": "kəmˈpaɪl",
+        "yourLangMeaning": "biên soạn, thu thập",
+        "exampleEng": "We're just compiling your invoices now, and we will send them to you as soon as we're finished.",
+        "exampleVn": "Bây giờ chúng tôi đang soạn những hóa đơn của bạn và chúng tôi sẽ gửi chúng cho bạn ngay khi chúng tôi hoàn thành."
+    },
+    {
+        "word": "discount",
+        "wordTypeArr": "n",
+        "phoneticTxt": "ˈdɪskaʊnt",
+        "yourLangMeaning": "tiền chiết khấu",
+        "exampleEng": "If the invoice is paid before the 25th, you will receive a five percent discount.",
+        "exampleVn": "Nếu hóa đơn này được trả trước này 25 thì bạn sẽ nhận khoản chiết khấu 5%."
+    },
+    {
+        "word": "discrepancy",
+        "wordTypeArr": "n",
+        "phoneticTxt": "dɪsˈkrɛpənsi",
+        "yourLangMeaning": "sự khác nhau, sự không nhất quán",
+        "exampleEng": "There seems to be a discrepancy on the invoice: yours says fifty dollars, and ours says forty-five.",
+        "exampleVn": "Dường như có sự không nhất quán trong hóa đơn: của bạn là 59 đô la, của chúng tôi là 45 đô la."
+    },
+    {
+        "word": "efficient",
+        "wordTypeArr": "adj",
+        "phoneticTxt": "ɪˈfɪʃənt",
+        "yourLangMeaning": "hiệu quả",
+        "exampleEng": "It is much more efficient to write out all the invoices at the same time.",
+        "exampleVn": "Viết tất cả hóa đơn cùng một lúc thì hiệu quả hơn nhiều."
+    },
+    {
+        "word": "everyday",
+        "wordTypeArr": "adj",
+        "phoneticTxt": "ˈɛvrɪdeɪ",
+        "yourLangMeaning": "mỗi ngày, thường nhật",
+        "exampleEng": "Paying invoices is an everyday job in our busy office.",
+        "exampleVn": "Thanh toán những hóa đơn là công việc hằng ngày tại văn phòng bận rộn của chúng ta."
+    },
+    {
+        "word": "function",
+        "wordTypeArr": "n",
+        "phoneticTxt": "ˈfʌŋkʃən",
+        "yourLangMeaning": "chức năng, vai trò, nhiệm vụ",
+        "exampleEng": "One of my functions in the office is to prepare invoices.",
+        "exampleVn": "Một trong những nhiệm vụ của tôi tại văn phòng là chuẩn bị hóa đơn."
+    },
+    {
+        "word": "impose",
+        "wordTypeArr": "v",
+        "phoneticTxt": "ɪmˈpəʊz",
+        "yourLangMeaning": "đánh thuế, bắt chịu",
+        "exampleEng": "As you are paying the invoice late, we have to impose a small fine.",
+        "exampleVn": "Khi bạn thanh toán hóa đơn trễ, chúng tôi buộc bạn chịu một khoản tiền phạt nhỏ."
+    },
+    {
+        "word": "integral",
+        "wordTypeArr": "adj",
+        "phoneticTxt": "ˈɪntɪgrəl",
+        "yourLangMeaning": "toàn bộ, trọn vẹn, không thể thiếu",
+        "exampleEng": "Sending out and paying invoices is an integral part of doing business.",
+        "exampleVn": "Gửi và thanh toán hóa đơn là một phần không thể thiếu của việc kinh doanh."
+    },
+    {
+        "word": "joint",
+        "wordTypeArr": "adj",
+        "phoneticTxt": "ʤɔɪnt",
+        "yourLangMeaning": "chung",
+        "exampleEng": "We have a joint account, and both our salaries get paid into it.",
+        "exampleVn": "Chúng tôi có một tài khoản chung và lương của cả hai chúng tôi được trả vào đó."
+    },
+    {
+        "word": "mistake",
+        "wordTypeArr": "n",
+        "phoneticTxt": "mɪsˈteɪk",
+        "yourLangMeaning": "lỗi, chỗ sai",
+        "exampleEng": "There's a mistake on this invoice; we have already paid for some of these.",
+        "exampleVn": "Có một lỗi trong hóa đơn này; chúng ta vừa thanh toán một vài trong số này."
+    },
+    {
+        "word": "run",
+        "wordTypeArr": "v",
+        "phoneticTxt": "rʌn",
+        "yourLangMeaning": "chạy, hoạt động, vận hành",
+        "exampleEng": "I started out preparing invoices two years ago, and now I run the whole office.",
+        "exampleVn": "Tôi đã bắt đầu chuẩn bị nhiều hóa đơn cách đây hai năm và bây giờ tôi kiểm soát cả văn phòng."
+    },
+    {
+        "word": "strictly",
+        "wordTypeArr": "adv",
+        "phoneticTxt": "ˈstrɪktli",
+        "yourLangMeaning": "chính xác",
+        "exampleEng": "The lower price is strictly for those invoices paid on time.",
+        "exampleVn": "Giá thấp hơn được dành chính xác cho những hóa đơn thanh toán đúng hạn."
+    },
+    {
+        "word": "subtract",
+        "wordTypeArr": "v",
+        "phoneticTxt": "səbˈtrækt",
+        "yourLangMeaning": "trừ, giảm",
+        "exampleEng": "We didn't receive these, so you need to subtract them from the bill.",
+        "exampleVn": "Chúng tôi không nhận những thứ này, vì thế bạn nên trừ chúng khỏi hóa đơn thanh toán."
+    },
+    {
+        "word": "tedious",
+        "wordTypeArr": "adj",
+        "phoneticTxt": "ˈtiːdiəs",
+        "yourLangMeaning": "chán, tẻ nhạt",
+        "exampleEng": "Writing invoices can be tedious, but it is very important.",
+        "exampleVn": "Viết hóa đơn có thể tẻ nhạt nhưng nó rất quan trọng."
+    },
+    {
+        "word": "term",
+        "wordTypeArr": "n",
+        "phoneticTxt": "tɜːm",
+        "yourLangMeaning": "điều khoản",
+        "exampleEng": "According to the terms listed in our invoice, if you cancel, you still have to pay half of the total.",
+        "exampleVn": "Theo những điều khoản được liệt kê trong hóa đoan của chúng tôi, nếu bạn hủy, bạn vẫn phải thanh toán một nữa trong tổng số."
+    },
+    {
+        "word": "accept",
+        "wordTypeArr": "v",
+        "phoneticTxt": "əkˈsɛpt",
+        "yourLangMeaning": "chấp nhận, đồng ý, nhận",
+        "exampleEng": "Do you accept American dollars?",
+        "exampleVn": "Bạn có nhận đồng đô la Mỹ không?"
+    },
+    {
+        "word": "account",
+        "wordTypeArr": "n",
+        "phoneticTxt": "əˈkaʊnt",
+        "yourLangMeaning": "tài khoản",
+        "exampleEng": "Please include your account number to expedite the transaction.",
+        "exampleVn": "Vui lòng bao gồm số tài khoản của anh để xúc tiến hợp đồng này."
+    },
+    {
+        "word": "activate",
+        "wordTypeArr": "v",
+        "phoneticTxt": "ˈæktɪveɪt",
+        "yourLangMeaning": "kích hoạt",
+        "exampleEng": "After you have filled in the paperwork, we'll be able to activate your account.",
+        "exampleVn": "Sau khi bạn điền đầy đủ vào giấy tờ, chúng tôi sẽ kích hoạt tài khoản của bạn."
+    },
+    {
+        "word": "balance",
+        "wordTypeArr": "n",
+        "phoneticTxt": "ˈbæləns",
+        "yourLangMeaning": "bảng cân đối tài khoản",
+        "exampleEng": "The balance of your account is $78.000",
+        "exampleVn": "Bảng cân đối tài khoản của bạn là 78.000 đô la."
+    },
+    {
+        "word": "borrow",
+        "wordTypeArr": "v",
+        "phoneticTxt": "ˈbɒrəʊ",
+        "yourLangMeaning": "mượn",
+        "exampleEng": "You can borrow up to one hundred thousand dollars and pay it back over five years.",
+        "exampleVn": "Bạn có thể mượn đến một trăm ngàn đô la và trả lại trên 5 năm."
+    },
+    {
+        "word": "cashier",
+        "wordTypeArr": "n",
+        "phoneticTxt": "kæˈʃɪə",
+        "yourLangMeaning": "người thu ngân",
+        "exampleEng": "Ms.Lee works at a bank as a cashier.",
+        "exampleVn": "Cô Lee làm thu ngân tại ngân hàng."
+    },
+    {
+        "word": "convert",
+        "wordTypeArr": "v",
+        "phoneticTxt": "ˈkɒnvɜːt",
+        "yourLangMeaning": "đổi, chuyển đổi",
+        "exampleEng": "Please convert one hundred U.S dollars into euros.",
+        "exampleVn": "Vui lòng đổi 100 đô la Mỹ thành đồng euro."
+    },
+    {
+        "word": "deposit",
+        "wordTypeArr": "n",
+        "phoneticTxt": "dɪˈpɒzɪt",
+        "yourLangMeaning": "tiền ký gửi, tiền đặt cọc",
+        "exampleEng": "If you want to rent the apartment, you have to pay a two-month deposit.",
+        "exampleVn": "Nếu anh muốn thuê căn hộ, anh phải đặt tiền cọc 2 tháng."
+    },
+    {
+        "word": "down payment",
+        "wordTypeArr": "n",
+        "phoneticTxt": "daʊn ˈpeɪmənt",
+        "yourLangMeaning": "trả tiền hàng tháng (trả góp)",
+        "exampleEng": "We are saving money to make a down payment on the house we want to buy.",
+        "exampleVn": "Chúng tôi đang tiết kiệm tiền để thanh toán tiền hàng tháng cho căn nhà chúng tôi muốn mua."
+    },
+    {
+        "word": "endorse",
+        "wordTypeArr": "v",
+        "phoneticTxt": "ɪnˈdɔːs",
+        "yourLangMeaning": "ký hậu",
+        "exampleEng": "Can you endorse the back of the check, please?",
+        "exampleVn": "Vui lòng ký phía sau tờ séc?"
+    },
+    {
+        "word": "exchange",
+        "wordTypeArr": "v",
+        "phoneticTxt": "ɪksˈʧeɪnʤ",
+        "yourLangMeaning": "đổi",
+        "exampleEng": "Please help me exchange these N.T.dolars for yuan.",
+        "exampleVn": "Vui lòng giúp tôi đổi những đồng đô la Đài Loan này sang đồng nhân dân tệ."
+    },
+    {
+        "word": "mortgage",
+        "wordTypeArr": "n",
+        "phoneticTxt": "ˈmɔːgɪʤ",
+        "yourLangMeaning": "vật cầm cố, vật thế chấp",
+        "exampleEng": "We've almost finished paying off the mortgage on our house.",
+        "exampleVn": "Chúng tôi hàu như hoàn thành việc thanh toán thế chấp cho căn nhà của chúng tôi."
+    },
+    {
+        "word": "overdraw",
+        "wordTypeArr": "v",
+        "phoneticTxt": "ˌəʊvəˈdrɔː",
+        "yourLangMeaning": "rút tiền quá mức",
+        "exampleEng": "I overdrew my account by five thousand dollars.",
+        "exampleVn": "Tôi rút quá 5 ngàn đô la khỏi tài khoản của tôi."
+    },
+    {
+        "word": "restricted",
+        "wordTypeArr": "adj",
+        "phoneticTxt": "rɪsˈtrɪktɪd",
+        "yourLangMeaning": "hạn định, hạn chế",
+        "exampleEng": "This special account is restricted to local customers.",
+        "exampleVn": "Tài khoản đặc biệt này được hạn định cho những khách hàng địa phương."
+    },
+    {
+        "word": "transaction",
+        "wordTypeArr": "n",
+        "phoneticTxt": "trænˈzækʃən",
+        "yourLangMeaning": "hợp đồng, giao dịch",
+        "exampleEng": "I'd like a list of my last ten transactions.",
+        "exampleVn": "Tôi muốn một danh sách gồm 10 giao dịch cuối cùng của tôi."
+    },
+    {
+        "word": "typically",
+        "wordTypeArr": "adv",
+        "phoneticTxt": "ˈtɪpɪk(ə)li",
+        "yourLangMeaning": "đặc trưng, tiêu biểu, điển hình",
+        "exampleEng": "It typically takes two days for the money to reach your account.",
+        "exampleVn": "Thường thì phải mất 2 ngày tiền mới đến tài khoản của bạn."
+    },
+    {
+        "word": "accumulate",
+        "wordTypeArr": "v",
+        "phoneticTxt": "əˈkjuːmjʊleɪt",
+        "yourLangMeaning": "tích lũy",
+        "exampleEng": "She accumulates over a million dollars through investing.",
+        "exampleVn": "Cô ấy tích lũy được trên một triệu đô la từ việc đầu tư."
+    },
+    {
+        "word": "aggressively",
+        "wordTypeArr": "adv",
+        "phoneticTxt": "əˈgrɛsɪvli",
+        "yourLangMeaning": "xông xáo, mạnh mẽ, dữ dội",
+        "exampleEng": "I made a lot of money by investing aggressively in stock.",
+        "exampleVn": "Tôi kiếm được nhiều tiền bằng cách đầu tư xông xáo vào cổ phiếu."
+    },
+    {
+        "word": "bond",
+        "wordTypeArr": "n",
+        "phoneticTxt": "bɒnd",
+        "yourLangMeaning": "trái phiếu",
+        "exampleEng": "Savings bonds offer a low-risk return for your investment but are not as profitable as a good stock.",
+        "exampleVn": "Những trái phiếu tiết kiệm tạo ra lãi với rủi ro thấp hơn cho việc đầu tư của anh, nhưng không nhiều lợi nhuận như cổ phiếu tốt."
+    },
+    {
+        "word": "cautiously",
+        "wordTypeArr": "adv",
+        "phoneticTxt": "ˈkɔːʃəsli",
+        "yourLangMeaning": "cẩn thận, thận trọng",
+        "exampleEng": "You should invest more cautiously, or you could lose a lot of money.",
+        "exampleVn": "Bạn nên đầu tư một cách thận trọng nếu không bạn sẽ mất nhiều tiền."
+    },
+    {
+        "word": "commit",
+        "wordTypeArr": "v",
+        "phoneticTxt": "kəˈmɪt",
+        "yourLangMeaning": "giam giữ",
+        "exampleEng": "With this kind of investment, you must commit your money for at least five years.",
+        "exampleVn": "Với kiểu đầu tư này, bạn phải giam tiền của bạn ít nhất 5 năm."
+    },
+    {
+        "word": "conservative",
+        "wordTypeArr": "adj",
+        "phoneticTxt": "kənˈsɜːvətɪv",
+        "yourLangMeaning": "ước chừng, khoảng chừng",
+        "exampleEng": "I should make about ten thousand dollars, and that's a conservative estimate.",
+        "exampleVn": "Tôi sẽ kiếm được 10 ngàn đô la, và đó là một dự đoán ước chừng."
+    },
+    {
+        "word": "currency",
+        "wordTypeArr": "n",
+        "phoneticTxt": "ˈkʌrənsi",
+        "yourLangMeaning": "giá trị tiền tệ",
+        "exampleEng": "Where can I change foreign currency?",
+        "exampleVn": "Tôi có thể đổi ngoại tệ ở đâu?"
+    },
+    {
+        "word": "depression",
+        "wordTypeArr": "n",
+        "phoneticTxt": "dɪˈprɛʃən",
+        "yourLangMeaning": "sự suy thoái",
+        "exampleEng": "The stock market crash meant the coming of a depression.",
+        "exampleVn": "Sự sụp đổ của thị trường chứng khoán có nghĩa là sự suy thoái sắp xảy ra."
+    },
+    {
+        "word": "desire",
+        "wordTypeArr": "n",
+        "phoneticTxt": "dɪˈzaɪə",
+        "yourLangMeaning": "ước muốn, mong ước",
+        "exampleEng": "I have no desire to invest my money; I'd rather keep it in the bank.",
+        "exampleVn": "Tôi không có ước muốn đầu tư tiền của tôi; tôi thích gửi nó trong ngân hàng hơn."
+    },
+    {
+        "word": "dividend",
+        "wordTypeArr": "n",
+        "phoneticTxt": "ˈdɪvɪdɛnd",
+        "yourLangMeaning": "cổ tức",
+        "exampleEng": "Are the dividends for this investment paid twice or four times a year?",
+        "exampleVn": "Có phải cổ tức cho đầu tư này được trả 2 hoặc 4 lần trong một năm không?"
+    },
+    {
+        "word": "fund",
+        "wordTypeArr": "n",
+        "phoneticTxt": "fʌnd",
+        "yourLangMeaning": "qũy, tiền vốn",
+        "exampleEng": "I have most of my money invested in a special fund.",
+        "exampleVn": "Hầu hết tiền của tôi được đầu tư vào một quỹ đặc biệt."
+    },
+    {
+        "word": "invest",
+        "wordTypeArr": "v",
+        "phoneticTxt": "ɪnˈvɛst",
+        "yourLangMeaning": "đầu tư",
+        "exampleEng": "You should only invest as much money as you can afford to lose.",
+        "exampleVn": "Bạn chỉ nên đầu tư nhiều tiền khi bạn có đủ khả năng thua lỗ."
+    },
+    {
+        "word": "long-term",
+        "wordTypeArr": "adj",
+        "phoneticTxt": "ˈlɒŋtɜːm",
+        "yourLangMeaning": "dài hạn",
+        "exampleEng": "This is a long-term investment, so make sure you won't need the money within the next ten years.",
+        "exampleVn": "Đây là một khoản đầu tư dài hạn, vì thế hãy chắc chắn rằng bạn không cần tiền trong vòng 10 năm tới."
+    },
+    {
+        "word": "portfolio",
+        "wordTypeArr": "n",
+        "phoneticTxt": "pɔːtˈfəʊliəʊ",
+        "yourLangMeaning": "danh mục vốn đầu tư",
+        "exampleEng": "I only have four investments in my portfolio. How many do you have?",
+        "exampleVn": "Tôi chỉ có bốn khoản đầu tư trong danh mục vốn đầu tư của tôi. Anh có mấy khoản?"
+    },
+    {
+        "word": "profitably",
+        "wordTypeArr": "adv",
+        "phoneticTxt": "ˈprɒfɪtəbli",
+        "yourLangMeaning": "có lời, có lãi",
+        "exampleEng": "It isn't easy to invest profitably; many people don't make money at all.",
+        "exampleVn": "Thật không dễ để đầu tư có lời; nhiều người không kiếm được tiền gì cả."
+    },
+    {
+        "word": "realistic",
+        "wordTypeArr": "adj",
+        "phoneticTxt": "rɪəˈlɪstɪk",
+        "yourLangMeaning": "thực tế, hiện thực",
+        "exampleEng": "If you think that investing can make you rich quickly, you are not being realistic.",
+        "exampleVn": "Nếu bạn nghĩ việc đầu tư có thể làm bạn giàu có nhanh chóng thì bạn không thực tế rồi."
+    },
+    {
+        "word": "return",
+        "wordTypeArr": "n",
+        "phoneticTxt": "rɪˈtɜːn",
+        "yourLangMeaning": "tiền lời, tiền lãi",
+        "exampleEng": "I got a really good return on my investment.",
+        "exampleVn": "Tôi có một khoản tiền lãi khá nhiều cho đầu tư của tôi."
+    },
+    {
+        "word": "target",
+        "wordTypeArr": "n",
+        "phoneticTxt": "ˈtɑːgɪt",
+        "yourLangMeaning": "mục tiêu",
+        "exampleEng": "My target is to make a million dollars over thirty years.",
+        "exampleVn": "Mục tiêu của tôi là kiếm một triệu đô la trong khoảng hơn 30 năm."
+    },
+    {
+        "word": "wisely",
+        "wordTypeArr": "adv",
+        "phoneticTxt": "ˈwaɪzli",
+        "yourLangMeaning": "một các khôn ngoan",
+        "exampleEng": "If you invest wisely, you won't lose money.",
+        "exampleVn": "Nếu bạn đầu tư một cách khôn ngoan thì bạn sẽ không mất tiền."
+    },
+    {
+        "word": "yield",
+        "wordTypeArr": "v",
+        "phoneticTxt": "jiːld",
+        "yourLangMeaning": "sản xuất, sinh lợi, mang lại",
+        "exampleEng": "The investment yielded a profit of two thousand dollars.",
+        "exampleVn": "Dầu tư này sản sinh 2.000 đô la tiền lời."
+    },
+    {
+        "word": "calculation",
+        "wordTypeArr": "n",
+        "phoneticTxt": "ˌkælkjʊˈleɪʃən",
+        "yourLangMeaning": "sự tính toán",
+        "exampleEng": "According to my calculations, you owe just under eighteen thousand dollars in taxes.",
+        "exampleVn": "Theo sự tính toán của tôi, bạn nợ chỉ dưới 18.000 đô la tiền thuế."
+    },
+    {
+        "word": "contribution",
+        "wordTypeArr": "n",
+        "phoneticTxt": "ˌkɒntrɪˈbjuːʃən",
+        "yourLangMeaning": "sự đóng góp",
+        "exampleEng": "He doesn't make much of a contribution to his team.",
+        "exampleVn": "Anh ấy không đóng góp nhiều cho đội của anh ấy."
+    },
+    {
+        "word": "deadline",
+        "wordTypeArr": "n",
+        "phoneticTxt": "ˈdɛdlaɪn",
+        "yourLangMeaning": "hạn chót",
+        "exampleEng": "The deadline for doing your taxes is the end of May.",
+        "exampleVn": "Hạn chót để bạn đóng thuế là cuối tháng Năm."
+    },
+    {
+        "word": "file",
+        "wordTypeArr": "v",
+        "phoneticTxt": "faɪl",
+        "yourLangMeaning": "đệ trình, nộp",
+        "exampleEng": "Have you filed your taxes for last year?",
+        "exampleVn": "Năm ngoái bạn có nộp thuế chưa?"
+    },
+    {
+        "word": "overall",
+        "wordTypeArr": "adv",
+        "phoneticTxt": "ˈəʊvərɔːl",
+        "yourLangMeaning": "tất cả, tổng quát, nhìn chung",
+        "exampleEng": "You owe eleven thousand dollars overall.",
+        "exampleVn": "Bạn nợ tất cả 11.000 đô la."
+    },
+    {
+        "word": "refund",
+        "wordTypeArr": "n",
+        "phoneticTxt": "ˈriːfʌnd",
+        "yourLangMeaning": "sự trả lại, số tiền trả lại",
+        "exampleEng": "I got a really big tax refund last year.",
+        "exampleVn": "Năm ngoái tôi có một khoản tiền hoàn thuế rất lớn."
+    },
+    {
+        "word": "spouse",
+        "wordTypeArr": "n",
+        "phoneticTxt": "spaʊz",
+        "yourLangMeaning": "vợ chồng",
+        "exampleEng": "Both you and your spouse had to sign the loan agreement.",
+        "exampleVn": "Cả bạn và vợ"
+    },
+    {
+        "word": "withhold",
+        "wordTypeArr": "v",
+        "phoneticTxt": "wɪðˈhəʊld",
+        "yourLangMeaning": "giữ lại, câm lại",
+        "exampleEng": "About two hundred dollars are withheld from Anna's paycheck each month.",
+        "exampleVn": "Khoảng 200 đô la được giữ lại từ séc phải thanh toán của Anna mỗi tháng."
+    },
+    {
+        "word": "accounting",
+        "wordTypeArr": "n",
+        "phoneticTxt": "əˈkaʊntɪŋ",
+        "yourLangMeaning": "khoa kế toán, môn kế toán",
+        "exampleEng": "The accounting department provides a company's financial information.",
+        "exampleVn": "Bạn kế toán cung cấp thông tin tài chính của công ty."
+    },
+    {
+        "word": "asset",
+        "wordTypeArr": "n",
+        "phoneticTxt": "ˈæsɛt",
+        "yourLangMeaning": "tài sản",
+        "exampleEng": "The company has many assets that could sell to raise money.",
+        "exampleVn": "Công ty có nhiều tài sản có thể bán để thu tiền."
+    },
+    {
+        "word": "audit",
+        "wordTypeArr": "v",
+        "phoneticTxt": "ˈɔːdɪt",
+        "yourLangMeaning": "kiểm toán",
+        "exampleEng": "We have finished auditing the company's accounts, and everything seems to be correct.",
+        "exampleVn": "Chúng tôi vừa hoàn thành việc kiểm toán tài khoản của công ty và mọi thứ đều đúng."
+    },
+    {
+        "word": "budget",
+        "wordTypeArr": "v",
+        "phoneticTxt": "ˈbʌʤɪt",
+        "yourLangMeaning": "dự thảo ngân sách",
+        "exampleEng": "It is important to budget for the year so that we will have enough money.",
+        "exampleVn": "Điều quan trọng là phải dự thảo ngân sách của năm để chúng ta sẽ có đủ tiền."
+    },
+    {
+        "word": "calculate",
+        "wordTypeArr": "v",
+        "phoneticTxt": "ˈkælkjʊleɪt",
+        "yourLangMeaning": "tính toán",
+        "exampleEng": "Can you calculate how much the decoration will cost?",
+        "exampleVn": "Bạn có thể tính toán xem trang trí tốn bao nhiêu tiền được không?"
+    },
+    {
+        "word": "capital",
+        "wordTypeArr": "n",
+        "phoneticTxt": "ˈkæpɪtl",
+        "yourLangMeaning": "vốn, số tiền đầu tư",
+        "exampleEng": "Without capital, you won't be able to get your business started.",
+        "exampleVn": "Không có vốn, bạn sẽ không thể bắt đầu kinh doanh."
+    },
+    {
+        "word": "client",
+        "wordTypeArr": "n",
+        "phoneticTxt": "ˈklaɪənt",
+        "yourLangMeaning": "khách hàng",
+        "exampleEng": "Most of our clients are happy to pay for our services because we help them save money.",
+        "exampleVn": "Hầu hết khách hàng của chúng tôi vui vẻ trả cho dịch vụ của chúng tôi bởi vì chúng tôi giúp họ tiết kiệm tiền"
+    },
+    {
+        "word": "commission",
+        "wordTypeArr": "n",
+        "phoneticTxt": "kəˈmɪʃən",
+        "yourLangMeaning": "tiền hoa hồng",
+        "exampleEng": "One of the advantages of investing online is that you don't need to pay a commission to a broker.",
+        "exampleVn": "Một trong những thuận lợi của đầu tư trực tuyến là bạn không cần trả tiền hoa hồng cho nhà môi giới."
+    },
+    {
+        "word": "debt",
+        "wordTypeArr": "n",
+        "phoneticTxt": "dɛt",
+        "yourLangMeaning": "nợ, món nợ",
+        "exampleEng": "I have paid off all my debts; I don't owe money to anybody.",
+        "exampleVn": "Tôi vừa trả hết các khoản nợ của tôi; tôi không còn nợ tiền ai nữa."
+    },
+    {
+        "word": "expenditure",
+        "wordTypeArr": "n",
+        "phoneticTxt": "ɪksˈpɛndɪʧə",
+        "yourLangMeaning": "chi tiêu",
+        "exampleEng": "Government expenditure must be kept under strict control.",
+        "exampleVn": "Chi tiêu của chính phủ được giữ trong tầm kiểm soát nghiêm ngặt."
+    },
+    {
+        "word": "forecast",
+        "wordTypeArr": "n",
+        "phoneticTxt": "ˈfɔːkɑːst",
+        "yourLangMeaning": "dự báo, dự đoán",
+        "exampleEng": "According to our forecast, the company should be making a profit by next January.",
+        "exampleVn": "Theo dự đoán của chúng tôi, công ty sẽ thu được lợi nhuận vào tháng Giêng tới."
+    },
+    {
+        "word": "outstanding",
+        "wordTypeArr": "adj",
+        "phoneticTxt": "aʊtˈstændɪŋ",
+        "yourLangMeaning": "chưa thanh toán",
+        "exampleEng": "We still have two bills outstanding, but I can pay them this week.",
+        "exampleVn": "Chúng tôi vẫn còn hai hóa đơn chưa thanh toán nhưng chúng tôi có thể thanh toán chúng vào tuần nay."
+    },
+    {
+        "word": "project",
+        "wordTypeArr": "v",
+        "phoneticTxt": "ˈprɒʤɛkt",
+        "yourLangMeaning": "hoạch định, dự đoán",
+        "exampleEng": "Our income is projected to rise by eight percent over the year.",
+        "exampleVn": "Thu nhập của chúng ta được dự đoán tăng 8% một năm."
+    },
+    {
+        "word": "reconcile",
+        "wordTypeArr": "v",
+        "phoneticTxt": "ˈrɛkənsaɪl",
+        "yourLangMeaning": "làm cho tương thích, điều hòa",
+        "exampleEng": "The auditor tried to reconcile his expenses with his stated income.",
+        "exampleVn": "Kiểm toán viên cố gắng điều hòa/dàn xếp chi tiêu với khoản thu nhập cố định của anh ấy."
+    },
+    {
+        "word": "revenue",
+        "wordTypeArr": "n",
+        "phoneticTxt": "ˈrɛvɪnjuː",
+        "yourLangMeaning": "thu nhập",
+        "exampleEng": "The company's revenues fell last year.",
+        "exampleVn": "Năm ngoái thu nhập của công ty giảm."
+    },
+    {
+        "word": "surplus",
+        "wordTypeArr": "n",
+        "phoneticTxt": "ˈsɜːpləs",
+        "yourLangMeaning": "thặng dư",
+        "exampleEng": "The country has a trade surplus of one billion dollars.",
+        "exampleVn": "Quốc gia này có một tỷ đô la thặng dư thương mại."
+    },
+    {
+        "word": "turnover",
+        "wordTypeArr": "n",
+        "phoneticTxt": "ˈtɜːnˌəʊvə",
+        "yourLangMeaning": "doanh số, doanh thu, tốc độ thay thế nhân công",
+        "exampleEng": "Retail companies have a high turnover rate for employees.",
+        "exampleVn": "Những công ty bán lẻ có tốc độ thay thế công nhân viên cao."
+    },
+    {
+        "word": "voucher",
+        "wordTypeArr": "n",
+        "phoneticTxt": "ˈvaʊʧə",
+        "yourLangMeaning": "biên lai",
+        "exampleEng": "The voucher is valid until April 30th.",
+        "exampleVn": "Biên lai này có hiệu lực cho đến ngày 30 tháng 4."
+    },
+    {
+        "word": "coupon",
+        "wordTypeArr": "n",
+        "phoneticTxt": "ˈkuːpɒn",
+        "yourLangMeaning": "vé, phiếu mua hàng, phiếu dự thưởng",
+        "exampleEng": "My sister collects a lot of coupons from the newspaper.",
+        "exampleVn": "Chị tôi thu nhiều phiếu dự thưởng từ báo."
+    },
+    {
+        "word": "customs",
+        "wordTypeArr": "n",
+        "phoneticTxt": "ˈkʌstəmz",
+        "yourLangMeaning": "hải quan",
+        "exampleEng": "How long does it take to go through customs?",
+        "exampleVn": "Đi qua hải quan mất bao lâu?"
+    },
+    {
+        "word": "deduct",
+        "wordTypeArr": "v",
+        "phoneticTxt": "dɪˈdʌkt",
+        "yourLangMeaning": "khấu trừ, làm giảm",
+        "exampleEng": "We can deduct the late fee if you pay the bill by the 9th.",
+        "exampleVn": "Chúng tôi có thể khấu trừ phí trễ nếu bạn thanh toán hóa đơn vào ngày 9."
+    },
+    {
+        "word": "detail",
+        "wordTypeArr": "n",
+        "phoneticTxt": "ˈdiːteɪl",
+        "yourLangMeaning": "chi tiết",
+        "exampleEng": "Check the details on the bill to make sure that everything is correct.",
+        "exampleVn": "Kiểm tra những chi tiết trên hóa đơn để chắc chắn rằng mọi thứ đều đúng."
+    },
+    {
+        "word": "owe",
+        "wordTypeArr": "v",
+        "phoneticTxt": "əʊ",
+        "yourLangMeaning": "mắc nợ",
+        "exampleEng": "You currently owe two thousand dollars.",
+        "exampleVn": "Hiện tại bạn nợ 2.000 đô la."
+    },
+    {
+        "word": "penalty",
+        "wordTypeArr": "n",
+        "phoneticTxt": "ˈpɛnlti",
+        "yourLangMeaning": "phạt đền, tiền phạt",
+        "exampleEng": "There will be a five percent penalty for any bills paid more than thirty days late.",
+        "exampleVn": "Sẽ có khoản tiền phạt 5% đối với những hóa đơn thanh toán trễ hơn 30 ngày."
+    },
+    {
+        "word": "reimburse",
+        "wordTypeArr": "v",
+        "phoneticTxt": "ˌriːɪmˈbɜːs",
+        "yourLangMeaning": "hoàn trả, trả lại",
+        "exampleEng": "I will reimburse the cost to you.",
+        "exampleVn": "Tôi sẽ trả lại chi phí cho bạn."
+    },
+    {
+        "word": "adjacent",
+        "wordTypeArr": "adj",
+        "phoneticTxt": "əˈʤeɪsənt",
+        "yourLangMeaning": "gần, bên cạnh",
+        "exampleEng": "The reseach department is adjacent to the design department.",
+        "exampleVn": "Phòng nghiên cứu bên cạnh phòng thiết kế."
+    },
+    {
+        "word": "conform",
+        "wordTypeArr": "v",
+        "phoneticTxt": "kənˈfɔːm",
+        "yourLangMeaning": "tuân theo, tuân thủ",
+        "exampleEng": "The finished product must conform to industry standards.",
+        "exampleVn": "Sản phẩm được hoàn thành phải tuân thủ những tiêu chuẩn công nghiệp."
+    },
+    {
+        "word": "decade",
+        "wordTypeArr": "n",
+        "phoneticTxt": "ˈdɛkeɪd",
+        "yourLangMeaning": "thập niên",
+        "exampleEng": "We have been running this assembly line for almost a decade now.",
+        "exampleVn": "Chúng tôi vận hành dây chuyền sản xuất này cho tới bây giờ được gần một thập niên."
+    },
+    {
+        "word": "examine",
+        "wordTypeArr": "v",
+        "phoneticTxt": "ɪgˈzæmɪn",
+        "yourLangMeaning": "kiểm tra",
+        "exampleEng": "We examine the parts to make sure that they have been made well.",
+        "exampleVn": "Chúng tôi kiểm tra những bộ phận này để đảm bảo rằng chúng được làm tốt."
+    },
+    {
+        "word": "lease",
+        "wordTypeArr": "v",
+        "phoneticTxt": "liːs",
+        "yourLangMeaning": "cho thuê",
+        "exampleEng": "We don't own the building; we lease it.",
+        "exampleVn": "Chúng tôi không phải chủ của tòa nhà này; Chúng tôi thuê nó."
+    },
+    {
+        "word": "logical",
+        "wordTypeArr": "adj",
+        "phoneticTxt": "ˈlɒʤɪkəl",
+        "yourLangMeaning": "lô gisc, hợp lý",
+        "exampleEng": "It is logical to have the packing at the end of the assembly line, not the beginning.",
+        "exampleVn": "Đó là hợp lý khi đóng gói ở gian đoạn cuối của dây chuyền sản xuất, không phải giai đoạn đầu."
+    },
+    {
+        "word": "priority",
+        "wordTypeArr": "n",
+        "phoneticTxt": "praɪˈɒrɪti",
+        "yourLangMeaning": "sự ưu tiên",
+        "exampleEng": "Safety is our priority here, so you must first learn how to work on the line.",
+        "exampleVn": "An toàn là ưu tiên của chúng tôi ở đây, vì thế trước tiên bạn phải học cách để làm việc trong hệ thống này."
+    },
+    {
+        "word": "systematically",
+        "wordTypeArr": "adv",
+        "phoneticTxt": "ˌsɪstɪˈmætɪkəli",
+        "yourLangMeaning": "một cách có hệ thống, có phương pháp",
+        "exampleEng": "Doing things systematically helps make sure that everything gets done, and gets done well.",
+        "exampleVn": "Tiến hành mọi việc có hệ thống giúp đảm bảo rằng mọi việc được làm và được làm tốt."
+    },
+    {
+        "word": "uniformly",
+        "wordTypeArr": "adv",
+        "phoneticTxt": "ˈjuːnɪfɔːmli",
+        "yourLangMeaning": "một cách đồng bộ, giống nhau",
+        "exampleEng": "If everything is done uniformly, then all the finished items should look exactly the same.",
+        "exampleVn": "Nếu mọi thứ được làm một cách đồng bộ thì tất cả thành phẩm sẽ trông hoàn toàn giống nhau."
+    },
+    {
+        "word": "circumstance",
+        "wordTypeArr": "n",
+        "phoneticTxt": "ˈsɜːkəmstəns",
+        "yourLangMeaning": "tình trạng, điều kiện, hoàn cảnh",
+        "exampleEng": "Under no circumstances should items go out if they have any problems.",
+        "exampleVn": "Nếu những mặt hàng có vấn đề thì dù với bất kỳ hoàn cảnh nào cũng nên hủy bỏ chúng."
+    },
+    {
+        "word": "collaboration",
+        "wordTypeArr": "n",
+        "phoneticTxt": "kəˌlæbəˈreɪʃən",
+        "yourLangMeaning": "sự hợp tác",
+        "exampleEng": "We can choose to work in collaboration with another company or on our own.",
+        "exampleVn": "Chúng ta có thể chọn hợp tác làm việc với công ty khác hoặc chúng ta làm chủ."
+    },
+    {
+        "word": "concentrate",
+        "wordTypeArr": "v",
+        "phoneticTxt": "ˈkɒnsəntreɪt",
+        "yourLangMeaning": "tập trung",
+        "exampleEng": "You have to concentrate very hard to make sure that you don't miss any problems.",
+        "exampleVn": "Bạn phải tập trung rất nhiều để đảm bảo rằng bạn không bỏ lỡ bất kỳ vấn đề nào."
+    },
+    {
+        "word": "condition",
+        "wordTypeArr": "n",
+        "phoneticTxt": "kənˈdɪʃən",
+        "yourLangMeaning": "điều kiện, tình trạng",
+        "exampleEng": "We want everything to go out in perfect condition.",
+        "exampleVn": "Tôi muốn mọi việc được tiến hành trong điều kiện hoàn hỏa."
+    },
+    {
+        "word": "defect",
+        "wordTypeArr": "n",
+        "phoneticTxt": "dɪˈfɛkt",
+        "yourLangMeaning": "khuyết điểm, khiếm khuyết, lỗi",
+        "exampleEng": "If an item has even the smallest defect, we must not send it out.",
+        "exampleVn": "Nếu một món hàng dù có khuyết điểm nhỏ nhất thì chúng ta cũng không được gửi nó đi."
+    },
+    {
+        "word": "disruption",
+        "wordTypeArr": "n",
+        "phoneticTxt": "dɪsˈrʌpʃən",
+        "yourLangMeaning": "sự phá vỡ",
+        "exampleEng": "The mistake caused a big disruption to the order schedule.",
+        "exampleVn": "Lỗi lầm đã gây nên sự phá vỡ lớn đối với kế hoạch đặt hàng."
+    },
+    {
+        "word": "experiment",
+        "wordTypeArr": "v",
+        "phoneticTxt": "ɪksˈpɛrɪmənt",
+        "yourLangMeaning": "làm thí nghiệm, thử nghiệm",
+        "exampleEng": "We are experimenting with ways to improve the quality of our product.",
+        "exampleVn": "Chúng tôi đang thử nghiệm những cách để nâng cao chất lượng sản phẩm của chúng tôi."
+    },
+    {
+        "word": "fluctuate",
+        "wordTypeArr": "v",
+        "phoneticTxt": "ˈflʌktjʊeɪt",
+        "yourLangMeaning": "biến chuyển, thay đổi",
+        "exampleEng": "Quality can go up and down just a little, but it would be better if it didn't fluctuate at all.",
+        "exampleVn": "Chất lượng có thể tăng lên rồi giảm xuống một tí nhưng nó sẽ tốt hơn nếu nó không thay đổi gì cả."
+    },
+    {
+        "word": "garment",
+        "wordTypeArr": "n",
+        "phoneticTxt": "ˈgɑːmənt",
+        "yourLangMeaning": "quần áo, y phục",
+        "exampleEng": "We are very happy with the way our dresses and other garments look.",
+        "exampleVn": "Chúng tôi rất hài lòng với kiểu cách của nhưng chiếc đầm và những y phục khác của chúng tôi."
+    },
+    {
+        "word": "hamper",
+        "wordTypeArr": "v",
+        "phoneticTxt": "ˈhæmpə",
+        "yourLangMeaning": "cản trở, làm trở ngại",
+        "exampleEng": "Our efforts are being hampered by a shortage of traned staff.",
+        "exampleVn": "Những nỗ lực của chúng ta bị cản trở bởi thiếu nhân viên lành nghề."
+    },
+    {
+        "word": "indicator",
+        "wordTypeArr": "n",
+        "phoneticTxt": "ˈɪndɪkeɪtə",
+        "yourLangMeaning": "dụng cụ chỉ báo, đồng hồ chỉ",
+        "exampleEng": "Price is not always an indicator of quality.",
+        "exampleVn": "Giá cả không phải lúc nào cũng là dụng cụ chỉ chất lượng."
+    },
+    {
+        "word": "inspect",
+        "wordTypeArr": "v",
+        "phoneticTxt": "ɪnˈspɛkt",
+        "yourLangMeaning": "kiểm tra, điều tra",
+        "exampleEng": "We inspect every item before it goes out.",
+        "exampleVn": "Chúng tôi kiểm tra mỗi món hàng trước khi nó xuất."
+    },
+    {
+        "word": "opt",
+        "wordTypeArr": "v",
+        "phoneticTxt": "ɒpt",
+        "yourLangMeaning": "chọn, chọn lựa",
+        "exampleEng": "We have opted to take on an extra quality control manager.",
+        "exampleVn": "Chúng tôi vừa tuyển chọn để nhận thêm một quản lý kiểm soát chất lượng."
+    },
+    {
+        "word": "recall",
+        "wordTypeArr": "v",
+        "phoneticTxt": "rɪˈkɔːl",
+        "yourLangMeaning": "rút lại, thu hồi",
+        "exampleEng": "The automaker recalled 3.000 SUVs because of a brake problem.",
+        "exampleVn": "Nhà sản xuất xe hơi đã thu hồi 3.000 SUV vì có lỗi ở bộ phận thắng."
+    },
+    {
+        "word": "research",
+        "wordTypeArr": "n",
+        "phoneticTxt": "rɪˈsɜːʧ",
+        "yourLangMeaning": "cuộc nghiên cứu",
+        "exampleEng": "Our research shows that employees work better if allowed several short breaks.",
+        "exampleVn": "Cuộc nghiên cứu của chúng tôi cho thấy rằng công nhân viên sẽ làm việc tốt hơn nếu được phép nghỉ và giải lao ngắn."
+    },
+    {
+        "word": "responsibility",
+        "wordTypeArr": "n",
+        "phoneticTxt": "rɪsˌpɒnsəˈbɪlɪti",
+        "yourLangMeaning": "trách nhiệm, bổn phận",
+        "exampleEng": "It is your responsibility to make sure that the quality is exellent.",
+        "exampleVn": "Trách nhiệm của bạn chính là để đảm bảo rằng chất lượng tốt."
+    },
+    {
+        "word": "scrutiny",
+        "wordTypeArr": "n",
+        "phoneticTxt": "ˈskruːtɪni",
+        "yourLangMeaning": "sự kiểm tra, việc kiểm tra kỹ",
+        "exampleEng": "Even under the closest scrutiny, the product was found to be of the highest quality.",
+        "exampleVn": "Dù có được kiểm tra tỉ mỉ nhất thì sản phẩm vẫn đạt chất lượng cao nhất."
+    },
+    {
+        "word": "suppervisor",
+        "wordTypeArr": "n",
+        "phoneticTxt": "suppervisor",
+        "yourLangMeaning": "người quản lý, người điều khiển",
+        "exampleEng": "The supervisor makes sure that the workers are doing a good job.",
+        "exampleVn": "Người quản lý đảm bảo rằng những công nhân đang làm việc tốt."
+    },
+    {
+        "word": "waste",
+        "wordTypeArr": "n",
+        "phoneticTxt": "weɪst",
+        "yourLangMeaning": "vật phế thải, lãng phí",
+        "exampleEng": "We throw away items with even the smallest flaws, which I think is a real waste.",
+        "exampleVn": "Chúng ta loại bỏ những thứ dù chỉ hơi có khiếm khuyết, tôi nghĩ đó là lãng phí thật sự."
+    },
+    {
+        "word": "wrinkle",
+        "wordTypeArr": "n",
+        "phoneticTxt": "ˈrɪŋkl",
+        "yourLangMeaning": "làn, nếp nhăn",
+        "exampleEng": "The clothes should not have wrinkles in them.",
+        "exampleVn": "Quần áo không nên có nếp nhăn."
+    },
+    {
+        "word": "agenda",
+        "wordTypeArr": "n",
+        "phoneticTxt": "əˈʤɛndə",
+        "yourLangMeaning": "hội nghị",
+        "exampleEng": "We cannot discuss that today because it's not on the agenda.",
+        "exampleVn": "Chúng ta không thể thảo luận việc đó hôm nay vì nó không có trong chương trình nghị sự."
+    },
+    {
+        "word": "anxious",
+        "wordTypeArr": "adj",
+        "phoneticTxt": "ˈæŋkʃəs",
+        "yourLangMeaning": "lo lắng, hồi hộp, nôn nóng, háo hức",
+        "exampleEng": "We are anxious to talk about it as soon as posible.",
+        "exampleVn": "Chúng tôi háo hức nói về nó càng sớm càng tốt."
+    },
+    {
+        "word": "ascertain",
+        "wordTypeArr": "v",
+        "phoneticTxt": "ˌæsəˈteɪn",
+        "yourLangMeaning": "biết chắc, tìm hiểu chắc chắn, xác định",
+        "exampleEng": "We need to ascertain what the problem is, so we can fix it.",
+        "exampleVn": "Chúng tôi cần xác định xem sự cố là gì để chúng tôi có thể sửa nó."
+    },
+    {
+        "word": "assume",
+        "wordTypeArr": "v",
+        "phoneticTxt": "əˈsjuːm",
+        "yourLangMeaning": "giả định, giả thuyết, cho rằng",
+        "exampleEng": "I assume everyone knows why I have called this meeting.",
+        "exampleVn": "Tôi cho rằng mọi người hiểu tại sao tôi triệu tập cuộc họp này."
+    },
+    {
+        "word": "brand",
+        "wordTypeArr": "n",
+        "phoneticTxt": "brænd",
+        "yourLangMeaning": "nhãn hiệu",
+        "exampleEng": "There is a new brand on the market, and we need to discuss how it will affect us.",
+        "exampleVn": "Có một nhãn hiệu mới trên thị trường và chúng ta cần thảo luận xem nó ảnh hưởng đến chúng ta như thế nào."
+    },
+    {
+        "word": "conclude",
+        "wordTypeArr": "v",
+        "phoneticTxt": "kənˈkluːd",
+        "yourLangMeaning": "kết luận, kết thúc",
+        "exampleEng": "Well, if no one has anything else to say, let's conclude the meeting.",
+        "exampleVn": "Nếu không ai nói gì nữa thì chúng ta hãy kết thúc buổi họp."
+    },
+    {
+        "word": "goal",
+        "wordTypeArr": "n",
+        "phoneticTxt": "gəʊl",
+        "yourLangMeaning": "mục tiêu",
+        "exampleEng": "The goal of this meeting is to decide on a new look for our product.",
+        "exampleVn": "Mục tiêu của buổi họp này là để quyết định chọn diện mạo mới cho sản phẩm của chúng ta."
+    },
+    {
+        "word": "lengthy",
+        "wordTypeArr": "adj",
+        "phoneticTxt": "ˈlɛŋθi",
+        "yourLangMeaning": "dài, lâu",
+        "exampleEng": "It was a lengthy meeting, but a good one.",
+        "exampleVn": "Nó là một buổi họp dài dòng nhưng hay."
+    },
+    {
+        "word": "lobby",
+        "wordTypeArr": "v",
+        "phoneticTxt": "ˈlɒbi",
+        "yourLangMeaning": "vận động hành lang",
+        "exampleEng": "It sounds like you are lobbying to fire the general manager.",
+        "exampleVn": "Có vẻ như bạn đang vận động hành lang để sa thải tổng giám đốc."
+    },
+    {
+        "word": "matter",
+        "wordTypeArr": "n",
+        "phoneticTxt": "ˈmætə",
+        "yourLangMeaning": "vấn đề, chủ đề",
+        "exampleEng": "There is another matter I would like to discuss.",
+        "exampleVn": "Có một chủ đề khác tôi muốn thảo luận."
+    },
+    {
+        "word": "option",
+        "wordTypeArr": "n",
+        "phoneticTxt": "ˈɒpʃən",
+        "yourLangMeaning": "sự lựa chọn, tùy chọn",
+        "exampleEng": "We have the option of delivering the order on Tuesday or Thursday.",
+        "exampleVn": "Chúng ta có sự lựa chọn giao hàng vào thứ Ba hoặc thứ Năm."
+    },
+    {
+        "word": "periodically",
+        "wordTypeArr": "adv",
+        "phoneticTxt": "ˌpɪərɪˈɒdɪkəli",
+        "yourLangMeaning": "một cách định kỳ",
+        "exampleEng": "We have meetings periodically, but not on a fixed schedule.",
+        "exampleVn": "Chúng tôi có buổi họp định kỳ nhưng không phải theo lịch cố định."
+    },
+    {
+        "word": "progress",
+        "wordTypeArr": "n",
+        "phoneticTxt": "ˈprəʊgrəs",
+        "yourLangMeaning": "sự tiến bộ",
+        "exampleEng": "We didn't make much progress at the last meeting, so I hope we can be more successful this time.",
+        "exampleVn": "Chúng ta không có nhiều tiến bộ tại buổi họp trước vì vậy tôi hy vọng chúng ta có thể thành công hơn vào lần này."
+    },
+    {
+        "word": "solve",
+        "wordTypeArr": "v",
+        "phoneticTxt": "sɒlv",
+        "yourLangMeaning": "giải quyết",
+        "exampleEng": "You can solve many problems by discussing them with coworkers.",
+        "exampleVn": "Bạn có thể giải quyết nhiều vấn đề bằng cách thảo luận với đồng nghiệp."
+    },
+    {
+        "word": "appeal",
+        "wordTypeArr": "v",
+        "phoneticTxt": "əˈpiːl",
+        "yourLangMeaning": "thu hút, cuốn hút",
+        "exampleEng": "This restaurant appeals to people with lots of money to spend.",
+        "exampleVn": "Nhà hàng này thu hút người ta tiêu nhiều tiền."
+    },
+    {
+        "word": "culinary",
+        "wordTypeArr": "adj",
+        "phoneticTxt": "ˈkʌlɪnəri",
+        "yourLangMeaning": "thuộc về nhà bếp",
+        "exampleEng": "The banquet was a culinary success; everyone thought the food was amazing.",
+        "exampleVn": "Buổi tiệc lớn là một thành công của nhà bếp; mọi người nghĩ thức ăn thật ngon."
+    },
+    {
+        "word": "delivery",
+        "wordTypeArr": "n",
+        "phoneticTxt": "dɪˈlɪvəri",
+        "yourLangMeaning": "sự phân phối, sự phân phát",
+        "exampleEng": "We are waiting for the delivery of the chairs.",
+        "exampleVn": "Chúng tôi chờ giao những chiếc ghế này."
+    },
+    {
+        "word": "elegance",
+        "wordTypeArr": "n",
+        "phoneticTxt": "ˈɛlɪgəns",
+        "yourLangMeaning": "sự tao nhã, sự nhã nhặn",
+        "exampleEng": "I love the elegance of a five-star hotel.",
+        "exampleVn": "Tôi yêu nét tao nhã của khách sạn năm sao."
+    },
+    {
+        "word": "impress",
+        "wordTypeArr": "v",
+        "phoneticTxt": "ˈɪmprɛs",
+        "yourLangMeaning": "tạo ấn tượng",
+        "exampleEng": "If you want to impress your wedding guests, you should hold an expensive banquet.",
+        "exampleVn": "Nếu bạn muốn tạo ấn tượng cho khách dự tiệc cưới của bạn thì bạn nên tổ chức một buộc tiệc lớn đắt tiền."
+    },
+    {
+        "word": "majority",
+        "wordTypeArr": "n",
+        "phoneticTxt": "məˈʤɒrɪti",
+        "yourLangMeaning": "đa số",
+        "exampleEng": "The majority of the people we invited are going to attend.",
+        "exampleVn": "Đa số những người chúng tôi mời đều đến tham dự."
+    },
+    {
+        "word": "plan",
+        "wordTypeArr": "v",
+        "phoneticTxt": "plæn",
+        "yourLangMeaning": "hoạch định, dự kiến",
+        "exampleEng": "The bride and groom planned their wedding a year in advance.",
+        "exampleVn": "Cô dâu và chú rể hoạch định cho đám cưới của họ một năm trước."
+    },
+    {
+        "word": "predict",
+        "wordTypeArr": "v",
+        "phoneticTxt": "prɪˈdɪkt",
+        "yourLangMeaning": "dự đoán, tiên đoán",
+        "exampleEng": "It's difficult to predict how much food you'll need for a banquet.",
+        "exampleVn": "Thật khó để dự đoán một buổi tiệc lớn cần bao nhiêu thức ăn."
+    },
+    {
+        "word": "theme",
+        "wordTypeArr": "n",
+        "phoneticTxt": "θiːm",
+        "yourLangMeaning": "chủ đề, chủ điểm",
+        "exampleEng": "This banquet has a Halloween theme, so you should wear a costume.",
+        "exampleVn": "Buổi tiệc lớn này có chủ đề Halloween, vì thế bạn nên mặc trang phục."
+    },
+    {
+        "word": "basic",
+        "wordTypeArr": "adj",
+        "phoneticTxt": "ˈbeɪsɪk",
+        "yourLangMeaning": "cơ bản, đơn giản nhất",
+        "exampleEng": "I just want something basic, like a sandwich or noodles.",
+        "exampleVn": "Tôi chỉ muốn thứ gì đơn giản, giống như bánh mì sandwich hay mì."
+    },
+    {
+        "word": "familiar",
+        "wordTypeArr": "adj",
+        "phoneticTxt": "fəˈmɪliə",
+        "yourLangMeaning": "quen thuộc, thân thiết",
+        "exampleEng": "Are you familiar with this cafe?",
+        "exampleVn": "Bạn quen với quán cà phê này ah?"
+    },
+    {
+        "word": "flavor",
+        "wordTypeArr": "n",
+        "phoneticTxt": "ˈfleɪvə",
+        "yourLangMeaning": "hương vị",
+        "exampleEng": "What flavor of ice cream would you like?",
+        "exampleVn": "Bạn thích hương kem nào?"
+    },
+    {
+        "word": "ingredient",
+        "wordTypeArr": "n",
+        "phoneticTxt": "ɪnˈgriːdiənt",
+        "yourLangMeaning": "nguyên liệu, thành phần",
+        "exampleEng": "What are the ingredients of this amazing cake?",
+        "exampleVn": "Nguyên liệu của chiếc bánh ngon này là gì?"
+    },
+    {
+        "word": "randomly",
+        "wordTypeArr": "adv",
+        "phoneticTxt": "ˈrændəmli",
+        "yourLangMeaning": "tình cờ, ngẫu nhiên",
+        "exampleEng": "I just randomly chose this place, but the food is actually quite good.",
+        "exampleVn": "Tôi chỉ tình cờ chọn nơi này, nhưng thức ăn thật sự ngon."
+    },
+    {
+        "word": "suggestion",
+        "wordTypeArr": "n",
+        "phoneticTxt": "səˈʤɛsʧən",
+        "yourLangMeaning": "sự đề nghị",
+        "exampleEng": "I'll go with your suggestion and take the vegetarian pizza.",
+        "exampleVn": "Tôi sẽ đi theo sự đề nghị của bạn và mang theo bánh pizza chay."
+    },
+    {
+        "word": "arrive",
+        "wordTypeArr": "v",
+        "phoneticTxt": "əˈraɪv",
+        "yourLangMeaning": "đến",
+        "exampleEng": "The quests have started to arrive.",
+        "exampleVn": "Khách bắt đầu đến."
+    },
+    {
+        "word": "assist",
+        "wordTypeArr": "v",
+        "phoneticTxt": "əˈsɪst",
+        "yourLangMeaning": "giúp, trợ giúp",
+        "exampleEng": "Can you assist Carol with the scheduling?",
+        "exampleVn": "Bạn có thể giúp Carol lên kế hoạch không?"
+    },
+    {
+        "word": "burden",
+        "wordTypeArr": "v",
+        "phoneticTxt": "ˈbɜːdn",
+        "yourLangMeaning": "đè nặng, chất nặng",
+        "exampleEng": "Can I burden you with a favor?",
+        "exampleVn": "Bạn có thể làm ơn giúp giùm tôi được không?"
+    },
+    {
+        "word": "commonly",
+        "wordTypeArr": "adv",
+        "phoneticTxt": "ˈkɒmənli",
+        "yourLangMeaning": "thường thường, lắm khi",
+        "exampleEng": "Wedding receptions are commonly held in hotels.",
+        "exampleVn": "Các tiệc cưới thường được tổ chức trong khách sạn."
+    },
+    {
+        "word": "individual",
+        "wordTypeArr": "adj",
+        "phoneticTxt": "ˌɪndɪˈvɪdjʊəl",
+        "yourLangMeaning": "cá nhân, riêng tư",
+        "exampleEng": "The entire staff received individual invitations to the party.",
+        "exampleVn": "Toàn bộ nhân viên nhận lời mời riêng đến bữa tiệc."
+    },
+    {
+        "word": "list",
+        "wordTypeArr": "n",
+        "phoneticTxt": "lɪst",
+        "yourLangMeaning": "danh sách",
+        "exampleEng": "There are almost a hundred people on our wedding list.",
+        "exampleVn": "Có gần 100 người trong danh sách tiệc cưới của chúng tôi."
+    },
+    {
+        "word": "mix",
+        "wordTypeArr": "v",
+        "phoneticTxt": "mɪks",
+        "yourLangMeaning": "sống hòa hợp với người khác, hòa đồng",
+        "exampleEng": "Receptions are a great place for people to mix.",
+        "exampleVn": "Tiệc chiêu đãi là một nơi tuyệt vời để mọi người giao thiệp với nhau."
+    },
+    {
+        "word": "profession",
+        "wordTypeArr": "n",
+        "phoneticTxt": "prəˈfɛʃən",
+        "yourLangMeaning": "nghề, nghề nghiệp",
+        "exampleEng": "Anne enjoys her profession as a party planner.",
+        "exampleVn": "Anne thích nghề làm người tổ chức tiệc."
+    },
+    {
+        "word": "demand",
+        "wordTypeArr": "v",
+        "phoneticTxt": "dɪˈmɑːnd",
+        "yourLangMeaning": "đòi hỏi, yêu cầu",
+        "exampleEng": "But we booked the table a week ago! I demand to see the manager.",
+        "exampleVn": "Nhưng chúng tôi đã đặt bàn cách đây một tuần! Tôi yêu cầu được gặp giám đốc."
+    },
+    {
+        "word": "forget",
+        "wordTypeArr": "v",
+        "phoneticTxt": "fəˈgɛt",
+        "yourLangMeaning": "quên",
+        "exampleEng": "Did you forget to make a reservation?",
+        "exampleVn": "Bạn quên đặt chỗ trước phải không?"
+    },
+    {
+        "word": "mix-up",
+        "wordTypeArr": "n",
+        "phoneticTxt": "ˈmɪksˈʌp",
+        "yourLangMeaning": "sự lẫn lộn, sự hỗn loạn, cuộc ẩu đả",
+        "exampleEng": "There seems to be a mix-up: you gave us a table near the kitchen, but we wanted a table near the window.",
+        "exampleVn": "Dường như có sự lẫn lộn: bạn dành cho chúng tôi bàn gần nhà bếp nhưng chúng tôi muốn một bàn gần cửa sổ."
+    },
+    {
+        "word": "patron",
+        "wordTypeArr": "n",
+        "phoneticTxt": "ˈpeɪtrən",
+        "yourLangMeaning": "khách hàng quen, người bảo trợ",
+        "exampleEng": "Patrons of the hotel can park their cars for free.",
+        "exampleVn": "Khách hàng quen của khách sạn có thể đậu xe miễn phí."
+    },
+    {
+        "word": "relinquish",
+        "wordTypeArr": "v",
+        "phoneticTxt": "rɪˈlɪŋkwɪʃ",
+        "yourLangMeaning": "bỏ, từ bỏ, từ chức, nhường",
+        "exampleEng": "Andy relinquished his seat to a quest who was waiting.",
+        "exampleVn": "Andy nhường chỗ của anh cho người khách đang chờ."
+    },
+    {
+        "word": "remind",
+        "wordTypeArr": "v",
+        "phoneticTxt": "ˈrɪmaɪnd",
+        "yourLangMeaning": "nhắc, nhắc nhở",
+        "exampleEng": "The waiter forgets my drink; I need to remind him.",
+        "exampleVn": "Người phục vụ đã quên thức uống của tôi; tôi cần nhắc anh ấy."
+    },
+    {
+        "word": "secure",
+        "wordTypeArr": "v",
+        "phoneticTxt": "sɪˈkjʊə",
+        "yourLangMeaning": "bảo đảm",
+        "exampleEng": "You have to pay now to secure the reservation.",
+        "exampleVn": "Bạn phải trả bây giờ để bảo đảm chỗ đặt trước."
+    },
+    {
+        "word": "complete",
+        "wordTypeArr": "adj",
+        "phoneticTxt": "kəmˈpliːt",
+        "yourLangMeaning": "hoàn toàn, trọn vẹn",
+        "exampleEng": "The event was a complete success.",
+        "exampleVn": "Sự kiện này là một thành công trọn vẹn."
+    },
+    {
+        "word": "coordinate",
+        "wordTypeArr": "v",
+        "phoneticTxt": "kəʊˈɔːdnɪt",
+        "yourLangMeaning": "xếp đặt, phối hợp, điều hành",
+        "exampleEng": "For the event to be successful, we need to coordinate everything with the caterers.",
+        "exampleVn": "Để sự kiện thành công, chúng ta cần phối hợp mọi việc với những người quản lý khách sạn."
+    },
+    {
+        "word": "daringly",
+        "wordTypeArr": "adv",
+        "phoneticTxt": "ˈdeərɪŋli",
+        "yourLangMeaning": "có vẻ gan dạ, liều lĩnh",
+        "exampleEng": "She daringly invited the mayor to the party.",
+        "exampleVn": "Cô ấy liều lĩnh mời thị trưởng đến dự tiệc."
+    },
+    {
+        "word": "exact",
+        "wordTypeArr": "adj",
+        "phoneticTxt": "ɪgˈzækt",
+        "yourLangMeaning": "chính xác",
+        "exampleEng": "The band played the exact same music as last time!",
+        "exampleVn": "Ban nhạc chơi cùng một loại nhạc như lúc trước."
+    },
+    {
+        "word": "excite",
+        "wordTypeArr": "v",
+        "phoneticTxt": "ɪkˈsaɪt",
+        "yourLangMeaning": "kích thích, kích động",
+        "exampleEng": "Fireworks always excite a crowd.",
+        "exampleVn": "Pháo hoa luôn làm đám đông kích động."
+    },
+    {
+        "word": "general",
+        "wordTypeArr": "adj",
+        "phoneticTxt": "ˈʤɛnərəl",
+        "yourLangMeaning": "chung, phổ biến",
+        "exampleEng": "There was general agreement that this was the best party of the year.",
+        "exampleVn": "Có một sự đồng ý chung rằng đây là bữa tiệc tuyệt vời nhất của năm."
+    },
+    {
+        "word": "guide",
+        "wordTypeArr": "n",
+        "phoneticTxt": "gaɪd",
+        "yourLangMeaning": "hướng dẫn viên",
+        "exampleEng": "The restaurant guide gave this place a high rating.",
+        "exampleVn": "Hướng dẫn viên của khách sạn đánh giá cao nơi này."
+    },
+    {
+        "word": "ideally",
+        "wordTypeArr": "adv",
+        "phoneticTxt": "aɪˈdɪəli",
+        "yourLangMeaning": "một cách lý tưởng",
+        "exampleEng": "Ideally, the banquet should start at 4:00 p.m.",
+        "exampleVn": "Buổi tiệc lớn này nên bắt đầu lúc 4 giờ chiều là lý tưởng nhất."
+    },
+    {
+        "word": "incorporate",
+        "wordTypeArr": "v",
+        "phoneticTxt": "ɪnˈkɔːpərɪt",
+        "yourLangMeaning": "sáp nhập, kết hợp chặt chẽ",
+        "exampleEng": "It would be great if we could incorporate the presentation into our event.",
+        "exampleVn": "Thật tuyệt vời nếu chúng ta kết hợp diễn thuyết trong sự kiện của chúng ta."
+    },
+    {
+        "word": "judge",
+        "wordTypeArr": "v",
+        "phoneticTxt": "ˈʤʌʤ",
+        "yourLangMeaning": "phán đoán, đánh giá, phân xử",
+        "exampleEng": "It's difficult to judge what kind of music to play at these events.",
+        "exampleVn": "Thật khó để phán đoán loại nhạc nào để chơi trong những sự kiện này."
+    },
+    {
+        "word": "rely",
+        "wordTypeArr": "v",
+        "phoneticTxt": "rɪˈlaɪ",
+        "yourLangMeaning": "dựa vào, tin vào, cậy vào",
+        "exampleEng": "You can rely on Judy to get everything done on time.",
+        "exampleVn": "Bạn có thể dựa vào Judy để hoàn thành mọi việc đúng giờ."
+    },
+    {
+        "word": "stage",
+        "wordTypeArr": "n",
+        "phoneticTxt": "steɪʤ",
+        "yourLangMeaning": "sân khấu",
+        "exampleEng": "The singer will be on stage soon.",
+        "exampleVn": "Ca sĩ sẽ lên sân khấu ngay."
+    },
+    {
+        "word": "beverage",
+        "wordTypeArr": "n",
+        "phoneticTxt": "ˈbɛvərɪʤ",
+        "yourLangMeaning": "nước giải khát",
+        "exampleEng": "What kind of beverage do you offer?",
+        "exampleVn": "Bạn gọi loại nước giải khát nào?"
+    },
+    {
+        "word": "blanket",
+        "wordTypeArr": "n, adj",
+        "phoneticTxt": "ˈblæŋkɪt",
+        "yourLangMeaning": "mền, chăn, bao trùm",
+        "exampleEng": "Can you ask the flight attendant to give me a blanket?",
+        "exampleVn": "Bạn có thể yêu cầu tiếp viên máy bay đưa cho tôi chiếc mền được chứ?"
+    },
+    {
+        "word": "board",
+        "wordTypeArr": "v",
+        "phoneticTxt": "bɔːd",
+        "yourLangMeaning": "lên tàu, lên máy bay",
+        "exampleEng": "We need to board the plane now, as it will be leaving soon.",
+        "exampleVn": "Bây giờ chúng ta phải lên máy bay vì nó sắp cất cánh."
+    },
+    {
+        "word": "chain",
+        "wordTypeArr": "n",
+        "phoneticTxt": "ʧeɪn",
+        "yourLangMeaning": "chuỗi, dây xích, dây",
+        "exampleEng": "If you pull that chain, the train will stop.",
+        "exampleVn": "Nếu bạn kéo dây đó, xe lửa sẽ dừng."
+    },
+    {
+        "word": "duluxe",
+        "wordTypeArr": "adj",
+        "phoneticTxt": "dɪˈlʌks",
+        "yourLangMeaning": "thuộc loại sang trọng, xa xỉ",
+        "exampleEng": "We bought tickets for the deluxe train car.",
+        "exampleVn": "Chúng tôi mua vé hạng sang."
+    },
+    {
+        "word": "disappoint",
+        "wordTypeArr": "v",
+        "phoneticTxt": "ˌdɪsəˈpɔɪnt",
+        "yourLangMeaning": "làm hỏng, làm thất vọng",
+        "exampleEng": "I'm sorry to disappoint you, but the train is not going to arrive on time.",
+        "exampleVn": "Tôi xin lỗi đã làm bạn thất vọng nhưng tàu lửa đến không đúng giờ."
+    },
+    {
+        "word": "distinguish",
+        "wordTypeArr": "v",
+        "phoneticTxt": "dɪsˈtɪŋgwɪʃ",
+        "yourLangMeaning": "phân biệt, nhận ra",
+        "exampleEng": "He can distinguish where a wine was produced just by tasting it.",
+        "exampleVn": "Anh ấy có thể nhận ra rượu được sản xuất ở đâu chỉ bằng cách nếm thử."
+    },
+    {
+        "word": "license",
+        "wordTypeArr": "n",
+        "phoneticTxt": "ˈlaɪsəns",
+        "yourLangMeaning": "sự cho phép, giấy phép, chứng chỉ",
+        "exampleEng": "You need a valid license to rent this car.",
+        "exampleVn": "Bạn cần giấy phép hợp lệ để thuê chiếc ô tô này."
+    },
+    {
+        "word": "multiple",
+        "wordTypeArr": "adj",
+        "phoneticTxt": "ˈmʌltɪpl",
+        "yourLangMeaning": "nhiều, phức tạp",
+        "exampleEng": "This train ticket allows me to make multiple stops.",
+        "exampleVn": "Vé xe lửa này cho phép tôi đón xe ở nhiều trạm."
+    },
+    {
+        "word": "prohibit",
+        "wordTypeArr": "v",
+        "phoneticTxt": "prəˈhɪbɪt",
+        "yourLangMeaning": "cấm, ngăn chặn",
+        "exampleEng": "Smoking is prohibited on the train.",
+        "exampleVn": "Cấm hút thuốc trên xe lửa."
+    },
+    {
+        "word": "relatively",
+        "wordTypeArr": "adv",
+        "phoneticTxt": "ˈrɛlətɪvli",
+        "yourLangMeaning": "tương đối, khá, vừa phải",
+        "exampleEng": "A plane ticket is relatively expensive, but we'll get there faster.",
+        "exampleVn": "Vé máy bay tương đối đắt nhưng chúng ta sẽ đi nhanh hơn."
+    },
+    {
+        "word": "service",
+        "wordTypeArr": "n",
+        "phoneticTxt": "ˈsɜːvɪs",
+        "yourLangMeaning": "sự phục vụ",
+        "exampleEng": "The service on the flight was really good, and so was the food.",
+        "exampleVn": "Sự phục vụ trên máy bay thật sự tốt và thức ăn cũng ngon."
+    },
+    {
+        "word": "substantially",
+        "wordTypeArr": "adv",
+        "phoneticTxt": "səbˈstænʃəli",
+        "yourLangMeaning": "lớn lao, đáng kể",
+        "exampleEng": "Planes are substantially faster than other kinds of transport.",
+        "exampleVn": "Máy bay thì nhanh hơn rất nhiều so với những phương tiện giao thông khác."
+    },
+    {
+        "word": "thrill",
+        "wordTypeArr": "n",
+        "phoneticTxt": "θrɪl",
+        "yourLangMeaning": "sự rùng mình, sự kích động",
+        "exampleEng": "Flying is always a thrill for me.",
+        "exampleVn": "Đi máy bay luôn là nỗi sợ đối với tôi."
+    },
+    {
+        "word": "agent",
+        "wordTypeArr": "n",
+        "phoneticTxt": "ˈeɪʤənt",
+        "yourLangMeaning": "đại lý, tác nhân",
+        "exampleEng": "The agent says we can pay for the tickets with a credit card.",
+        "exampleVn": "Đại lý cho biết rằng chúng ta có thể thanh toán vé bằng thẻ tín dụng."
+    },
+    {
+        "word": "confirm",
+        "wordTypeArr": "v",
+        "phoneticTxt": "kənˈfɜːm",
+        "yourLangMeaning": "xác nhận, xác minh",
+        "exampleEng": "I'm just calling to confirm that our seats have been booked.",
+        "exampleVn": "Tôi chỉ gọi để xác nhận chỗ ngồi của chúng tôi đã được đặt."
+    },
+    {
+        "word": "destination",
+        "wordTypeArr": "n",
+        "phoneticTxt": "ˌdɛstɪˈneɪʃən",
+        "yourLangMeaning": "nơi đến",
+        "exampleEng": "We're going to Paris, but on this ticket, it says the destination is London!",
+        "exampleVn": "Chúng tôi đến Paris nhưng vé máy bay ghi nơi đến là Luân Đôn!"
+    },
+    {
+        "word": "economize",
+        "wordTypeArr": "v",
+        "phoneticTxt": "i(ː)ˈkɒnəmaɪz",
+        "yourLangMeaning": "tiết kiệm",
+        "exampleEng": "We can economize by taking the train instead of flying.",
+        "exampleVn": "Chúng ta có thể tiết kiệm bằng cách đi xe lửa thay vì đi máy bay."
+    },
+    {
+        "word": "equivalent",
+        "wordTypeArr": "adj",
+        "phoneticTxt": "ɪˈkwɪvələnt",
+        "yourLangMeaning": "tương đương, ngang bằng",
+        "exampleEng": "500$ is equivalent to about 16.000 NT$.",
+        "exampleVn": "500 đô la Mỹ bằng 16.000 đô la Đài Loan."
+    },
+    {
+        "word": "excursion",
+        "wordTypeArr": "n",
+        "phoneticTxt": "ɪksˈkɜːʃən",
+        "yourLangMeaning": "cuộc đi chơi, chuyến tham quan",
+        "exampleEng": "We're going on an excursion to ILan next weekend.",
+        "exampleVn": "Chúng tôi sắp đi tham quan ILan cuối tuần sau."
+    },
+    {
+        "word": "expense",
+        "wordTypeArr": "n",
+        "phoneticTxt": "ɪksˈpɛns",
+        "yourLangMeaning": "sự tiêu, phí tổn",
+        "exampleEng": "Plane tickets are usually the biggest expense of a trip overseas.",
+        "exampleVn": "Vé máy bay thường là chi tiêu lớn nhất cho chuyến tham quan nước ngoài."
+    },
+    {
+        "word": "extend",
+        "wordTypeArr": "v",
+        "phoneticTxt": "ɪksˈtɛnd",
+        "yourLangMeaning": "kéo dài, mở rộng",
+        "exampleEng": "We want to extend our trip by two days.",
+        "exampleVn": "Chúng tôi muốn kéo dài chuyến tham quan 2 ngày."
+    },
+    {
+        "word": "fare",
+        "wordTypeArr": "n",
+        "phoneticTxt": "feə",
+        "yourLangMeaning": "tiền xe, tiền vé",
+        "exampleEng": "How much is the bus fare from the station to the zoo?",
+        "exampleVn": "Vé xe buýt từ trạm này đến sở thú bao nhiêu tiền?"
+    },
+    {
+        "word": "quote",
+        "wordTypeArr": "n",
+        "phoneticTxt": "kwəʊt",
+        "yourLangMeaning": "việc đặt giá, định giá",
+        "exampleEng": "Can you give me a quote for remodeling the whole kitchen?",
+        "exampleVn": "Anh có thể định giá cho việc sửa chữa toàn bộ nhà bếp chứ?"
+    },
+    {
+        "word": "rate",
+        "wordTypeArr": "n",
+        "phoneticTxt": "reɪt",
+        "yourLangMeaning": "tỷ lệ, giá",
+        "exampleEng": "Does the taxi rate go up during the holidays?",
+        "exampleVn": "Có phải tỷ lệ taxi tăng lên trong suốt lễ hội không?"
+    },
+    {
+        "word": "reservation",
+        "wordTypeArr": "n",
+        "phoneticTxt": "ˌrɛzəˈveɪʃən",
+        "yourLangMeaning": "sự đặt chỗ trước",
+        "exampleEng": "You have a reservation for two tickets to Tokyo.",
+        "exampleVn": "Bạn đặt chỗ trước cho 2 vé đi Tokyo."
+    },
+    {
+        "word": "tempt",
+        "wordTypeArr": "v",
+        "phoneticTxt": "tɛmpt",
+        "yourLangMeaning": "lôi cuốn, cám dỗ",
+        "exampleEng": "I was tempted to buy first-class tickets, but I didn't.",
+        "exampleVn": "Tôi bị lôi cuốn mua những vé hạng nhất nhưng tôi không mua được."
+    },
+    {
+        "word": "ticket",
+        "wordTypeArr": "n",
+        "phoneticTxt": "ˈtɪkɪt",
+        "yourLangMeaning": "vé",
+        "exampleEng": "How much is a ticket to Hong Kong?",
+        "exampleVn": "Vé đến Hồng Kông bao nhiêu tiền?"
+    },
+    {
+        "word": "valid",
+        "wordTypeArr": "adj",
+        "phoneticTxt": "ˈvælɪd",
+        "yourLangMeaning": "hiệu lực, hợp lệ",
+        "exampleEng": "Only keep the coupons that are still valid.",
+        "exampleVn": "Chỉ giữ những phiếu mua hàng nào vẫn còn hiệu lực."
+    },
+    {
+        "word": "coincide",
+        "wordTypeArr": "v",
+        "phoneticTxt": "ˌkəʊɪnˈsaɪd",
+        "yourLangMeaning": "trùng với, đồng nhất với",
+        "exampleEng": "Our trip coincides with the festival.",
+        "exampleVn": "Chuyến tham quan của chúng ta trùng với lễ hội này."
+    },
+    {
+        "word": "comprehensive",
+        "wordTypeArr": "adj",
+        "phoneticTxt": "ˌkɒmprɪˈhɛnsɪv",
+        "yourLangMeaning": "bao hàm, toàn diện",
+        "exampleEng": "It's a fully comprehensive tour package; meals and drinks are included.",
+        "exampleVn": "Một chuyến du lịch trọn gói bao gồm thức ăn và nước uống."
+    },
+    {
+        "word": "confusion",
+        "wordTypeArr": "n",
+        "phoneticTxt": "kənˈfjuːʒən",
+        "yourLangMeaning": "sự hỗn loạn, sự nhầm lẫn, lộn xộn",
+        "exampleEng": "There seems to be some confusion as to when we're stopping for lunch.",
+        "exampleVn": "Dường như có vài sự lộn xộn khi chúng tôi nghỉ để ăn trưa."
+    },
+    {
+        "word": "contact",
+        "wordTypeArr": "v",
+        "phoneticTxt": "ˈkɒntækt",
+        "yourLangMeaning": "liên lạc, liên hệ",
+        "exampleEng": "You need to contact the hotel to let them know we'll be late.",
+        "exampleVn": "Bạn cần liên hệ với khách sạn để cho họ biết chúng ta sẽ đến trễ."
+    },
+    {
+        "word": "delay",
+        "wordTypeArr": "v",
+        "phoneticTxt": "dɪˈleɪ",
+        "yourLangMeaning": "hoãn, trì hoãn",
+        "exampleEng": "The flight has been delayed until three o'clock.",
+        "exampleVn": "Chuyến bay bị hoãn lại cho đến 3 giờ."
+    },
+    {
+        "word": "depart",
+        "wordTypeArr": "v",
+        "phoneticTxt": "dɪˈpɑːt",
+        "yourLangMeaning": "xuất phát, khởi hành",
+        "exampleEng": "The train will depart at six o'clock, so don't be late.",
+        "exampleVn": "Xe lửa sẽ khởi hành lúc 6 giờ, vì thế đừng có đến trễ."
+    },
+    {
+        "word": "duration",
+        "wordTypeArr": "n",
+        "phoneticTxt": "djʊəˈreɪʃən",
+        "yourLangMeaning": "khoảng thời gian",
+        "exampleEng": "I spent the duration of my vacation relaxing on the beach.",
+        "exampleVn": "Tôi thư giãn trên bãi biển trong suốt kỳ nghỉ."
+    },
+    {
+        "word": "embarkation",
+        "wordTypeArr": "n",
+        "phoneticTxt": "ˌɛmbɑːˈkeɪʃən",
+        "yourLangMeaning": "sự cho lên tàu",
+        "exampleEng": "At embarkation, please have your passport available.",
+        "exampleVn": "Lúc lên tàu, vui lòng cầm sẵn hộ chiếu của quý vị."
+    },
+    {
+        "word": "expect",
+        "wordTypeArr": "v",
+        "phoneticTxt": "ɪksˈpɛkt",
+        "yourLangMeaning": "mong, mong đợi",
+        "exampleEng": "What time do you expect the bus to arrive?",
+        "exampleVn": "Bạn mong xe buýt đến lúc mấy giờ?"
+    },
+    {
+        "word": "intend",
+        "wordTypeArr": "v",
+        "phoneticTxt": "ɪnˈtɛnd",
+        "yourLangMeaning": "dự định",
+        "exampleEng": "We intend to do lots of shopping on this trip!",
+        "exampleVn": "Chúng tôi dự định sẽ mua sắm nhiều trong chuyến tham quan này."
+    },
+    {
+        "word": "itinerary",
+        "wordTypeArr": "n",
+        "phoneticTxt": "aɪˈtɪnərəri",
+        "yourLangMeaning": "kế hoạch về một cuộc hành trình",
+        "exampleEng": "According to the itinerary, we'll be going to see a show tomorrow night.",
+        "exampleVn": "Theo kế hoạch cuộc hành trình, chúng ta sẽ xem buổi trình diễn vào tối mai."
+    },
+    {
+        "word": "notify",
+        "wordTypeArr": "v",
+        "phoneticTxt": "ˈnəʊtɪfaɪ",
+        "yourLangMeaning": "thông báo",
+        "exampleEng": "Please notify the tour guide if you will not be getting back on the bus.",
+        "exampleVn": "Vui lòng thông báo cho hướng dẫn viên du lịch biết nếu bạn không thể trở lại xe buýt."
+    },
+    {
+        "word": "optional",
+        "wordTypeArr": "adj",
+        "phoneticTxt": "ˈɒpʃənl",
+        "yourLangMeaning": "tùy ý, không bắt buộc",
+        "exampleEng": "You don't have to go shopping with everyone else; it's optional.",
+        "exampleVn": "Bạn không phải đi mua sắm cùng mọi người; đó là không bắt buộc."
+    },
+    {
+        "word": "preclude",
+        "wordTypeArr": "v",
+        "phoneticTxt": "prɪˈkluːd",
+        "yourLangMeaning": "ngăn chặn, ngăn cản",
+        "exampleEng": "Rain would preclude our plans to have a picnic.",
+        "exampleVn": "Mưa sẽ ngăn cản kế hoạch đi dã ngoại của chúng ta."
+    },
+    {
+        "word": "remainder",
+        "wordTypeArr": "n",
+        "phoneticTxt": "rɪˈmeɪndə",
+        "yourLangMeaning": "thời gian còn lại, phần còn lại",
+        "exampleEng": "I think we will spend the remainder of the trip at the beach.",
+        "exampleVn": "Tôi nghĩ chúng ta sẽ dành thời gian còn lại của chuyến tham quan tại bãi biển."
+    },
+    {
+        "word": "advanced",
+        "wordTypeArr": "adj",
+        "phoneticTxt": "ədˈvɑːnst",
+        "yourLangMeaning": "cao cấp, tiên tiến",
+        "exampleEng": "The station has a very advanced computer system that tells you where all the trains are.",
+        "exampleVn": "Nhà ga này có hệ thống máy tính tiên tiến cho bạn biết tất cả nơi những chuyến xe lửa đi qua."
+    },
+    {
+        "word": "announcement",
+        "wordTypeArr": "n",
+        "phoneticTxt": "əˈnaʊnsmənt",
+        "yourLangMeaning": "sự thông báo",
+        "exampleEng": "I just heard an announcement that the train is going to be late.",
+        "exampleVn": "Tôi vừa nghe thông báo rằng xe lửa sẽ đến trễ."
+    },
+    {
+        "word": "busy",
+        "wordTypeArr": "adj",
+        "phoneticTxt": "ˈbɪzi",
+        "yourLangMeaning": "bận rộn, náo nhiệt",
+        "exampleEng": "This is the main station, so it's always very busy.",
+        "exampleVn": "Đây là nhà ga chính, vì thế nó luôn náo nhiệt."
+    },
+    {
+        "word": "claim",
+        "wordTypeArr": "v",
+        "phoneticTxt": "kleɪm",
+        "yourLangMeaning": "đòi hỏi, yêu sách",
+        "exampleEng": "You must show your ticket before you can claim your baggage.",
+        "exampleVn": "Bạn phải trình vé trước khi bạn đòi hành lý của mình."
+    },
+    {
+        "word": "nervously",
+        "wordTypeArr": "adv",
+        "phoneticTxt": "ˈnɜːvəsli",
+        "yourLangMeaning": "bồn chồn, lo lắng",
+        "exampleEng": "She's scared of flying and is nervously looking out the window.",
+        "exampleVn": "Cô ấy sợ đi máy bay và cô ấy lo lắng nhìn ra ngoài cửa sổ."
+    },
+    {
+        "word": "operate",
+        "wordTypeArr": "v",
+        "phoneticTxt": "ˈɒpəreɪt",
+        "yourLangMeaning": "hoạt động, điều khiển, quản lý",
+        "exampleEng": "That airline doesn't operate out of Taipei.",
+        "exampleVn": "Hãng hàng không đó không hoạt động ngoài Đài Bắc."
+    },
+    {
+        "word": "punctually",
+        "wordTypeArr": "adv",
+        "phoneticTxt": "ˈpʌŋktjʊəli",
+        "yourLangMeaning": "đúng giờ",
+        "exampleEng": "The trains always leave punctually; they're never late.",
+        "exampleVn": "Xe lửa luôn khởi hành đúng giờ, chúng không bao giờ trễ."
+    },
+    {
+        "word": "remote",
+        "wordTypeArr": "adj",
+        "phoneticTxt": "rɪˈməʊt",
+        "yourLangMeaning": "xa xôi, hẻo lánh, biệt lập",
+        "exampleEng": "You don't see many people at this station because it's so remote.",
+        "exampleVn": "Bạn không thấy nhiều người tại sân ga này vì nó quá hẻo lánh."
+    },
+    {
+        "word": "system",
+        "wordTypeArr": "n",
+        "phoneticTxt": "ˈsɪstɪm",
+        "yourLangMeaning": "hệ thống, chế độ, phương pháp",
+        "exampleEng": "The station has a very good system for making sure the trains leave on time.",
+        "exampleVn": "Nhà ga này có hệ thống rất tốt để bảo đảm rằng xe lửa khởi hành đúng giờ."
+    },
+    {
+        "word": "action",
+        "wordTypeArr": "n",
+        "phoneticTxt": "ˈækʃ(ə)n",
+        "yourLangMeaning": "hành động, hành vi",
+        "exampleEng": "I don't like action movies very much; there's always too much fighting.",
+        "exampleVn": "Tôi không thích phim hành động lắm; lúc nào cũng có quá nhiều cảnh đánh nhau."
+    },
+    {
+        "word": "admire",
+        "wordTypeArr": "v",
+        "phoneticTxt": "ədˈmaɪə",
+        "yourLangMeaning": "hâm mộ, ngưỡng mộ",
+        "exampleEng": "I really admire this actor because all his movies are great.",
+        "exampleVn": "Tôi thực sự hâm mộ nam diễn viên này vì tất cả phim của anh ấy đều hay."
+    },
+    {
+        "word": "collection",
+        "wordTypeArr": "n",
+        "phoneticTxt": "kəˈlɛkʃən",
+        "yourLangMeaning": "sự sưu tập, sự thu thập",
+        "exampleEng": "I have a collection of nature DVDs.",
+        "exampleVn": "Tôi có bộ sưu tập những DVD gốc."
+    },
+    {
+        "word": "dialogue",
+        "wordTypeArr": "n",
+        "phoneticTxt": "ˈdaɪəlɒg",
+        "yourLangMeaning": "cuộc đối thoại",
+        "exampleEng": "There wasn't much dialogue in that new kungfu movie.",
+        "exampleVn": "Không có nhiều cuộc đối thoại trong phim kung fu mới."
+    },
+    {
+        "word": "intertainment",
+        "wordTypeArr": "n",
+        "phoneticTxt": "intertainment",
+        "yourLangMeaning": "cuộc giải trí, cuộc tiêu khiển",
+        "exampleEng": "Movies are my favorite kind of entertainment.",
+        "exampleVn": "Phim là kiểu giải trí ưu thích nhất của tôi."
+    },
+    {
+        "word": "experience",
+        "wordTypeArr": "n",
+        "phoneticTxt": "ɪksˈpɪərɪəns",
+        "yourLangMeaning": "kinh nghiệm, trải nghiệm",
+        "exampleEng": "For me, seeing movies is a really enjoyable experience.",
+        "exampleVn": "Đối với tôi, xem phim là một trải nghiệm thực sự thú vị."
+    },
+    {
+        "word": "leisure",
+        "wordTypeArr": "adj",
+        "phoneticTxt": "ˈlɛʒə",
+        "yourLangMeaning": "nhàn rỗi, rảnh rỗi",
+        "exampleEng": "One of my favorite leisure activities is watching movies.",
+        "exampleVn": "Một trong những hoạt động ưa thích nhất của tôi lúc rảnh rỗi là xem phim."
+    },
+    {
+        "word": "release",
+        "wordTypeArr": "v",
+        "phoneticTxt": "rɪˈliːs",
+        "yourLangMeaning": "phóng thích, phát hành, đưa ra bán",
+        "exampleEng": "When will the movie be released in Taiwan?",
+        "exampleVn": "Khi nào bộ phim được công chiếu ở Đài Loan?"
+    },
+    {
+        "word": "audience",
+        "wordTypeArr": "n",
+        "phoneticTxt": "ˈɔːdiəns",
+        "yourLangMeaning": "khán giả, tính giả",
+        "exampleEng": "The audience enjoyed the play.",
+        "exampleVn": "Khán giả thích vở kịch này."
+    },
+    {
+        "word": "continue",
+        "wordTypeArr": "v",
+        "phoneticTxt": "kənˈtɪnju(ː)",
+        "yourLangMeaning": "tiếp tục",
+        "exampleEng": "The show will continue after the break.",
+        "exampleVn": "Buổi diễn này sẽ tiếp tục sau giờ giải lao."
+    },
+    {
+        "word": "criticism",
+        "wordTypeArr": "n",
+        "phoneticTxt": "ˈkrɪtɪsɪzm",
+        "yourLangMeaning": "lời phê bình, sự phê bình",
+        "exampleEng": "The theater came under criticism for allowing people to smoke.",
+        "exampleVn": "Nhà hát này bị phê bình vì cho phép người xem hút thuốc."
+    },
+    {
+        "word": "occur",
+        "wordTypeArr": "v",
+        "phoneticTxt": "əˈkɜː",
+        "yourLangMeaning": "xảy ra, diễn ra, xuất hiện",
+        "exampleEng": "The opening of the new theater should occur this summer.",
+        "exampleVn": "Buổi khai trương nhà hát sẽ diễn ra vào mùa hè này."
+    },
+    {
+        "word": "perform",
+        "wordTypeArr": "v",
+        "phoneticTxt": "pəˈfɔːm",
+        "yourLangMeaning": "biểu diễn, trình diễn, cử hành",
+        "exampleEng": "The actors performed really well.",
+        "exampleVn": "Các diễn viên diễn thật sự hay."
+    },
+    {
+        "word": "rehearse",
+        "wordTypeArr": "v",
+        "phoneticTxt": "rɪˈhɜːs",
+        "yourLangMeaning": "nhắc lại, diễn tập",
+        "exampleEng": "We need to rehearse more because we still haven't got it quite right.",
+        "exampleVn": "Chúng ta cần diễn tập nhiều hơn bởi vì chúng ta vẫn chưa diễn đúng lắm."
+    },
+    {
+        "word": "schedule",
+        "wordTypeArr": "v",
+        "phoneticTxt": "ˈʃɛdjuːl",
+        "yourLangMeaning": "dự định, lên kế hoạch",
+        "exampleEng": "The play is scheduled to begin next Friday.",
+        "exampleVn": "Vở kịch này dự định bắt đầu vào thứ Sáu tới."
+    },
+    {
+        "word": "successive",
+        "wordTypeArr": "adj",
+        "phoneticTxt": "səkˈsɛsɪv",
+        "yourLangMeaning": "liên tục, liên tiếp, lần lượt",
+        "exampleEng": "This Christmas play has been shown here for four successive years.",
+        "exampleVn": "Vở kịch Giáng Sinh này được diễn ở đây 4 năm liên tiếp."
+    },
+    {
+        "word": "available",
+        "wordTypeArr": "adj",
+        "phoneticTxt": "əˈveɪləbl",
+        "yourLangMeaning": "sẵn có để dùng, có hiệu lực",
+        "exampleEng": "The CD will be available in stores next month.",
+        "exampleVn": "Đĩa CD này sẽ có trong cửa hàng vào tháng tới."
+    },
+    {
+        "word": "category",
+        "wordTypeArr": "n",
+        "phoneticTxt": "ˈkætɪgəri",
+        "yourLangMeaning": "loại",
+        "exampleEng": "His music is so different that it can't be put into just one category.",
+        "exampleVn": "Nhạc của anh ấy rất khác đến nỗi không thể xếp nó vào một loại nào."
+    },
+    {
+        "word": "combine",
+        "wordTypeArr": "v",
+        "phoneticTxt": "ˈkɒmbaɪn",
+        "yourLangMeaning": "kết hợp, phối hợp",
+        "exampleEng": "His songs combine jazz with traditional music.",
+        "exampleVn": "Những bài hát của anh ấy phối hợp giữa nhạc jazz và nhạc dân tộc."
+    },
+    {
+        "word": "disparate",
+        "wordTypeArr": "adj",
+        "phoneticTxt": "ˈdɪspərɪt",
+        "yourLangMeaning": "khác hẳn, khác loại",
+        "exampleEng": "She has taken two disparate music styles and made them work very well together.",
+        "exampleVn": "Cô ấy chơi 2 thể loại nhạc khác nhau và kết hợp chúng rất hay."
+    },
+    {
+        "word": "element",
+        "wordTypeArr": "n",
+        "phoneticTxt": "ˈɛlɪmənt",
+        "yourLangMeaning": "yếu tố",
+        "exampleEng": "Loud drums are just one element of the band's style.",
+        "exampleVn": "Trống âm thanh lớn chỉ là một yếu tố trong phong cách của ban nhạc."
+    },
+    {
+        "word": "fashion",
+        "wordTypeArr": "n",
+        "phoneticTxt": "ˈfæʃən",
+        "yourLangMeaning": "mốt, thời trang",
+        "exampleEng": "Rock music isn't in fashion anymore.",
+        "exampleVn": "Nhạc rock không còn hợp thời nữa."
+    },
+    {
+        "word": "impact",
+        "wordTypeArr": "n",
+        "phoneticTxt": "ˈɪmpækt",
+        "yourLangMeaning": "sự ảnh hưởng, tác động",
+        "exampleEng": "Her music has had quite an impact on the world.",
+        "exampleVn": "Nhạc của cô ấy rất có ảnh hưởng trên thế giới."
+    },
+    {
+        "word": "influence",
+        "wordTypeArr": "v",
+        "phoneticTxt": "ˈɪnflʊəns",
+        "yourLangMeaning": "tác động, ảnh hưởng",
+        "exampleEng": "He was influenced by Japanese pop music.",
+        "exampleVn": "Anh ấy bị ảnh hưởng bởi nhạc pop Nhật Bản."
+    },
+    {
+        "word": "range",
+        "wordTypeArr": "v",
+        "phoneticTxt": "reɪnʤ",
+        "yourLangMeaning": "xếp lại, đi khắp",
+        "exampleEng": "Her songs range from sad love songs to loud rock.",
+        "exampleVn": "Các bài hát của cô ấy bao gồm từ những bản tình ca buồn đến những bản rock sôi động."
+    },
+    {
+        "word": "relaxation",
+        "wordTypeArr": "n",
+        "phoneticTxt": "ˌriːlækˈseɪʃən",
+        "yourLangMeaning": "sự thư giãn, sự nghỉ ngơi, sự giải trí",
+        "exampleEng": "For relaxation, I listen to classical music.",
+        "exampleVn": "Để thư giãn, tôi nghe nhạc cổ điển."
+    },
+    {
+        "word": "sellout",
+        "wordTypeArr": "n",
+        "phoneticTxt": "ˈsɛlaʊt",
+        "yourLangMeaning": "buổi diễn bán hết vé, sự bán đắt hàng",
+        "exampleEng": "The popular singer's concerts were all sellouts.",
+        "exampleVn": "Các buổi nhạc của ca sĩ nổi tiếng luôn bán hết vé."
+    },
+    {
+        "word": "significant",
+        "wordTypeArr": "adj",
+        "phoneticTxt": "sɪgˈnɪfɪkənt",
+        "yourLangMeaning": "quan trọng, chính yếu",
+        "exampleEng": "The musician has had a significant impact on jazz music.",
+        "exampleVn": "Nhạc sĩ này có ảnh hưởng quan trọng về nhạc jazz."
+    },
+    {
+        "word": "spectrum",
+        "wordTypeArr": "n",
+        "phoneticTxt": "ˈspɛktrəm",
+        "yourLangMeaning": "loạt những dải âm thanh tương tự quang phổ",
+        "exampleEng": "He can play a broad spectrum of musical instruments.",
+        "exampleVn": "Anh ấy có thể chơi những loại nhạc cụ có quang phổ rộng."
+    },
+    {
+        "word": "taste",
+        "wordTypeArr": "n",
+        "phoneticTxt": "teɪst",
+        "yourLangMeaning": "sự thưởng thức, sở thích, thị hiếu",
+        "exampleEng": "Her taste in music is very strange.",
+        "exampleVn": "Thị hiếu âm nhạc của cô ấy rất lạ."
+    },
+    {
+        "word": "acquire",
+        "wordTypeArr": "v",
+        "phoneticTxt": "əˈkwaɪə",
+        "yourLangMeaning": "đạt được, thu được, kiếm được",
+        "exampleEng": "I have acquired a large number of very old paintings.",
+        "exampleVn": "Tôi thu được rất nhiều bức tranh cũ."
+    },
+    {
+        "word": "approach",
+        "wordTypeArr": "n",
+        "phoneticTxt": "əˈprəʊʧ",
+        "yourLangMeaning": "phương pháp, cách tiếp cận",
+        "exampleEng": "His approach to art is to paint what he feels, not what he sees.",
+        "exampleVn": "Cách tiếp cận nghệ thuật của anh ấy là vẽ những gì anh ấy nhận thấy chứ không phải những gì anh ấy nhìn thấy."
+    },
+    {
+        "word": "broaden",
+        "wordTypeArr": "v",
+        "phoneticTxt": "ˈbrɔːdn",
+        "yourLangMeaning": "mở rộng",
+        "exampleEng": "Studying art has really broadened my mind.",
+        "exampleVn": "Nghiên cứu nghệ thuật làm đầu óc tôi mở mang."
+    },
+    {
+        "word": "constantly",
+        "wordTypeArr": "adv",
+        "phoneticTxt": "ˈkɒnstəntli",
+        "yourLangMeaning": "luôn luôn, liên tục, liên miên",
+        "exampleEng": "He's constantly experimenting with new techniques.",
+        "exampleVn": "Anh ấy liên tục tìm kiếm những kỹ thuật mới."
+    },
+    {
+        "word": "creative",
+        "wordTypeArr": "adj",
+        "phoneticTxt": "kri(ː)ˈeɪtɪv",
+        "yourLangMeaning": "sáng tạo, giàu trí tưởng tượng",
+        "exampleEng": "I'm not very creative, so I'm not very good at art.",
+        "exampleVn": "Tôi không giàu trí tưởng tượng vì vậy tôi không giỏi về nghệ thuật."
+    },
+    {
+        "word": "disperse",
+        "wordTypeArr": "v",
+        "phoneticTxt": "dɪsˈpɜːs",
+        "yourLangMeaning": "giải tán",
+        "exampleEng": "The crowd began to disperse after the concert.",
+        "exampleVn": "Đám đông bắt đầu giải tán sau buổi nhạc."
+    },
+    {
+        "word": "in-depth",
+        "wordTypeArr": "adj",
+        "phoneticTxt": "ɪn-dɛpθ",
+        "yourLangMeaning": "sâu sắc, hoàn toàn",
+        "exampleEng": "We shall take an in-depth look at the art of that period.",
+        "exampleVn": "Chúng tôi sẽ xem xét kỹ nghệ thuật trong giai đoạn đó."
+    },
+    {
+        "word": "prefer",
+        "wordTypeArr": "v",
+        "phoneticTxt": "priˈfɜː",
+        "yourLangMeaning": "thích hơn, ưa chuộng hơn",
+        "exampleEng": "What style of art do you prefer?",
+        "exampleVn": "Bạn thích loại hình nghệ thuật nào hơn?"
+    },
+    {
+        "word": "representation",
+        "wordTypeArr": "n",
+        "phoneticTxt": "ˌrɛprɪzɛnˈteɪʃən",
+        "yourLangMeaning": "sự miêu tả, sự trình bày, sự đại diện, sự tượng trưng cho",
+        "exampleEng": "The painting is a representation of the artist's hometown.",
+        "exampleVn": "Bức tranh này là một biểu trưng quê nhà của người họa sĩ."
+    },
+    {
+        "word": "subscribe",
+        "wordTypeArr": "v",
+        "phoneticTxt": "səbˈskraɪb",
+        "yourLangMeaning": "đồng ý, tán thành",
+        "exampleEng": "I don't really subscribe to the current idea of art.",
+        "exampleVn": "Tôi thực sự không đồng ý với tư tưởng nghệ thuật hiện thời."
+    },
+    {
+        "word": "urge",
+        "wordTypeArr": "v",
+        "phoneticTxt": "ɜːʤ",
+        "yourLangMeaning": "khuyến khích, cổ vũ",
+        "exampleEng": "I would urge everyone to just pick up a pencil and draw; it's very relaxing.",
+        "exampleVn": "Tôi khuyến khích mọi người cầm bút chì lên vẽ; nó rất thư giãn."
+    },
+    {
+        "word": "assignment",
+        "wordTypeArr": "n",
+        "phoneticTxt": "əˈsaɪnmənt",
+        "yourLangMeaning": "nhiệm vụ, bổn phận",
+        "exampleEng": "For my art assignment, I have chosen photography as my medium.",
+        "exampleVn": "Vì công việc hội họa của tôi, tôi chọn nhiếp ảnh như là một bước trung gian."
+    },
+    {
+        "word": "choose",
+        "wordTypeArr": "v",
+        "phoneticTxt": "ʧuːz",
+        "yourLangMeaning": "chọn lựa",
+        "exampleEng": "The painter chose to move to Paris.",
+        "exampleVn": "Người họa sĩ này chọn chuyển đến Paris."
+    },
+    {
+        "word": "decision",
+        "wordTypeArr": "n",
+        "phoneticTxt": "dɪˈsɪʒən",
+        "yourLangMeaning": "sự quyết định",
+        "exampleEng": "What influenced your decision to paint using ink?",
+        "exampleVn": "Điều gì làm bạn quyết định vẽ bằng mực?"
+    },
+    {
+        "word": "disseminate",
+        "wordTypeArr": "v",
+        "phoneticTxt": "dɪˈsɛmɪneɪt",
+        "yourLangMeaning": "phổ biến, giao rắc",
+        "exampleEng": "She helped disseminate information about the new artist.",
+        "exampleVn": "Cô ấy giúp phổ biến thông tin về người nghệ sĩ mới."
+    },
+    {
+        "word": "express",
+        "wordTypeArr": "v",
+        "phoneticTxt": "ɪksˈprɛs",
+        "yourLangMeaning": "biểu lộ, diễn đạt",
+        "exampleEng": "She used black paint to express her sad feelings.",
+        "exampleVn": "Cô ấy dùng nước sơn đen để biểu đạt cảm xúc buồn đau."
+    },
+    {
+        "word": "favor",
+        "wordTypeArr": "v",
+        "phoneticTxt": "ˈfeɪvə",
+        "yourLangMeaning": "thích hơn",
+        "exampleEng": "This artist favors pencils over paint.",
+        "exampleVn": "Họa sĩ này thích vẽ chì hơn vẽ sơn."
+    },
+    {
+        "word": "specialize",
+        "wordTypeArr": "v",
+        "phoneticTxt": "ˈspɛʃəlaɪz",
+        "yourLangMeaning": "làm thành đặc trưng, chuyên môn hóa",
+        "exampleEng": "He specializes in sculpture, but he also likes painting.",
+        "exampleVn": "Anh ấy chuyên về điêu khắc nhưng anh ấy cũng thích hội họa."
+    },
+    {
+        "word": "aware ",
+        "wordTypeArr": "adj",
+        "phoneticTxt": "əˈweə ",
+        "yourLangMeaning": " nhận thức",
+        "exampleEng": "I wasn't aware that my medical insurance didn't cover dental work.",
+        "exampleVn": "Tôi không nhận thức được rằng bảo hiểm y tế của tôi không bao gồm dịch vụ về răng."
+    },
+    {
+        "word": "convenient ",
+        "wordTypeArr": "adj",
+        "phoneticTxt": "kənˈviːniənt ",
+        "yourLangMeaning": " thuận lợi, thuận tiện",
+        "exampleEng": "The clinic on Maple Drive is more convenient for me.",
+        "exampleVn": "Phòng mạch ở Maple Drive thì thuận tiện hơn cho tôi."
+    },
+    {
+        "word": "limit ",
+        "wordTypeArr": "n",
+        "phoneticTxt": "ˈlɪmɪt ",
+        "yourLangMeaning": " giới hạn, hạn định",
+        "exampleEng": "Is there a limit to how much my insurance will pay out?",
+        "exampleVn": "Có một hạn định bảo hiểm của tôi sẽ trả bao nhiêu không?"
+    },
+    {
+        "word": "manage ",
+        "wordTypeArr": "v",
+        "phoneticTxt": "ˈmænɪʤ ",
+        "yourLangMeaning": " quản lý, điều khiển, xoay sở",
+        "exampleEng": "Did you manage to get the money back from the insurance company?",
+        "exampleVn": "Bạn có xoay sở để lấy lại tiền từ công ty bảo hiểm không?"
+    },
+    {
+        "word": "personnel ",
+        "wordTypeArr": "n",
+        "phoneticTxt": "ˌpɜːsəˈnɛl ",
+        "yourLangMeaning": " nhân sự, nhân công",
+        "exampleEng": "Many of the factory personnel will lose their jobs.",
+        "exampleVn": "Nhiều nhân công nhà máy sẽ mất việc."
+    },
+    {
+        "word": "pertinent ",
+        "wordTypeArr": "adj",
+        "phoneticTxt": "ˈpɜːtɪnənt ",
+        "yourLangMeaning": " thích đáng, thích hợp",
+        "exampleEng": "This medication is not pertinent to your health problem.",
+        "exampleVn": "Dược phẩm này không thích hợp cho bệnh trạng của bạn."
+    },
+    {
+        "word": "policy ",
+        "wordTypeArr": "n",
+        "phoneticTxt": "ˈpɒlɪsi ",
+        "yourLangMeaning": " chính sách, chủ trương",
+        "exampleEng": "Your insurance policy states that you must get an official letter from your doctor.",
+        "exampleVn": "Chính sách bảo hiểm của bạn yêu cầu bạn phải có thư chính thức từ bác sĩ của bạn."
+    },
+    {
+        "word": "salary ",
+        "wordTypeArr": "n",
+        "phoneticTxt": "ˈsæləri ",
+        "yourLangMeaning": " lương, tiền lương",
+        "exampleEng": "Your health insurance payment comes straight out of your salary every month.",
+        "exampleVn": "Bảo hiểm y tế sẽ thanh toán trực tiếp qua lương hàng tháng của bạn."
+    },
+    {
+        "word": "statement ",
+        "wordTypeArr": "n",
+        "phoneticTxt": "ˈsteɪtmənt ",
+        "yourLangMeaning": " lời phát biểu, bản tuyên bố",
+        "exampleEng": "I had to sign a statement saying that my insurance claim is correct.",
+        "exampleVn": "Tôi phải ký một bản tuyên bố nói rằng lời khai bảo hiểm của tôi là chính xác."
+    },
+    {
+        "word": "appointment ",
+        "wordTypeArr": "n",
+        "phoneticTxt": "əˈpɔɪntmənt ",
+        "yourLangMeaning": " cuộc hẹn gặp, sự hứa hẹn",
+        "exampleEng": "I have an appointment to see Dr.Jones at three o'clock.",
+        "exampleVn": "Tôi có một cuộc hẹn gặp ngài Jone lúc 3 giờ."
+    },
+    {
+        "word": "aspect ",
+        "wordTypeArr": "n",
+        "phoneticTxt": "ˈæspɛkt ",
+        "yourLangMeaning": " khía cạnh, mặt",
+        "exampleEng": "Seeing a doctor when you are sick is just one aspect of staying healthy.",
+        "exampleVn": "Đi khám bác sĩ khi bạn bệnh chỉ là một việc làm để khỏe mạnh."
+    },
+    {
+        "word": "assess ",
+        "wordTypeArr": "v",
+        "phoneticTxt": "əˈsɛs ",
+        "yourLangMeaning": " đánh giá",
+        "exampleEng": "The doctor can assess your problem and tell you how best to cure it.",
+        "exampleVn": "Bác sĩ có thể đánh giá bệnh trạng của bạn và nói cho bạn cách chữa trị tốt nhất."
+    },
+    {
+        "word": "authorize ",
+        "wordTypeArr": "v",
+        "phoneticTxt": "ˈɔːθəraɪz ",
+        "yourLangMeaning": " cho quyền, ủy quyền, cho phép",
+        "exampleEng": "I have authorized the doctor to perform all the tests he needs.",
+        "exampleVn": "Tôi cho phép bác sĩ thực hiện tất cả xét nghiệm ông ấy cần."
+    },
+    {
+        "word": "consult ",
+        "wordTypeArr": "v",
+        "phoneticTxt": "kənˈsʌlt ",
+        "yourLangMeaning": " hỏi ý kiến, tham khảo",
+        "exampleEng": "She consulted her doctor about her skin problem.",
+        "exampleVn": "Cô ấy hỏi ý kiến bác sĩ vấn đề về da của cô ấy."
+    },
+    {
+        "word": "effective ",
+        "wordTypeArr": "adj",
+        "phoneticTxt": "ɪˈfɛktɪv ",
+        "yourLangMeaning": " có hiệu quả, hiệu nghiệm",
+        "exampleEng": "The medicine wasn't effective, so the doctor tried a different kind.",
+        "exampleVn": "Dược phẩm này không có hiệu nghiệm do đó bác sĩ thử một loại khác."
+    },
+    {
+        "word": "factor ",
+        "wordTypeArr": "n",
+        "phoneticTxt": "ˈfæktə ",
+        "yourLangMeaning": " yếu tố",
+        "exampleEng": "Smoking is a major factor of many serious illnesses.",
+        "exampleVn": "Hút thuốc là một yếu tố chính yếu của nhiều căn bệnh nghiêm trọng."
+    },
+    {
+        "word": "incur ",
+        "wordTypeArr": "v",
+        "phoneticTxt": "ɪnˈkɜː ",
+        "yourLangMeaning": " phải gánh chịu, mắc",
+        "exampleEng": "Smokers incur many health problems.",
+        "exampleVn": "Người hút thuốc phải gánh chịu nhiều vấn đề về sức khỏe."
+    },
+    {
+        "word": "potential ",
+        "wordTypeArr": "n",
+        "phoneticTxt": "pəʊˈtɛnʃəl ",
+        "yourLangMeaning": " khả năng, tiềm lực",
+        "exampleEng": "Adam is so healthy that he has the potential to live to a hundred!",
+        "exampleVn": "Adam rất khỏe đến nỗi ông ấy có thể sống đến trăm tuổi!"
+    },
+    {
+        "word": "restore ",
+        "wordTypeArr": "v",
+        "phoneticTxt": "rɪsˈtɔː ",
+        "yourLangMeaning": " khôi phục lại, hồi phục",
+        "exampleEng": "The medicine soon restored my health.",
+        "exampleVn": "Dược phẩm này nhanh chóng làm sức khỏe tôi hồi phục."
+    },
+    {
+        "word": "serious ",
+        "wordTypeArr": "adj",
+        "phoneticTxt": "ˈsɪərɪəs ",
+        "yourLangMeaning": " nghiêm trọng, nguy hiểm",
+        "exampleEng": "The doctor said that it's nothing serious, just a cold.",
+        "exampleVn": "Bác sĩ nói không có gì nghiêm trọng, chỉ cảm lạnh thôi."
+    },
+    {
+        "word": "distraction ",
+        "wordTypeArr": "n",
+        "phoneticTxt": "dɪsˈtrækʃən ",
+        "yourLangMeaning": " sự xao lãng, sự giải trí, sự làm đứt quãng",
+        "exampleEng": "I study in the library because there are no distractions.",
+        "exampleVn": "Tôi học trong thư viện bởi vì không có bất kỳ sự xao lãng nào."
+    },
+    {
+        "word": "emphasize ",
+        "wordTypeArr": "v",
+        "phoneticTxt": "ˈɛmfəsaɪz ",
+        "yourLangMeaning": " nhấn mạnh",
+        "exampleEng": "The dentist emphasized the need to brush my teeth after every meal.",
+        "exampleVn": "Nha sĩ nhấn mạnh rằng tôi cần đánh răng sau mỗi bữa ăn."
+    },
+    {
+        "word": "habit ",
+        "wordTypeArr": "n",
+        "phoneticTxt": "ˈhæbɪt ",
+        "yourLangMeaning": " thói quen",
+        "exampleEng": "Regularly watching hours of TV is a bad habit.",
+        "exampleVn": "Thường xuyên xem ti vi hàng giờ là một thói quen xấu."
+    },
+    {
+        "word": "instrument ",
+        "wordTypeArr": "n",
+        "phoneticTxt": "ˈɪnstrʊmənt ",
+        "yourLangMeaning": " dụng cụ, công cụ, nhạc cụ",
+        "exampleEng": "The dentist uses many instruments to fix teeth.",
+        "exampleVn": "Nha sĩ sử dụng nhiều dụng cụ để chữa răng."
+    },
+    {
+        "word": "prevent ",
+        "wordTypeArr": "v",
+        "phoneticTxt": "prɪˈvɛnt ",
+        "yourLangMeaning": " ngăn chặn",
+        "exampleEng": "Brushing your teeth every day helps prevent problems later.",
+        "exampleVn": "Đánh răng mỗi ngày giúp ngăn chặn những vấn đề sau này."
+    },
+    {
+        "word": "procedure ",
+        "wordTypeArr": "n",
+        "phoneticTxt": "prəˈsiːʤə ",
+        "yourLangMeaning": " thủ tục, quy trình, ca phẫu thuật",
+        "exampleEng": "The procedure lasted only a few minutes.",
+        "exampleVn": "Ca phẫu thuật kéo dài chỉ vài phút."
+    },
+    {
+        "word": "regularly ",
+        "wordTypeArr": "adv",
+        "phoneticTxt": "ˈrɛgjʊləli ",
+        "yourLangMeaning": " định kỳ, đều đặn",
+        "exampleEng": "You must visit your dentist regularly, at least every six months.",
+        "exampleVn": "Bạn phải đi khám nha sĩ đều đặn, ít nhất 6 tháng một lần."
+    },
+    {
+        "word": "annually ",
+        "wordTypeArr": "adv",
+        "phoneticTxt": "ˈænjʊəli ",
+        "yourLangMeaning": " hàng năm",
+        "exampleEng": "I annually go for checkups at my clinic.",
+        "exampleVn": "Tôi đi kiểm tra sức khỏe tổng quát hằng năm."
+    },
+    {
+        "word": "concern ",
+        "wordTypeArr": "v",
+        "phoneticTxt": "kənˈsɜːn ",
+        "yourLangMeaning": " lo lắng, quan tâm",
+        "exampleEng": "I was a little concerned about the pain in my arm.",
+        "exampleVn": "Tôi hơi lo lắng cho cái đau trên cánh tay."
+    },
+    {
+        "word": "evident ",
+        "wordTypeArr": "adj",
+        "phoneticTxt": "ˈɛvɪdənt ",
+        "yourLangMeaning": " hiển nhiên, rành rành",
+        "exampleEng": "It was evident that she had not been taking good care of herself.",
+        "exampleVn": "Rõ ràng cô ấy không tự chăm sóc mình tốt."
+    },
+    {
+        "word": "identify ",
+        "wordTypeArr": "v",
+        "phoneticTxt": "aɪˈdɛntɪfaɪ ",
+        "yourLangMeaning": " nhận ra, nhận diện",
+        "exampleEng": "I hope the clinic can identify the problem.",
+        "exampleVn": "Tôi hy vọng dưỡng đường này có thể nhận ra vấn đề."
+    },
+    {
+        "word": "usually ",
+        "wordTypeArr": "adv",
+        "phoneticTxt": "ˈjuːʒʊəli ",
+        "yourLangMeaning": " thường thường, thông thường",
+        "exampleEng": "It usually takes a few days to get the results of the test.",
+        "exampleVn": "Thường mất vài ngày mới có kết quả xét nghiệm."
+    },
+    {
+        "word": "admit ",
+        "wordTypeArr": "v",
+        "phoneticTxt": "ədˈmɪt ",
+        "yourLangMeaning": " nhận vào, cho vào",
+        "exampleEng": "He's been admitted to the hospital for a few days.",
+        "exampleVn": "Anh ấy được cho nhập viện vài ngày."
+    },
+    {
+        "word": "allow ",
+        "wordTypeArr": "v",
+        "phoneticTxt": "əˈlaʊ ",
+        "yourLangMeaning": " cho phép",
+        "exampleEng": "They don't allow you to smoke in the hospital.",
+        "exampleVn": "Họ không cho phép bạn hút thuốc trong bệnh viện."
+    },
+    {
+        "word": "alternative ",
+        "wordTypeArr": "n",
+        "phoneticTxt": "ɔːlˈtɜːnətɪv ",
+        "yourLangMeaning": " sự thay thế, sự chọn lựa khác",
+        "exampleEng": "I don't want to go to the hospital. Are there any alternatives?",
+        "exampleVn": "Tôi không muốn đến bệnh viện. Có cách nào khác không?"
+    },
+    {
+        "word": "control ",
+        "wordTypeArr": "n",
+        "phoneticTxt": "kənˈtrəʊl ",
+        "yourLangMeaning": " sự kiểm soát",
+        "exampleEng": "The doctor has brought the boy's fever under control.",
+        "exampleVn": "Bác sĩ đã kiểm soát được bệnh sốt của cậu bé."
+    },
+    {
+        "word": "detect ",
+        "wordTypeArr": "v",
+        "phoneticTxt": "dɪˈtɛkt ",
+        "yourLangMeaning": " phát hiện, khám phá ra",
+        "exampleEng": "They have detected a problem with his blood.",
+        "exampleVn": "Họ phát hiện ra máu của anh ấy có vấn đề."
+    },
+    {
+        "word": "diagnore ",
+        "wordTypeArr": "v",
+        "phoneticTxt": "diagnore ",
+        "yourLangMeaning": " chuẩn đoán",
+        "exampleEng": "The woman was diagnosed with cancer.",
+        "exampleVn": "Người phụ nữ được chuẩn đoán mắc bệnh ung thư."
+    },
+    {
+        "word": "monitor ",
+        "wordTypeArr": "v",
+        "phoneticTxt": "ˈmɒnɪtə ",
+        "yourLangMeaning": " giám sát, trông coi",
+        "exampleEng": "They are monitoring his condition.",
+        "exampleVn": "Họ đang giám sát tình trạng của anh ấy."
+    },
+    {
+        "word": "recommendation ",
+        "wordTypeArr": "n",
+        "phoneticTxt": "ˌrɛkəmɛnˈdeɪʃən ",
+        "yourLangMeaning": " sự đề nghị, sự gợi ý",
+        "exampleEng": "I underwent the operation on my doctor's recommendation.",
+        "exampleVn": "Tôi phải trải qua ca phẫu thuật theo đề nghị của bác sĩ."
+    },
+    {
+        "word": "record ",
+        "wordTypeArr": "n",
+        "phoneticTxt": "ˈrɛkɔːd ",
+        "yourLangMeaning": " sổ sách ghi chép, hồ sơ",
+        "exampleEng": "Your hospital record shows your medical history.",
+        "exampleVn": "Hồ sơ của bệnh viện cho biết quá trình điều trị của bạn."
+    },
+    {
+        "word": "refer ",
+        "wordTypeArr": "v",
+        "phoneticTxt": "rɪˈfɜː ",
+        "yourLangMeaning": " đưa đến",
+        "exampleEng": "My doctor referred me to an excellent surgeon.",
+        "exampleVn": "Bác sĩ của tôi gửi cho tôi một bác sĩ phẫu thuật giỏi."
+    },
+    {
+        "word": "regardless ",
+        "wordTypeArr": "adv",
+        "phoneticTxt": "rɪˈgɑːdlɪs ",
+        "yourLangMeaning": " bất chấp, không chú ý tới",
+        "exampleEng": "Your insurance must cover you regardless of your medical history.",
+        "exampleVn": "Bảo hiểm của bạn phải chi trả cho bạn bất kể quá trình điều trị của bạn."
+    },
+    {
+        "word": "result ",
+        "wordTypeArr": "n",
+        "phoneticTxt": "rɪˈzʌlt ",
+        "yourLangMeaning": " kết quả",
+        "exampleEng": "The results show that everything is normal and you have nothing to worry about.",
+        "exampleVn": "Kết quả cho thấy rằng mọi việc là bình thường và bạn không có gì phải lo lắng."
+    },
+    {
+        "word": "sample ",
+        "wordTypeArr": "n",
+        "phoneticTxt": "ˈsɑːmpl ",
+        "yourLangMeaning": " vật mẫu, hàng mẫu",
+        "exampleEng": "The nurse just needs to take a blood sample.",
+        "exampleVn": "Y tá chỉ cần lấy mẫu máu."
+    }
+]

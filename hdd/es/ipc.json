@@ -1,0 +1,5 @@
+{
+    "word": "IPC",
+    "meaning": "IPC (InterProcess Communication)comunicación entre aplicaciones, conexión entre programas que están activados al mismo tiempo en un sistema con múltiples trabajos",
+    "details": "<C><F><H><L>IPC (InterProcess Communication)</L></H><I><N>comunicación entre aplicaciones, conexión entre programas que están activados al mismo tiempo en un sistema con múltiples trabajos</N></I></F></C>"
+}

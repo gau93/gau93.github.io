@@ -1,0 +1,6 @@
+{
+    "word": "checksums",
+    "type": "n.",
+    "meaning": "checksum (SUMmation CHECK)n. suma de chequeo: esquema simple de detección de errores, donde cada mensaje transmitido es acompañado con un valor numérico basado en el número de grupo de bits del mensaje",
+    "details": "<C><F><H><L>checksum (SUMmation CHECK)</L></H><I><N><span style=\"color:#c00000\">n.</span> suma de chequeo: esquema simple de detección de errores, donde cada mensaje transmitido es acompañado con un valor numérico basado en el número de grupo de bits del mensaje</N></I></F></C>"
+}

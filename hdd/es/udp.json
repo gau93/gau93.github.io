@@ -1,0 +1,5 @@
+{
+    "word": "UDP",
+    "meaning": "UDP (User Datagram Protocol)Protocolo del datagrama del usuario, protocolo falto de conexión (que no demanda conexión directa entre el remitente y el destinatario), permite el envío de paquetes de datos por medio del Internet",
+    "details": "<C><F><H><L>UDP (User Datagram Protocol)</L></H><I><N>Protocolo del datagrama del usuario, protocolo falto de conexión (que no demanda conexión directa entre el remitente y el destinatario), permite el envío de paquetes de datos por medio del Internet</N></I></F></C>"
+}

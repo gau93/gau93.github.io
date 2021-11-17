@@ -1,0 +1,10 @@
+[
+    {
+        "title": "Toeic 750 Từ và Cụm từ phổ biến",
+        "description": "750 từ và cụm từ thường gặp trong bài TOEIC thường hay xuất hiện, mỗi từ đều có phiên âm, nghĩa tiếng Việt, có ví dụ rõ ràng.",
+        "imgUrl": "https://picsum.photos/id/1073/300",
+        "type": "word",
+        "sourceDataUrl": "https://app.donghd.com/hdreader/data/tonghop_toeic_cat_details_750wp.json",
+        "price": 0
+    }
+]

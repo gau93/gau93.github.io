@@ -1,0 +1,5 @@
+{
+    "word": "NUMA",
+    "meaning": "NUMA (Non-Uniform Memory Access)acceso no uniforme a la memoria, estructura de procesamiento paralelo en la cual cada procesador tiene su propia memoria pero puede también acceder a la memoria de otros procesadores (Informática)",
+    "details": "<C><F><H><L>NUMA (Non-Uniform Memory Access)</L></H><I><N>acceso no uniforme a la memoria, estructura de procesamiento paralelo en la cual cada procesador tiene su propia memoria pero puede también acceder a la memoria de otros procesadores (Informática)</N></I></F></C>"
+}

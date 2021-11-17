@@ -1,0 +1,2683 @@
+[
+    {
+        "word": "art",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ɑrt",
+        "yourLangMeaning": "nghệ thuật",
+        "userNoteToSave": "Unit 1: My New School"
+    },
+    {
+        "word": "boarding school",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈbɔrdɪŋ skul",
+        "yourLangMeaning": "trường nội trú",
+        "userNoteToSave": "Unit 1: My New School"
+    },
+    {
+        "word": "classmate",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈklæˌsmeɪt",
+        "yourLangMeaning": "bạn học",
+        "userNoteToSave": "Unit 1: My New School"
+    },
+    {
+        "word": "equipment",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ɪˈkwɪpmənt",
+        "yourLangMeaning": "thiết bị",
+        "userNoteToSave": "Unit 1: My New School"
+    },
+    {
+        "word": "greenhouse",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈgrinˌhaʊs",
+        "yourLangMeaning": "nhà kính",
+        "userNoteToSave": "Unit 1: My New School"
+    },
+    {
+        "word": "judo",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈʤuˌdoʊ",
+        "yourLangMeaning": "môn võ judo",
+        "userNoteToSave": "Unit 1: My New School"
+    },
+    {
+        "word": "swimming pool",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈswɪmɪŋ pul",
+        "yourLangMeaning": "hồ bơi",
+        "userNoteToSave": "Unit 1: My New School"
+    },
+    {
+        "word": "pencil sharpener",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈpɛnsəl ˈʃɑrpənər",
+        "yourLangMeaning": "đồ chuốt bút chì",
+        "userNoteToSave": "Unit 1: My New School"
+    },
+    {
+        "word": "compass",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈkʌmpəs",
+        "yourLangMeaning": "com-pa",
+        "userNoteToSave": "Unit 1: My New School"
+    },
+    {
+        "word": "school bag",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "skul bæg",
+        "yourLangMeaning": "cặp đi học",
+        "userNoteToSave": "Unit 1: My New School"
+    },
+    {
+        "word": "rubber",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈrʌbər",
+        "yourLangMeaning": "cục tẩy",
+        "userNoteToSave": "Unit 1: My New School"
+    },
+    {
+        "word": "calculator",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈkælkjəˌleɪtər",
+        "yourLangMeaning": "máy tính",
+        "userNoteToSave": "Unit 1: My New School"
+    },
+    {
+        "word": "pencil case",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈpɛnsəl keɪs",
+        "yourLangMeaning": "hộp bút",
+        "userNoteToSave": "Unit 1: My New School"
+    },
+    {
+        "word": "notebook",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈnoʊtˌbʊk",
+        "yourLangMeaning": "vở (tập)",
+        "userNoteToSave": "Unit 1: My New School"
+    },
+    {
+        "word": "bicycle",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈbaɪsɪkəl",
+        "yourLangMeaning": "xe đạp",
+        "userNoteToSave": "Unit 1: My New School"
+    },
+    {
+        "word": "ruler",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈrulər",
+        "yourLangMeaning": "thước",
+        "userNoteToSave": "Unit 1: My New School"
+    },
+    {
+        "word": "textbook",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈtɛkstˌbʊk",
+        "yourLangMeaning": "sách giáo khoa",
+        "userNoteToSave": "Unit 1: My New School"
+    },
+    {
+        "word": "activity",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ækˈtɪvəti",
+        "yourLangMeaning": "hoạt động",
+        "userNoteToSave": "Unit 1: My New School"
+    },
+    {
+        "word": "creative",
+        "wordTypeArr": "(adj)",
+        "phoneticTxt": "kriˈeɪtɪv",
+        "yourLangMeaning": "sáng tạo",
+        "userNoteToSave": "Unit 1: My New School"
+    },
+    {
+        "word": "excited",
+        "wordTypeArr": "(adj)",
+        "phoneticTxt": "ɪkˈsaɪtəd",
+        "yourLangMeaning": "phấn chấn, phấn khích",
+        "userNoteToSave": "Unit 1: My New School"
+    },
+    {
+        "word": "help",
+        "wordTypeArr": "(n, v)",
+        "phoneticTxt": "hɛlp",
+        "yourLangMeaning": "giúp đỡ, trợ giúp",
+        "userNoteToSave": "Unit 1: My New School"
+    },
+    {
+        "word": "international",
+        "wordTypeArr": "(adj)",
+        "phoneticTxt": "ˌɪntərˈnæʃənəl",
+        "yourLangMeaning": "quốc tế",
+        "userNoteToSave": "Unit 1: My New School"
+    },
+    {
+        "word": "interview",
+        "wordTypeArr": "(n, v)",
+        "phoneticTxt": "ˈɪntərˌvju",
+        "yourLangMeaning": "phỏng vấn",
+        "userNoteToSave": "Unit 1: My New School"
+    },
+    {
+        "word": "knock",
+        "wordTypeArr": "(v)",
+        "phoneticTxt": "nɑk",
+        "yourLangMeaning": "gõ cửa",
+        "userNoteToSave": "Unit 1: My New School"
+    },
+    {
+        "word": "overseas",
+        "wordTypeArr": "(n, adj)",
+        "phoneticTxt": "ˈoʊvərˈsiz",
+        "yourLangMeaning": "ở nước ngoài",
+        "userNoteToSave": "Unit 1: My New School"
+    },
+    {
+        "word": "pocket money",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈpɑkət ˈmʌni",
+        "yourLangMeaning": "túi tiền, tiền riêng",
+        "userNoteToSave": "Unit 1: My New School"
+    },
+    {
+        "word": "poem",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈpoʊəm",
+        "yourLangMeaning": "bài thơ",
+        "userNoteToSave": "Unit 1: My New School"
+    },
+    {
+        "word": "remember",
+        "wordTypeArr": "(v)",
+        "phoneticTxt": "rɪˈmɛmbər",
+        "yourLangMeaning": "nhớ, ghi nhớ",
+        "userNoteToSave": "Unit 1: My New School"
+    },
+    {
+        "word": "share",
+        "wordTypeArr": "(n, v)",
+        "phoneticTxt": "ʃɛr",
+        "yourLangMeaning": "chia sẻ",
+        "userNoteToSave": "Unit 1: My New School"
+    },
+    {
+        "word": "smart",
+        "wordTypeArr": "(adj)",
+        "phoneticTxt": "smɑrt",
+        "yourLangMeaning": "thông minh",
+        "userNoteToSave": "Unit 1: My New School"
+    },
+    {
+        "word": "surround",
+        "wordTypeArr": "(v)",
+        "phoneticTxt": "səˈraʊnd",
+        "yourLangMeaning": "bao quanh",
+        "userNoteToSave": "Unit 1: My New School"
+    },
+    {
+        "word": "town house",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "taʊn haʊs",
+        "yourLangMeaning": "nhà phố",
+        "userNoteToSave": "Unit 2: My home"
+    },
+    {
+        "word": "country house",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈkʌntri haʊs",
+        "yourLangMeaning": "nhà ở nông thôn",
+        "userNoteToSave": "Unit 2: My home"
+    },
+    {
+        "word": "villa",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈvɪlə",
+        "yourLangMeaning": "biệt thự",
+        "userNoteToSave": "Unit 2: My home"
+    },
+    {
+        "word": "stilt house",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "stɪlt haʊs",
+        "yourLangMeaning": "nhà sàn",
+        "userNoteToSave": "Unit 2: My home"
+    },
+    {
+        "word": "apartment",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "əˈpɑrtmənt",
+        "yourLangMeaning": "căn hộ",
+        "userNoteToSave": "Unit 2: My home"
+    },
+    {
+        "word": "living room",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈlɪvɪŋ rum",
+        "yourLangMeaning": "phòng khách",
+        "userNoteToSave": "Unit 2: My home"
+    },
+    {
+        "word": "bedroom",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈbɛˌdrum",
+        "yourLangMeaning": "phòng ngủ",
+        "userNoteToSave": "Unit 2: My home"
+    },
+    {
+        "word": "kitchen",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈkɪʧən",
+        "yourLangMeaning": "nhà bếp",
+        "userNoteToSave": "Unit 2: My home"
+    },
+    {
+        "word": "bathroom",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈbæˌθrum",
+        "yourLangMeaning": "nhà tắm",
+        "userNoteToSave": "Unit 2: My home"
+    },
+    {
+        "word": "hall",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "hɔl",
+        "yourLangMeaning": "phòng lớn",
+        "userNoteToSave": "Unit 2: My home"
+    },
+    {
+        "word": "attic",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈætɪk",
+        "yourLangMeaning": "gác mái",
+        "userNoteToSave": "Unit 2: My home"
+    },
+    {
+        "word": "lamp",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "læmp",
+        "yourLangMeaning": "đèn",
+        "userNoteToSave": "Unit 2: My home"
+    },
+    {
+        "word": "toilet",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈtɔɪlət",
+        "yourLangMeaning": "nhà vệ sinh",
+        "userNoteToSave": "Unit 2: My home"
+    },
+    {
+        "word": "bed",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "bɛd",
+        "yourLangMeaning": "giường",
+        "userNoteToSave": "Unit 2: My home"
+    },
+    {
+        "word": "cupboard",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈkʌbərd",
+        "yourLangMeaning": "tủ chén",
+        "userNoteToSave": "Unit 2: My home"
+    },
+    {
+        "word": "wardrobe",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈwɔrˌdroʊb",
+        "yourLangMeaning": "tủ đựng quần áo",
+        "userNoteToSave": "Unit 2: My home"
+    },
+    {
+        "word": "fridge",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "frɪʤ",
+        "yourLangMeaning": "tủ lạnh",
+        "userNoteToSave": "Unit 2: My home"
+    },
+    {
+        "word": "poster",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈpoʊstər",
+        "yourLangMeaning": "áp phích",
+        "userNoteToSave": "Unit 2: My home"
+    },
+    {
+        "word": "chair",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ʧɛr",
+        "yourLangMeaning": "ghế",
+        "userNoteToSave": "Unit 2: My home"
+    },
+    {
+        "word": "air-conditioner",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ɛr-kənˈdɪʃənər",
+        "yourLangMeaning": "máy điều hòa không khí",
+        "userNoteToSave": "Unit 2: My home"
+    },
+    {
+        "word": "table",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈteɪbəl",
+        "yourLangMeaning": "bàn",
+        "userNoteToSave": "Unit 2: My home"
+    },
+    {
+        "word": "sofa",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈsoʊfə",
+        "yourLangMeaning": "ghế trường kỷ, ghế sô pha",
+        "userNoteToSave": "Unit 2: My home"
+    },
+    {
+        "word": "behind",
+        "wordTypeArr": "(pre)",
+        "phoneticTxt": "bɪˈhaɪnd",
+        "yourLangMeaning": "ở phía sau, đằng sau",
+        "userNoteToSave": "Unit 2: My home"
+    },
+    {
+        "word": "between",
+        "wordTypeArr": "(pre)",
+        "phoneticTxt": "bɪˈtwin",
+        "yourLangMeaning": "ở giữa",
+        "userNoteToSave": "Unit 2: My home"
+    },
+    {
+        "word": "chest of drawers",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ʧɛst ʌv drɔrz",
+        "yourLangMeaning": "ngăn kéo tủ",
+        "userNoteToSave": "Unit 2: My home"
+    },
+    {
+        "word": "crazy",
+        "wordTypeArr": "(adj)",
+        "phoneticTxt": "ˈkreɪzi",
+        "yourLangMeaning": "kì dị, lạ thường",
+        "userNoteToSave": "Unit 2: My home"
+    },
+    {
+        "word": "department store",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "dɪˈpɑrtmənt stɔr",
+        "yourLangMeaning": "cửa hàng bách hóa",
+        "userNoteToSave": "Unit 2: My home"
+    },
+    {
+        "word": "dishwasher",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈdɪˌʃwɑʃər",
+        "yourLangMeaning": "máy rửa bát (chén) đĩa",
+        "userNoteToSave": "Unit 2: My home"
+    },
+    {
+        "word": "furniture",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈfɜrnɪʧər",
+        "yourLangMeaning": "đồ đạc trong nhà, đồ gỗ",
+        "userNoteToSave": "Unit 2: My home"
+    },
+    {
+        "word": "in front of",
+        "wordTypeArr": "(pre)",
+        "phoneticTxt": "ɪn frʌnt ʌv",
+        "yourLangMeaning": "ở phía trước, đằng trước",
+        "userNoteToSave": "Unit 2: My home"
+    },
+    {
+        "word": "messy",
+        "wordTypeArr": "(adj)",
+        "phoneticTxt": "ˈmɛsi",
+        "yourLangMeaning": "lộn xộn, bừa bộn",
+        "userNoteToSave": "Unit 2: My home"
+    },
+    {
+        "word": "microwave",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈmaɪkrəˌweɪv",
+        "yourLangMeaning": "lò vi sóng",
+        "userNoteToSave": "Unit 2: My home"
+    },
+    {
+        "word": "move",
+        "wordTypeArr": "(v)",
+        "phoneticTxt": "muv",
+        "yourLangMeaning": "di chuyển, chuyển nhà",
+        "userNoteToSave": "Unit 2: My home"
+    },
+    {
+        "word": "next to",
+        "wordTypeArr": "(pre)",
+        "phoneticTxt": "nɛkst tu",
+        "yourLangMeaning": "kế bèn, ở cạnh",
+        "userNoteToSave": "Unit 2: My home"
+    },
+    {
+        "word": "under",
+        "wordTypeArr": "(pre)",
+        "phoneticTxt": "ˈʌndər",
+        "yourLangMeaning": "ở bên dưới, phía dưới",
+        "userNoteToSave": "Unit 2: My home"
+    },
+    {
+        "word": "arm",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ɑrm",
+        "yourLangMeaning": "cánh tay",
+        "userNoteToSave": "Unit 3: My Friend"
+    },
+    {
+        "word": "ear",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ir",
+        "yourLangMeaning": "tai",
+        "userNoteToSave": "Unit 3: My Friend"
+    },
+    {
+        "word": "eye",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "aɪ",
+        "yourLangMeaning": "mắt",
+        "userNoteToSave": "Unit 3: My Friend"
+    },
+    {
+        "word": "leg",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "lɛg",
+        "yourLangMeaning": "chân",
+        "userNoteToSave": "Unit 3: My Friend"
+    },
+    {
+        "word": "nose",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "noʊz",
+        "yourLangMeaning": "mũi",
+        "userNoteToSave": "Unit 3: My Friend"
+    },
+    {
+        "word": "finger",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈfɪŋgər",
+        "yourLangMeaning": "ngón tay",
+        "userNoteToSave": "Unit 3: My Friend"
+    },
+    {
+        "word": "tall",
+        "wordTypeArr": "(adj)",
+        "phoneticTxt": "tɔl",
+        "yourLangMeaning": "cao",
+        "userNoteToSave": "Unit 3: My Friend"
+    },
+    {
+        "word": "short",
+        "wordTypeArr": "(adj)",
+        "phoneticTxt": "ʃɔrt",
+        "yourLangMeaning": "lùn, thấp",
+        "userNoteToSave": "Unit 3: My Friend"
+    },
+    {
+        "word": "big",
+        "wordTypeArr": "(adj)",
+        "phoneticTxt": "bɪg",
+        "yourLangMeaning": "to",
+        "userNoteToSave": "Unit 3: My Friend"
+    },
+    {
+        "word": "small",
+        "wordTypeArr": "(adj)",
+        "phoneticTxt": "smɔl",
+        "yourLangMeaning": "nhỏ",
+        "userNoteToSave": "Unit 3: My Friend"
+    },
+    {
+        "word": "active",
+        "wordTypeArr": "(adj)",
+        "phoneticTxt": "ˈæktɪv",
+        "yourLangMeaning": "hăng hái, năng động",
+        "userNoteToSave": "Unit 3: My Friend"
+    },
+    {
+        "word": "appearance",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "əˈpɪrəns",
+        "yourLangMeaning": "dáng vẻ, ngoại hình",
+        "userNoteToSave": "Unit 3: My Friend"
+    },
+    {
+        "word": "barbecue",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈbɑrbɪˌkju",
+        "yourLangMeaning": "món thịt nướng barbecue",
+        "userNoteToSave": "Unit 3: My Friend"
+    },
+    {
+        "word": "boring",
+        "wordTypeArr": "(adj)",
+        "phoneticTxt": "ˈbɔrɪŋ",
+        "yourLangMeaning": "buồn tẻ",
+        "userNoteToSave": "Unit 3: My Friend"
+    },
+    {
+        "word": "choir",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈkwaɪər",
+        "yourLangMeaning": "dàn đồng ca",
+        "userNoteToSave": "Unit 3: My Friend"
+    },
+    {
+        "word": "competition",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˌkɑmpəˈtɪʃən",
+        "yourLangMeaning": "cuộc đua, cuộc thi",
+        "userNoteToSave": "Unit 3: My Friend"
+    },
+    {
+        "word": "confident",
+        "wordTypeArr": "(adj)",
+        "phoneticTxt": "ˈkɑnfədənt",
+        "yourLangMeaning": "tự tin, tin tưởng",
+        "userNoteToSave": "Unit 3: My Friend"
+    },
+    {
+        "word": "curious",
+        "wordTypeArr": "(adj)",
+        "phoneticTxt": "ˈkjʊriəs",
+        "yourLangMeaning": "tò mò, thích tìm hiểu",
+        "userNoteToSave": "Unit 3: My Friend"
+    },
+    {
+        "word": "gardening",
+        "wordTypeArr": "(v)",
+        "phoneticTxt": "ˈgɑrdənɪŋ",
+        "yourLangMeaning": "làm vườn",
+        "userNoteToSave": "Unit 3: My Friend"
+    },
+    {
+        "word": "firefighter",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈfaɪrˌfaɪtər",
+        "yourLangMeaning": "lính cứu hỏa",
+        "userNoteToSave": "Unit 3: My Friend"
+    },
+    {
+        "word": "fireworks",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈfaɪrˌwɜrks",
+        "yourLangMeaning": "pháo hoa",
+        "userNoteToSave": "Unit 3: My Friend"
+    },
+    {
+        "word": "funny",
+        "wordTypeArr": "(adj)",
+        "phoneticTxt": "ˈfʌni",
+        "yourLangMeaning": "buồn cười, thú vị",
+        "userNoteToSave": "Unit 3: My Friend"
+    },
+    {
+        "word": "generous",
+        "wordTypeArr": "(adj)",
+        "phoneticTxt": "ˈʤɛnərəs",
+        "yourLangMeaning": "rộng rãi, hào phóng",
+        "userNoteToSave": "Unit 3: My Friend"
+    },
+    {
+        "word": "museum",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "mjuˈziəm",
+        "yourLangMeaning": "viện bảo tàng",
+        "userNoteToSave": "Unit 3: My Friend"
+    },
+    {
+        "word": "organise",
+        "wordTypeArr": "(v)",
+        "phoneticTxt": "organise",
+        "yourLangMeaning": "tổ chức",
+        "userNoteToSave": "Unit 3: My Friend"
+    },
+    {
+        "word": "patient",
+        "wordTypeArr": "(adj)",
+        "phoneticTxt": "ˈpeɪʃənt",
+        "yourLangMeaning": "điềm tĩnh",
+        "userNoteToSave": "Unit 3: My Friend"
+    },
+    {
+        "word": "personality",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˌpɜrsəˈnælɪti",
+        "yourLangMeaning": "tính cách, cá tính",
+        "userNoteToSave": "Unit 3: My Friend"
+    },
+    {
+        "word": "prepare",
+        "wordTypeArr": "(v)",
+        "phoneticTxt": "priˈpɛr",
+        "yourLangMeaning": "chuẩn bị",
+        "userNoteToSave": "Unit 3: My Friend"
+    },
+    {
+        "word": "racing",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈreɪsɪŋ",
+        "yourLangMeaning": "cuộc đua",
+        "userNoteToSave": "Unit 3: My Friend"
+    },
+    {
+        "word": "reliable",
+        "wordTypeArr": "(adj)",
+        "phoneticTxt": "rɪˈlaɪəbəl",
+        "yourLangMeaning": "đáng tin cậy",
+        "userNoteToSave": "Unit 3: My Friend"
+    },
+    {
+        "word": "serious",
+        "wordTypeArr": "(adj)",
+        "phoneticTxt": "ˈsɪriəs",
+        "yourLangMeaning": "nghiêm túc",
+        "userNoteToSave": "Unit 3: My Friend"
+    },
+    {
+        "word": "shy",
+        "wordTypeArr": "(adj)",
+        "phoneticTxt": "ʃaɪ",
+        "yourLangMeaning": "bẽn lẽn, hay xấu hổ",
+        "userNoteToSave": "Unit 3: My Friend"
+    },
+    {
+        "word": "sporty",
+        "wordTypeArr": "(adj)",
+        "phoneticTxt": "ˈspɔrti",
+        "yourLangMeaning": "dáng thể thao, khỏe mạnh",
+        "userNoteToSave": "Unit 3: My Friend"
+    },
+    {
+        "word": "volunteer",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˌvɑlənˈtɪr",
+        "yourLangMeaning": "tình nguyện viên",
+        "userNoteToSave": "Unit 3: My Friend"
+    },
+    {
+        "word": "zodiac",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈzoʊdiˌæk",
+        "yourLangMeaning": "cung hoàng đạo",
+        "userNoteToSave": "Unit 3: My Friend"
+    },
+    {
+        "word": "statue",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈstæˌʧu",
+        "yourLangMeaning": "tượng",
+        "userNoteToSave": "Unit 4: My Neighbourhood"
+    },
+    {
+        "word": "square",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "skwɛr",
+        "yourLangMeaning": "quảng trường",
+        "userNoteToSave": "Unit 4: My Neighbourhood"
+    },
+    {
+        "word": "railway station",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈreɪlˌweɪ ˈsteɪʃən",
+        "yourLangMeaning": "nhà ga",
+        "userNoteToSave": "Unit 4: My Neighbourhood"
+    },
+    {
+        "word": "cathedral",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "kəˈθidrəl",
+        "yourLangMeaning": "nhà thờ",
+        "userNoteToSave": "Unit 4: My Neighbourhood"
+    },
+    {
+        "word": "memorial",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "məˈmɔriəl",
+        "yourLangMeaning": "đài tưởng niệm",
+        "userNoteToSave": "Unit 4: My Neighbourhood"
+    },
+    {
+        "word": "left",
+        "wordTypeArr": "(n, a)",
+        "phoneticTxt": "lɛft",
+        "yourLangMeaning": "trái",
+        "userNoteToSave": "Unit 4: My Neighbourhood"
+    },
+    {
+        "word": "right",
+        "wordTypeArr": "(n, a)",
+        "phoneticTxt": "raɪt",
+        "yourLangMeaning": "phải",
+        "userNoteToSave": "Unit 4: My Neighbourhood"
+    },
+    {
+        "word": "straight",
+        "wordTypeArr": "(n, a)",
+        "phoneticTxt": "streɪt",
+        "yourLangMeaning": "thẳng",
+        "userNoteToSave": "Unit 4: My Neighbourhood"
+    },
+    {
+        "word": "narrow",
+        "wordTypeArr": "(adj)",
+        "phoneticTxt": "ˈnɛroʊ",
+        "yourLangMeaning": "hẹp",
+        "userNoteToSave": "Unit 4: My Neighbourhood"
+    },
+    {
+        "word": "noisy",
+        "wordTypeArr": "(adj)",
+        "phoneticTxt": "ˈnɔɪzi",
+        "yourLangMeaning": "ồn ào",
+        "userNoteToSave": "Unit 4: My Neighbourhood"
+    },
+    {
+        "word": "crowded",
+        "wordTypeArr": "(adj)",
+        "phoneticTxt": "ˈkraʊdəd",
+        "yourLangMeaning": "đông đúc",
+        "userNoteToSave": "Unit 4: My Neighbourhood"
+    },
+    {
+        "word": "quiet",
+        "wordTypeArr": "(adj)",
+        "phoneticTxt": "ˈkwaɪət",
+        "yourLangMeaning": "yên tĩnh",
+        "userNoteToSave": "Unit 4: My Neighbourhood"
+    },
+    {
+        "word": "art gallery",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ɑrt ˈgæləri",
+        "yourLangMeaning": "phòng trưng bày các tác phẩm nghệ thuật",
+        "userNoteToSave": "Unit 4: My Neighbourhood"
+    },
+    {
+        "word": "backyard",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈbæˌkjɑrd",
+        "yourLangMeaning": "sân phía sau nhà",
+        "userNoteToSave": "Unit 4: My Neighbourhood"
+    },
+    {
+        "word": "cathedral",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "kəˈθidrəl",
+        "yourLangMeaning": "nhà thờ lớn, thánh đường",
+        "userNoteToSave": "Unit 4: My Neighbourhood"
+    },
+    {
+        "word": "convenient",
+        "wordTypeArr": "(adj)",
+        "phoneticTxt": "kənˈvinjənt",
+        "yourLangMeaning": "thuận tiện, thuận lợi",
+        "userNoteToSave": "Unit 4: My Neighbourhood"
+    },
+    {
+        "word": "dislike",
+        "wordTypeArr": "(v)",
+        "phoneticTxt": "dɪˈslaɪk",
+        "yourLangMeaning": "không thích, không ưa, ghét",
+        "userNoteToSave": "Unit 4: My Neighbourhood"
+    },
+    {
+        "word": "exciting",
+        "wordTypeArr": "(adj)",
+        "phoneticTxt": "ɪkˈsaɪtɪŋ",
+        "yourLangMeaning": "thú vị, lý thú, hứng thú",
+        "userNoteToSave": "Unit 4: My Neighbourhood"
+    },
+    {
+        "word": "fantastic",
+        "wordTypeArr": "(adj)",
+        "phoneticTxt": "fænˈtæstɪk",
+        "yourLangMeaning": "tuyệt vời",
+        "userNoteToSave": "Unit 4: My Neighbourhood"
+    },
+    {
+        "word": "historic",
+        "wordTypeArr": "(adj)",
+        "phoneticTxt": "hɪˈstɔrɪk",
+        "yourLangMeaning": "cổ, cổ kính",
+        "userNoteToSave": "Unit 4: My Neighbourhood"
+    },
+    {
+        "word": "inconvenient",
+        "wordTypeArr": "(adj)",
+        "phoneticTxt": "ˌɪnkənˈvinjənt",
+        "yourLangMeaning": "bất tiện, phiền phức",
+        "userNoteToSave": "Unit 4: My Neighbourhood"
+    },
+    {
+        "word": "incredibly",
+        "wordTypeArr": "(adv)",
+        "phoneticTxt": "ɪnˈkrɛdəbli",
+        "yourLangMeaning": "đáng kinh ngạc, đến nỗi không ngờ",
+        "userNoteToSave": "Unit 4: My Neighbourhood"
+    },
+    {
+        "word": "modern",
+        "wordTypeArr": "(adj)",
+        "phoneticTxt": "ˈmɑdərn",
+        "yourLangMeaning": "hiện dại",
+        "userNoteToSave": "Unit 4: My Neighbourhood"
+    },
+    {
+        "word": "pagoda",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "pəˈgoʊdə",
+        "yourLangMeaning": "ngôi chùa",
+        "userNoteToSave": "Unit 4: My Neighbourhood"
+    },
+    {
+        "word": "palace",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈpæləs",
+        "yourLangMeaning": "cung điện, dinh, phủ",
+        "userNoteToSave": "Unit 4: My Neighbourhood"
+    },
+    {
+        "word": "peaceful",
+        "wordTypeArr": "(adj)",
+        "phoneticTxt": "ˈpisfəl",
+        "yourLangMeaning": "yên tĩnh, bình lặng",
+        "userNoteToSave": "Unit 4: My Neighbourhood"
+    },
+    {
+        "word": "polluted",
+        "wordTypeArr": "(adj)",
+        "phoneticTxt": "pəˈlutəd",
+        "yourLangMeaning": "ô nhiễm",
+        "userNoteToSave": "Unit 4: My Neighbourhood"
+    },
+    {
+        "word": "suburb",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈsʌbərb",
+        "yourLangMeaning": "khu vực ngoại ô",
+        "userNoteToSave": "Unit 4: My Neighbourhood"
+    },
+    {
+        "word": "temple",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈtɛmpəl",
+        "yourLangMeaning": "đền, điện, miếu",
+        "userNoteToSave": "Unit 4: My Neighbourhood"
+    },
+    {
+        "word": "terrible",
+        "wordTypeArr": "(adj)",
+        "phoneticTxt": "ˈtɛrəbəl",
+        "yourLangMeaning": "tồi tệ",
+        "userNoteToSave": "Unit 4: My Neighbourhood"
+    },
+    {
+        "word": "workshop",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈwɜrkˌʃɑp",
+        "yourLangMeaning": "phân xưởng (sản xuất, sửa chữa...)",
+        "userNoteToSave": "Unit 4: My Neighbourhood"
+    },
+    {
+        "word": "plaster",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈplæstər",
+        "yourLangMeaning": "miếng băng dán",
+        "userNoteToSave": "Unit 5: Natural Wonders of the World"
+    },
+    {
+        "word": "walking boots",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈwɔkɪŋ buts",
+        "yourLangMeaning": "giày ống đi bộ",
+        "userNoteToSave": "Unit 5: Natural Wonders of the World"
+    },
+    {
+        "word": "painkiller",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈpeɪnˌkɪlər",
+        "yourLangMeaning": "thuốc giảm đau",
+        "userNoteToSave": "Unit 5: Natural Wonders of the World"
+    },
+    {
+        "word": "sun cream",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "sʌn krim",
+        "yourLangMeaning": "kem chống nắng",
+        "userNoteToSave": "Unit 5: Natural Wonders of the World"
+    },
+    {
+        "word": "scissor",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈsɪzər",
+        "yourLangMeaning": "cái kéo",
+        "userNoteToSave": "Unit 5: Natural Wonders of the World"
+    },
+    {
+        "word": "sleeping bag",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈslipɪŋ bæg",
+        "yourLangMeaning": "túi ngủ",
+        "userNoteToSave": "Unit 5: Natural Wonders of the World"
+    },
+    {
+        "word": "backpack",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈbækˌpæk",
+        "yourLangMeaning": "ba lô",
+        "userNoteToSave": "Unit 5: Natural Wonders of the World"
+    },
+    {
+        "word": "compass",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈkʌmpəs",
+        "yourLangMeaning": "la bàn",
+        "userNoteToSave": "Unit 5: Natural Wonders of the World"
+    },
+    {
+        "word": "desert",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈdɛzɜrt",
+        "yourLangMeaning": "sa mạc",
+        "userNoteToSave": "Unit 5: Natural Wonders of the World"
+    },
+    {
+        "word": "mountain",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈmaʊntən",
+        "yourLangMeaning": "núi",
+        "userNoteToSave": "Unit 5: Natural Wonders of the World"
+    },
+    {
+        "word": "lake",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "leɪk",
+        "yourLangMeaning": "hồ nước",
+        "userNoteToSave": "Unit 5: Natural Wonders of the World"
+    },
+    {
+        "word": "river",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈrɪvər",
+        "yourLangMeaning": "sông",
+        "userNoteToSave": "Unit 5: Natural Wonders of the World"
+    },
+    {
+        "word": "forest",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈfɔrəst",
+        "yourLangMeaning": "rừng",
+        "userNoteToSave": "Unit 5: Natural Wonders of the World"
+    },
+    {
+        "word": "waterfall",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈwɔtərˌfɔl",
+        "yourLangMeaning": "thác nước",
+        "userNoteToSave": "Unit 5: Natural Wonders of the World"
+    },
+    {
+        "word": "Antarctica",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˌænˈtɑrktɪkə",
+        "yourLangMeaning": "châu Nam cực",
+        "userNoteToSave": "Unit 5: Natural Wonders of the World"
+    },
+    {
+        "word": "boat",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "boʊt",
+        "yourLangMeaning": "con thuyền",
+        "userNoteToSave": "Unit 5: Natural Wonders of the World"
+    },
+    {
+        "word": "boot",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "but",
+        "yourLangMeaning": "giày ủng",
+        "userNoteToSave": "Unit 5: Natural Wonders of the World"
+    },
+    {
+        "word": "cave",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "keɪv",
+        "yourLangMeaning": "hang động",
+        "userNoteToSave": "Unit 5: Natural Wonders of the World"
+    },
+    {
+        "word": "cuisine",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "kwɪˈzin",
+        "yourLangMeaning": "kỹ thuật nấu ăn, nghệ thuật ẩm thực",
+        "userNoteToSave": "Unit 5: Natural Wonders of the World"
+    },
+    {
+        "word": "diverse",
+        "wordTypeArr": "(adj)",
+        "phoneticTxt": "daɪˈvɜrs",
+        "yourLangMeaning": "đa dạng",
+        "userNoteToSave": "Unit 5: Natural Wonders of the World"
+    },
+    {
+        "word": "essential",
+        "wordTypeArr": "(adj)",
+        "phoneticTxt": "ɪˈsɛnʃəl",
+        "yourLangMeaning": "rất cần thiết",
+        "userNoteToSave": "Unit 5: Natural Wonders of the World"
+    },
+    {
+        "word": "island",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈaɪlənd",
+        "yourLangMeaning": "hòn đảo",
+        "userNoteToSave": "Unit 5: Natural Wonders of the World"
+    },
+    {
+        "word": "rock",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "rɑk",
+        "yourLangMeaning": "hòn đá, phiến đá",
+        "userNoteToSave": "Unit 5: Natural Wonders of the World"
+    },
+    {
+        "word": "thrilling",
+        "wordTypeArr": "(adj)  ",
+        "phoneticTxt": "ˈθrɪlɪŋ",
+        "yourLangMeaning": "(gây) hồi hộp",
+        "userNoteToSave": "Unit 5: Natural Wonders of the World"
+    },
+    {
+        "word": "torch",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "tɔrʧ",
+        "yourLangMeaning": "đèn pin",
+        "userNoteToSave": "Unit 5: Natural Wonders of the World"
+    },
+    {
+        "word": "travel agent’s",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈtrævəl ˈeɪʤənts",
+        "yourLangMeaning": "công ty du lịch",
+        "userNoteToSave": "Unit 5: Natural Wonders of the World"
+    },
+    {
+        "word": "valley",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈvæli",
+        "yourLangMeaning": "thung lũng",
+        "userNoteToSave": "Unit 5: Natural Wonders of the World"
+    },
+    {
+        "word": "windsurfing",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "windsurfing",
+        "yourLangMeaning": "môn thể thao lướt ván buồm",
+        "userNoteToSave": "Unit 5: Natural Wonders of the World"
+    },
+    {
+        "word": "wonder",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈwʌndər",
+        "yourLangMeaning": "kỳ quan",
+        "userNoteToSave": "Unit 5: Natural Wonders of the World"
+    },
+    {
+        "word": "flower",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈflaʊər",
+        "yourLangMeaning": "hoa",
+        "userNoteToSave": "Unit 6: Our Tet Holiday"
+    },
+    {
+        "word": "firework",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈfaɪrˌwɜrk",
+        "yourLangMeaning": "pháo hoa",
+        "userNoteToSave": "Unit 6: Our Tet Holiday"
+    },
+    {
+        "word": "lucky money",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈlʌki ˈmʌni",
+        "yourLangMeaning": "tiền lì xì",
+        "userNoteToSave": "Unit 6: Our Tet Holiday"
+    },
+    {
+        "word": "apricot blossom",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈeɪprəˌkɑt ˈblɑsəm",
+        "yourLangMeaning": "hoa mai",
+        "userNoteToSave": "Unit 6: Our Tet Holiday"
+    },
+    {
+        "word": "peach blossom",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "piʧ ˈblɑsəm",
+        "yourLangMeaning": "hoa đào",
+        "userNoteToSave": "Unit 6: Our Tet Holiday"
+    },
+    {
+        "word": "make a wish",
+        "phoneticTxt": "meɪk ə wɪʃ",
+        "yourLangMeaning": "ước một điều ước",
+        "userNoteToSave": "Unit 6: Our Tet Holiday"
+    },
+    {
+        "word": "cook special food",
+        "phoneticTxt": "kʊk ˈspɛʃəl fud",
+        "yourLangMeaning": "nấu một món ăn đặc biệt",
+        "userNoteToSave": "Unit 6: Our Tet Holiday"
+    },
+    {
+        "word": "go to a pagoda",
+        "phoneticTxt": "goʊ tu ə pəˈgoʊdə",
+        "yourLangMeaning": "đi chùa",
+        "userNoteToSave": "Unit 6: Our Tet Holiday"
+    },
+    {
+        "word": "decorate",
+        "wordTypeArr": "(v)",
+        "phoneticTxt": "ˈdɛkəˌreɪt",
+        "yourLangMeaning": "trang trí, trang hoàng",
+        "userNoteToSave": "Unit 6: Our Tet Holiday"
+    },
+    {
+        "word": "decorate our house",
+        "phoneticTxt": "ˈdɛkəˌreɪt ˈaʊər haʊs",
+        "yourLangMeaning": "trang trí nhà của chúng ta",
+        "userNoteToSave": "Unit 6: Our Tet Holiday"
+    },
+    {
+        "word": "plant trees",
+        "phoneticTxt": "plænt triz",
+        "yourLangMeaning": "trồng cây",
+        "userNoteToSave": "Unit 6: Our Tet Holiday"
+    },
+    {
+        "word": "watch fireworks",
+        "phoneticTxt": "wɑʧ ˈfaɪrˌwɜrks",
+        "yourLangMeaning": "xem pháo hoa",
+        "userNoteToSave": "Unit 6: Our Tet Holiday"
+    },
+    {
+        "word": "hang a calendar",
+        "phoneticTxt": "hæŋ ə ˈkæləndər",
+        "yourLangMeaning": "treo một cuốn lịch",
+        "userNoteToSave": "Unit 6: Our Tet Holiday"
+    },
+    {
+        "word": "give lucky money",
+        "phoneticTxt": "gɪv ˈlʌki ˈmʌni",
+        "yourLangMeaning": "cho tiền lì xì",
+        "userNoteToSave": "Unit 6: Our Tet Holiday"
+    },
+    {
+        "word": "do the shopping",
+        "phoneticTxt": "du ðə ˈʃɑpɪŋ",
+        "yourLangMeaning": "mua sắm",
+        "userNoteToSave": "Unit 6: Our Tet Holiday"
+    },
+    {
+        "word": "visit relative",
+        "phoneticTxt": "ˈvɪzət ˈrɛlətɪv",
+        "yourLangMeaning": "thăm người thân",
+        "userNoteToSave": "Unit 6: Our Tet Holiday"
+    },
+    {
+        "word": "buy peach blossom",
+        "phoneticTxt": "baɪ piʧ ˈblɑsəm",
+        "yourLangMeaning": "mua hoa đào",
+        "userNoteToSave": "Unit 6: Our Tet Holiday"
+    },
+    {
+        "word": "clean furniture",
+        "phoneticTxt": "klin ˈfɜrnɪʧər",
+        "yourLangMeaning": "lau chùi đồ đạc",
+        "userNoteToSave": "Unit 6: Our Tet Holiday"
+    },
+    {
+        "word": "calendar",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈkæləndər",
+        "yourLangMeaning": "lịch",
+        "userNoteToSave": "Unit 6: Our Tet Holiday"
+    },
+    {
+        "word": "celebrate",
+        "wordTypeArr": "(v)",
+        "phoneticTxt": "ˈsɛləˌbreɪt",
+        "yourLangMeaning": "kỉ niệm",
+        "userNoteToSave": "Unit 6: Our Tet Holiday"
+    },
+    {
+        "word": "cool down",
+        "wordTypeArr": "(v)",
+        "phoneticTxt": "kul daʊn",
+        "yourLangMeaning": "làm mát",
+        "userNoteToSave": "Unit 6: Our Tet Holiday"
+    },
+    {
+        "word": "Dutch",
+        "wordTypeArr": "(n, adj)",
+        "phoneticTxt": "dʌʧ",
+        "yourLangMeaning": "người/tiếng Hà Lan",
+        "userNoteToSave": "Unit 6: Our Tet Holiday"
+    },
+    {
+        "word": "empty out ",
+        "wordTypeArr": "(v)",
+        "phoneticTxt": "ˈɛmpti aʊt ",
+        "yourLangMeaning": "đổ (rác)",
+        "userNoteToSave": "Unit 6: Our Tet Holiday"
+    },
+    {
+        "word": "family gathering ",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈfæməli ˈgæðərɪŋ ",
+        "yourLangMeaning": "sum họp gia đình",
+        "userNoteToSave": "Unit 6: Our Tet Holiday"
+    },
+    {
+        "word": "feather",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈfɛðər",
+        "yourLangMeaning": "lông (gia cầm)",
+        "userNoteToSave": "Unit 6: Our Tet Holiday"
+    },
+    {
+        "word": "first-footer",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "fɜrst-ˈfʊtər",
+        "yourLangMeaning": "người xông nhà (đầu năm mới)",
+        "userNoteToSave": "Unit 6: Our Tet Holiday"
+    },
+    {
+        "word": "get wet ",
+        "wordTypeArr": "(v)",
+        "phoneticTxt": "gɛt wɛt ",
+        "yourLangMeaning": "bị ướt",
+        "userNoteToSave": "Unit 6: Our Tet Holiday"
+    },
+    {
+        "word": "Korean",
+        "wordTypeArr": "(n, adj)",
+        "phoneticTxt": "kɔˈriən",
+        "yourLangMeaning": "người/tiếng Hàn Quốc",
+        "userNoteToSave": "Unit 6: Our Tet Holiday"
+    },
+    {
+        "word": "remove",
+        "wordTypeArr": "(v)",
+        "phoneticTxt": "riˈmuv",
+        "yourLangMeaning": "rủ bỏ",
+        "userNoteToSave": "Unit 6: Our Tet Holiday"
+    },
+    {
+        "word": "rooster",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈrustər",
+        "yourLangMeaning": "gà trống",
+        "userNoteToSave": "Unit 6: Our Tet Holiday"
+    },
+    {
+        "word": "rubbish",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈrʌbɪʃ",
+        "yourLangMeaning": "rác",
+        "userNoteToSave": "Unit 6: Our Tet Holiday"
+    },
+    {
+        "word": "Thai",
+        "wordTypeArr": "(n, adj)",
+        "phoneticTxt": "taɪ",
+        "yourLangMeaning": "người ¡tiếng Thái Lan",
+        "userNoteToSave": "Unit 6: Our Tet Holiday"
+    },
+    {
+        "word": "wish",
+        "wordTypeArr": "(n, v)",
+        "phoneticTxt": "wɪʃ",
+        "yourLangMeaning": "lời ước",
+        "userNoteToSave": "Unit 6: Our Tet Holiday"
+    },
+    {
+        "word": "cartoon",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "kɑrˈtun",
+        "yourLangMeaning": "phim hoạt hình",
+        "userNoteToSave": "Unit 7: Television"
+    },
+    {
+        "word": "game show",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "geɪm ʃoʊ",
+        "yourLangMeaning": "chương trình trò chơi, buổi truyền hình giải trí",
+        "userNoteToSave": "Unit 7: Television"
+    },
+    {
+        "word": "film",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "fɪlm",
+        "yourLangMeaning": "phim truyện",
+        "userNoteToSave": "Unit 7: Television"
+    },
+    {
+        "word": "comedy",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈkɑmədi",
+        "yourLangMeaning": "hài kịch, phim hài",
+        "userNoteToSave": "Unit 7: Television"
+    },
+    {
+        "word": "newsreader",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "newsreader",
+        "yourLangMeaning": "người đọc bản tin trèn đài, truyền hình",
+        "userNoteToSave": "Unit 7: Television"
+    },
+    {
+        "word": "weatherman",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈwɛðərˌmæn",
+        "yourLangMeaning": "người thông báo tin thời tiết trên đài, ti vi",
+        "userNoteToSave": "Unit 7: Television"
+    },
+    {
+        "word": "adventure",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ædˈvɛnʧər",
+        "yourLangMeaning": "cuộc phiêu lưu",
+        "userNoteToSave": "Unit 7: Television"
+    },
+    {
+        "word": "announce",
+        "wordTypeArr": "(v)",
+        "phoneticTxt": "əˈnaʊns",
+        "yourLangMeaning": "thông báo",
+        "userNoteToSave": "Unit 7: Television"
+    },
+    {
+        "word": "audience",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈɑdiəns",
+        "yourLangMeaning": "khán giả",
+        "userNoteToSave": "Unit 7: Television"
+    },
+    {
+        "word": "character",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈkɛrɪktər",
+        "yourLangMeaning": "nhân vật",
+        "userNoteToSave": "Unit 7: Television"
+    },
+    {
+        "word": "clumsy",
+        "wordTypeArr": "(adj)",
+        "phoneticTxt": "ˈklʌmzi",
+        "yourLangMeaning": "vụng về",
+        "userNoteToSave": "Unit 7: Television"
+    },
+    {
+        "word": "cool",
+        "wordTypeArr": "(adj)",
+        "phoneticTxt": "kul",
+        "yourLangMeaning": "dễ thương",
+        "userNoteToSave": "Unit 7: Television"
+    },
+    {
+        "word": "cute",
+        "wordTypeArr": "(adj)",
+        "phoneticTxt": "kjut",
+        "yourLangMeaning": "xinh xắn",
+        "userNoteToSave": "Unit 7: Television"
+    },
+    {
+        "word": "documentary",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˌdɑkjəˈmɛntəri",
+        "yourLangMeaning": "phim tài liệu",
+        "userNoteToSave": "Unit 7: Television"
+    },
+    {
+        "word": "educate",
+        "wordTypeArr": "(v)",
+        "phoneticTxt": "ˈɛʤəˌkeɪt",
+        "yourLangMeaning": "giáo dục",
+        "userNoteToSave": "Unit 7: Television"
+    },
+    {
+        "word": "educational",
+        "wordTypeArr": "(adj)",
+        "phoneticTxt": "ˌɛʤəˈkeɪʃənəl",
+        "yourLangMeaning": "mang tính giáo dục",
+        "userNoteToSave": "Unit 7: Television"
+    },
+    {
+        "word": "entertain",
+        "wordTypeArr": "(v)",
+        "phoneticTxt": "ˌɛntərˈteɪn",
+        "yourLangMeaning": "giải trí",
+        "userNoteToSave": "Unit 7: Television"
+    },
+    {
+        "word": "event",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ɪˈvɛnt",
+        "yourLangMeaning": "sự kiện",
+        "userNoteToSave": "Unit 7: Television"
+    },
+    {
+        "word": "fact",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "fækt",
+        "yourLangMeaning": "thực tế, sự thật hiển nhiên",
+        "userNoteToSave": "Unit 7: Television"
+    },
+    {
+        "word": "fair",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "fɛr",
+        "yourLangMeaning": "hội chợ, chợ phiên",
+        "userNoteToSave": "Unit 7: Television"
+    },
+    {
+        "word": "funny",
+        "wordTypeArr": "(adj)",
+        "phoneticTxt": "ˈfʌni",
+        "yourLangMeaning": "hài hước",
+        "userNoteToSave": "Unit 7: Television"
+    },
+    {
+        "word": "human",
+        "wordTypeArr": "(adj)",
+        "phoneticTxt": "ˈhjumən",
+        "yourLangMeaning": "thuộc về con người",
+        "userNoteToSave": "Unit 7: Television"
+    },
+    {
+        "word": "local",
+        "wordTypeArr": "(adj)",
+        "phoneticTxt": "ˈloʊkəl",
+        "yourLangMeaning": "mang tính địa phương",
+        "userNoteToSave": "Unit 7: Television"
+    },
+    {
+        "word": "main",
+        "wordTypeArr": "(adj)",
+        "phoneticTxt": "meɪn",
+        "yourLangMeaning": "chính yếu, chủ đạo",
+        "userNoteToSave": "Unit 7: Television"
+    },
+    {
+        "word": "manner",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈmænər",
+        "yourLangMeaning": "tác phong, phong cách",
+        "userNoteToSave": "Unit 7: Television"
+    },
+    {
+        "word": "MC (Master of Ceremony)",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "mɪk (ˈmæstər ʌv ˈsɛrəˌmoʊni)",
+        "yourLangMeaning": "người dẫn chương trình ",
+        "userNoteToSave": "Unit 7: Television"
+    },
+    {
+        "word": "musical",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈmjuzɪkəl",
+        "yourLangMeaning": "buổi biểu diễn văn nghệ, vở nhạc kịch",
+        "userNoteToSave": "Unit 7: Television"
+    },
+    {
+        "word": "national",
+        "wordTypeArr": "(adj)",
+        "phoneticTxt": "ˈnæʃənəl",
+        "yourLangMeaning": "thuộc về quốc gia",
+        "userNoteToSave": "Unit 7: Television"
+    },
+    {
+        "word": "pig racing",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "pɪg ˈreɪsɪŋ",
+        "yourLangMeaning": "đua lợn",
+        "userNoteToSave": "Unit 7: Television"
+    },
+    {
+        "word": "programme",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈproʊˌgræm",
+        "yourLangMeaning": "chương trình",
+        "userNoteToSave": "Unit 7: Television"
+    },
+    {
+        "word": "reason",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈrizən",
+        "yourLangMeaning": "nguyên nhân",
+        "userNoteToSave": "Unit 7: Television"
+    },
+    {
+        "word": "remote control",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "rɪˈmoʊt kənˈtroʊl",
+        "yourLangMeaning": "điều khiển (ti vi) từ xa",
+        "userNoteToSave": "Unit 7: Television"
+    },
+    {
+        "word": "reporter",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "rɪˈpɔrtər",
+        "yourLangMeaning": "phóng viên",
+        "userNoteToSave": "Unit 7: Television"
+    },
+    {
+        "word": "schedule",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈskɛʤʊl",
+        "yourLangMeaning": "chương trình, lịch trình",
+        "userNoteToSave": "Unit 7: Television"
+    },
+    {
+        "word": "series",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈsɪriz",
+        "yourLangMeaning": "phim dài kỳ trên truyền hình",
+        "userNoteToSave": "Unit 7: Television"
+    },
+    {
+        "word": "stupid",
+        "wordTypeArr": "(adj)",
+        "phoneticTxt": "ˈstupəd",
+        "yourLangMeaning": "đần độn, ngớ ngẩn",
+        "userNoteToSave": "Unit 7: Television"
+    },
+    {
+        "word": "universe",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈjunəˌvɜrs",
+        "yourLangMeaning": "vũ trụ ",
+        "userNoteToSave": "Unit 7: Television"
+    },
+    {
+        "word": "viewer",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈvjuər",
+        "yourLangMeaning": "người xem (ti vi)",
+        "userNoteToSave": "Unit 7: Television"
+    },
+    {
+        "word": "badminton",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈbædˌmɪntən",
+        "yourLangMeaning": "cầu lông",
+        "userNoteToSave": "Unit 8: Sports and Games"
+    },
+    {
+        "word": "volleyball",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈvɑliˌbɔl",
+        "yourLangMeaning": "bóng chuyền",
+        "userNoteToSave": "Unit 8: Sports and Games"
+    },
+    {
+        "word": "football",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈfʊtˌbɔl",
+        "yourLangMeaning": "bóng đá",
+        "userNoteToSave": "Unit 8: Sports and Games"
+    },
+    {
+        "word": "judo",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈʤuˌdoʊ",
+        "yourLangMeaning": "võ nhu đạo",
+        "userNoteToSave": "Unit 8: Sports and Games"
+    },
+    {
+        "word": "horse race",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "hɔrs reɪs",
+        "yourLangMeaning": "đua ngựa",
+        "userNoteToSave": "Unit 8: Sports and Games"
+    },
+    {
+        "word": "basketball",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈbæskətˌbɔl",
+        "yourLangMeaning": "bóng rổ",
+        "userNoteToSave": "Unit 8: Sports and Games"
+    },
+    {
+        "word": "baseball",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈbeɪsˈbɔl",
+        "yourLangMeaning": "bóng chày",
+        "userNoteToSave": "Unit 8: Sports and Games"
+    },
+    {
+        "word": "tennis",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈtɛnəs",
+        "yourLangMeaning": "quần vợt",
+        "userNoteToSave": "Unit 8: Sports and Games"
+    },
+    {
+        "word": "table tennis",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈteɪbəl ˈtɛnəs",
+        "yourLangMeaning": "bóng bàn",
+        "userNoteToSave": "Unit 8: Sports and Games"
+    },
+    {
+        "word": "regatta",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "rɪˈgɑtə",
+        "yourLangMeaning": "cuộc đua thuyền",
+        "userNoteToSave": "Unit 8: Sports and Games"
+    },
+    {
+        "word": "eurythmies",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "eurythmies",
+        "yourLangMeaning": "thể dục nhịp điệu",
+        "userNoteToSave": "Unit 8: Sports and Games"
+    },
+    {
+        "word": "gymnastics",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ʤɪmˈnæstɪks",
+        "yourLangMeaning": "thể dục dụng cụ",
+        "userNoteToSave": "Unit 8: Sports and Games"
+    },
+    {
+        "word": "marathon",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈmɛrəˌθɑn",
+        "yourLangMeaning": "cuộc đua ma-ra-tông",
+        "userNoteToSave": "Unit 8: Sports and Games"
+    },
+    {
+        "word": "marathon race",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈmɛrəˌθɑn reɪs",
+        "yourLangMeaning": "chạy ma-ra-tông",
+        "userNoteToSave": "Unit 8: Sports and Games"
+    },
+    {
+        "word": "javelin throw",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈʤævələn θroʊ",
+        "yourLangMeaning": "ném lao",
+        "userNoteToSave": "Unit 8: Sports and Games"
+    },
+    {
+        "word": "pole vault",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "poʊl vɔlt",
+        "yourLangMeaning": "nhảy sào",
+        "userNoteToSave": "Unit 8: Sports and Games"
+    },
+    {
+        "word": "athletics",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "æˈθlɛtɪks",
+        "yourLangMeaning": "điền kinh",
+        "userNoteToSave": "Unit 8: Sports and Games"
+    },
+    {
+        "word": "hurdle rate",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈhɜrdəl reɪt",
+        "yourLangMeaning": "nhảy rào",
+        "userNoteToSave": "Unit 8: Sports and Games"
+    },
+    {
+        "word": "weightlifting",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈweɪtˌlɪftɪŋ",
+        "yourLangMeaning": "cử tạ",
+        "userNoteToSave": "Unit 8: Sports and Games"
+    },
+    {
+        "word": "swimming",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈswɪmɪŋ",
+        "yourLangMeaning": "bơi lội",
+        "userNoteToSave": "Unit 8: Sports and Games"
+    },
+    {
+        "word": "ice-skating",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "aɪs-ˈskeɪtɪŋ",
+        "yourLangMeaning": "trượt băng",
+        "userNoteToSave": "Unit 8: Sports and Games"
+    },
+    {
+        "word": "water-skiing",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈwɔtər-ˈskiɪŋ",
+        "yourLangMeaning": "lướt ván nước",
+        "userNoteToSave": "Unit 8: Sports and Games"
+    },
+    {
+        "word": "high jumping",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "haɪ ˈʤʌmpɪŋ",
+        "yourLangMeaning": "nhảy cao",
+        "userNoteToSave": "Unit 8: Sports and Games"
+    },
+    {
+        "word": "archery",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈɑrʧəri",
+        "yourLangMeaning": "bắn cung",
+        "userNoteToSave": "Unit 8: Sports and Games"
+    },
+    {
+        "word": "windsurfing",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "windsurfing",
+        "yourLangMeaning": "lướt ván buồm",
+        "userNoteToSave": "Unit 8: Sports and Games"
+    },
+    {
+        "word": "cycling",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈsaɪkəlɪŋ",
+        "yourLangMeaning": "đua xe đạp",
+        "userNoteToSave": "Unit 8: Sports and Games"
+    },
+    {
+        "word": "fencing",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈfɛnsɪŋ",
+        "yourLangMeaning": "đấu kiếm",
+        "userNoteToSave": "Unit 8: Sports and Games"
+    },
+    {
+        "word": "hurdling",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈhɜrdəlɪŋ",
+        "yourLangMeaning": "chạy/nhảy qua rào",
+        "userNoteToSave": "Unit 8: Sports and Games"
+    },
+    {
+        "word": "athlete",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈæˌθlit",
+        "yourLangMeaning": "vận động viên",
+        "userNoteToSave": "Unit 8: Sports and Games"
+    },
+    {
+        "word": "boat",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "boʊt",
+        "yourLangMeaning": "con thuyền",
+        "userNoteToSave": "Unit 8: Sports and Games"
+    },
+    {
+        "word": "career",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "kəˈrɪr",
+        "yourLangMeaning": "nghề nghiệp, sự nghiệp",
+        "userNoteToSave": "Unit 8: Sports and Games"
+    },
+    {
+        "word": "congratulations",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "kənˌgræʧəˈleɪʃənz",
+        "yourLangMeaning": "xin chúc mừng",
+        "userNoteToSave": "Unit 8: Sports and Games"
+    },
+    {
+        "word": "elect",
+        "wordTypeArr": "(v)",
+        "phoneticTxt": "ɪˈlɛkt",
+        "yourLangMeaning": "lựa chọn, bầu chọn",
+        "userNoteToSave": "Unit 8: Sports and Games"
+    },
+    {
+        "word": "equipment",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ɪˈkwɪpmənt",
+        "yourLangMeaning": "thiết bị, dụng cụ",
+        "userNoteToSave": "Unit 8: Sports and Games"
+    },
+    {
+        "word": "exhausted",
+        "wordTypeArr": "(adj)",
+        "phoneticTxt": "ɪgˈzɑstəd",
+        "yourLangMeaning": "mệt nhoài, mệt lử",
+        "userNoteToSave": "Unit 8: Sports and Games"
+    },
+    {
+        "word": "fantastic",
+        "wordTypeArr": "(adj)",
+        "phoneticTxt": "fænˈtæstɪk",
+        "yourLangMeaning": "tuyệt",
+        "userNoteToSave": "Unit 8: Sports and Games"
+    },
+    {
+        "word": "fit",
+        "wordTypeArr": "(adj)",
+        "phoneticTxt": "fɪt",
+        "yourLangMeaning": "mạnh khỏe",
+        "userNoteToSave": "Unit 8: Sports and Games"
+    },
+    {
+        "word": "goggles",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈgɑgəlz",
+        "yourLangMeaning": "kính (để bơi)",
+        "userNoteToSave": "Unit 8: Sports and Games"
+    },
+    {
+        "word": "gym",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ʤɪm",
+        "yourLangMeaning": "trung tâm thể dục",
+        "userNoteToSave": "Unit 8: Sports and Games"
+    },
+    {
+        "word": "last",
+        "wordTypeArr": "(v)",
+        "phoneticTxt": "læst",
+        "yourLangMeaning": "kéo dài",
+        "userNoteToSave": "Unit 8: Sports and Games"
+    },
+    {
+        "word": "racket",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈrækɪt",
+        "yourLangMeaning": "cái vợt (cầu lông...)",
+        "userNoteToSave": "Unit 8: Sports and Games"
+    },
+    {
+        "word": "regard",
+        "wordTypeArr": "(v)",
+        "phoneticTxt": "rəˈgɑrd",
+        "yourLangMeaning": "coi là",
+        "userNoteToSave": "Unit 8: Sports and Games"
+    },
+    {
+        "word": "ring",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "rɪŋ",
+        "yourLangMeaning": "sàn đấu (boxing)",
+        "userNoteToSave": "Unit 8: Sports and Games"
+    },
+    {
+        "word": "skateboard",
+        "wordTypeArr": "(n, v)",
+        "phoneticTxt": "ˈskeɪtˌbɔrd",
+        "yourLangMeaning": "ván trượt, trượt ván",
+        "userNoteToSave": "Unit 8: Sports and Games"
+    },
+    {
+        "word": "ski",
+        "wordTypeArr": "(n, v)",
+        "phoneticTxt": "ski",
+        "yourLangMeaning": "trượt tuyết, ván trượt tuyết",
+        "userNoteToSave": "Unit 8: Sports and Games"
+    },
+    {
+        "word": "skiing",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈskiɪŋ",
+        "yourLangMeaning": "môn trượt tuyết",
+        "userNoteToSave": "Unit 8: Sports and Games"
+    },
+    {
+        "word": "sports competition",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "spɔrts ˌkɑmpəˈtɪʃən",
+        "yourLangMeaning": "cuộc đua thể thao",
+        "userNoteToSave": "Unit 8: Sports and Games"
+    },
+    {
+        "word": "sporty",
+        "wordTypeArr": "(adj)",
+        "phoneticTxt": "ˈspɔrti",
+        "yourLangMeaning": "khỏe mạnh, dáng thể thao",
+        "userNoteToSave": "Unit 8: Sports and Games"
+    },
+    {
+        "word": "Asia",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈeɪʒə",
+        "yourLangMeaning": "châu Á",
+        "userNoteToSave": "Unit 9: Cities of the World"
+    },
+    {
+        "word": "Africa",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈæfrəkə",
+        "yourLangMeaning": "châu Phi",
+        "userNoteToSave": "Unit 9: Cities of the World"
+    },
+    {
+        "word": "Europe",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈjʊrəp",
+        "yourLangMeaning": "châu Âu",
+        "userNoteToSave": "Unit 9: Cities of the World"
+    },
+    {
+        "word": "Holland",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈhɑlənd",
+        "yourLangMeaning": "Hà Lan",
+        "userNoteToSave": "Unit 9: Cities of the World"
+    },
+    {
+        "word": "Australia",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ɔˈstreɪljə",
+        "yourLangMeaning": "Úc",
+        "userNoteToSave": "Unit 9: Cities of the World"
+    },
+    {
+        "word": "America",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "əˈmɛrəkə",
+        "yourLangMeaning": "châu Mỹ",
+        "userNoteToSave": "Unit 9: Cities of the World"
+    },
+    {
+        "word": "Antarctica",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˌænˈtɑrktɪkə",
+        "yourLangMeaning": "châu Nam Cực",
+        "userNoteToSave": "Unit 9: Cities of the World"
+    },
+    {
+        "word": "award",
+        "wordTypeArr": "(n, v)",
+        "phoneticTxt": "əˈwɔrd",
+        "yourLangMeaning": "giải thưởng, trao giải thưởng",
+        "userNoteToSave": "Unit 9: Cities of the World"
+    },
+    {
+        "word": "common",
+        "wordTypeArr": "(adj)",
+        "phoneticTxt": "ˈkɑmən",
+        "yourLangMeaning": "phổ biến, thông dụng",
+        "userNoteToSave": "Unit 9: Cities of the World"
+    },
+    {
+        "word": "continent",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈkɑntənənt",
+        "yourLangMeaning": "châu lục",
+        "userNoteToSave": "Unit 9: Cities of the World"
+    },
+    {
+        "word": "creature",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈkriʧər",
+        "yourLangMeaning": "sinh vật, tạo vật",
+        "userNoteToSave": "Unit 9: Cities of the World"
+    },
+    {
+        "word": "design",
+        "wordTypeArr": "(n, v)",
+        "phoneticTxt": "dɪˈzaɪn",
+        "yourLangMeaning": "thiết kế",
+        "userNoteToSave": "Unit 9: Cities of the World"
+    },
+    {
+        "word": "journey",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈʤɜrni",
+        "yourLangMeaning": "chuyến đi",
+        "userNoteToSave": "Unit 9: Cities of the World"
+    },
+    {
+        "word": "landmark",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈlændˌmɑrk",
+        "yourLangMeaning": "danh thắng (trong thành phố)",
+        "userNoteToSave": "Unit 9: Cities of the World"
+    },
+    {
+        "word": "lovely",
+        "wordTypeArr": "(adj)",
+        "phoneticTxt": "ˈlʌvli",
+        "yourLangMeaning": "đáng yếu",
+        "userNoteToSave": "Unit 9: Cities of the World"
+    },
+    {
+        "word": "musical",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈmjuzɪkəl",
+        "yourLangMeaning": "vở nhạc kịch",
+        "userNoteToSave": "Unit 9: Cities of the World"
+    },
+    {
+        "word": "palace",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈpæləs",
+        "yourLangMeaning": "cung điện",
+        "userNoteToSave": "Unit 9: Cities of the World"
+    },
+    {
+        "word": "popular",
+        "wordTypeArr": "(adj)",
+        "phoneticTxt": "ˈpɑpjələr",
+        "yourLangMeaning": "nổi tiếng, phổ biến",
+        "userNoteToSave": "Unit 9: Cities of the World"
+    },
+    {
+        "word": "postcard",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈpoʊstˌkɑrd",
+        "yourLangMeaning": "bưu thiếp",
+        "userNoteToSave": "Unit 9: Cities of the World"
+    },
+    {
+        "word": "symbol",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈsɪmbəl",
+        "yourLangMeaning": "biểu tượng",
+        "userNoteToSave": "Unit 9: Cities of the World"
+    },
+    {
+        "word": "tower",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈtaʊər",
+        "yourLangMeaning": "tháp",
+        "userNoteToSave": "Unit 9: Cities of the World"
+    },
+    {
+        "word": "UNESCO World Heritage",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "juˈnɛˌskoʊ wɜrld ˈhɛrətəʤ",
+        "yourLangMeaning": "di sản thế giới được UNESCO công nhận",
+        "userNoteToSave": "Unit 9: Cities of the World"
+    },
+    {
+        "word": "well-known",
+        "wordTypeArr": "(adj)",
+        "phoneticTxt": "wɛl-noʊn",
+        "yourLangMeaning": "nổi tiếng",
+        "userNoteToSave": "Unit 9: Cities of the World"
+    },
+    {
+        "word": "apartment/flat",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "əˈpɑrtmənt/flæt",
+        "yourLangMeaning": "căn hộ ",
+        "userNoteToSave": "Unit 10: Our Houses in the Future"
+    },
+    {
+        "word": "condominium",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˌkɑndəˈmɪniəm",
+        "yourLangMeaning": "chung cư",
+        "userNoteToSave": "Unit 10: Our Houses in the Future"
+    },
+    {
+        "word": "penthouse",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈpɛntˌhaʊs",
+        "yourLangMeaning": "tầng trèn cùng của một tòa nhà cao tầng",
+        "userNoteToSave": "Unit 10: Our Houses in the Future"
+    },
+    {
+        "word": "basement apartment",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈbeɪsmənt əˈpɑrtmənt",
+        "yourLangMeaning": "căn hộ tầng hầm",
+        "userNoteToSave": "Unit 10: Our Houses in the Future"
+    },
+    {
+        "word": "houseboat",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈhaʊsˌboʊt",
+        "yourLangMeaning": "nhà thuyền",
+        "userNoteToSave": "Unit 10: Our Houses in the Future"
+    },
+    {
+        "word": "villa",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈvɪlə",
+        "yourLangMeaning": "biệt thự",
+        "userNoteToSave": "Unit 10: Our Houses in the Future"
+    },
+    {
+        "word": "cable television (TV cable)",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈkeɪbəl ˈtɛləˌvɪʒən (ˈtiˈvi ˈkeɪbəl)",
+        "yourLangMeaning": "truyền hình cáp",
+        "userNoteToSave": "Unit 10: Our Houses in the Future"
+    },
+    {
+        "word": "fridge",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "frɪʤ",
+        "yourLangMeaning": "tủ lạnh",
+        "userNoteToSave": "Unit 10: Our Houses in the Future"
+    },
+    {
+        "word": "wifi (Wireless Fidelity)",
+        "phoneticTxt": "wifi (ˈwaɪrlɪs fəˈdɛləti)",
+        "yourLangMeaning": "hệ thống mạng không dây sử dụng sóng vô tuyến",
+        "userNoteToSave": "Unit 10: Our Houses in the Future"
+    },
+    {
+        "word": "wireless",
+        "wordTypeArr": "(adj, n)",
+        "phoneticTxt": "ˈwaɪrlɪs",
+        "yourLangMeaning": "vô tuyến điện, không dây",
+        "userNoteToSave": "Unit 10: Our Houses in the Future"
+    },
+    {
+        "word": "wireless TV",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈwaɪrlɪs ˈtiˈvi",
+        "yourLangMeaning": "ti vi có kết nối mạng không dây",
+        "userNoteToSave": "Unit 10: Our Houses in the Future"
+    },
+    {
+        "word": "appliance",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "əˈplaɪəns",
+        "yourLangMeaning": "thiết bị, dụng cụ",
+        "userNoteToSave": "Unit 10: Our Houses in the Future"
+    },
+    {
+        "word": "automatic",
+        "wordTypeArr": "(adj)",
+        "phoneticTxt": "ˌɔtəˈmætɪk",
+        "yourLangMeaning": "tự động",
+        "userNoteToSave": "Unit 10: Our Houses in the Future"
+    },
+    {
+        "word": "castle",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈkæsəl",
+        "yourLangMeaning": "lâu đài",
+        "userNoteToSave": "Unit 10: Our Houses in the Future"
+    },
+    {
+        "word": "comfortable",
+        "wordTypeArr": "(adj)",
+        "phoneticTxt": "ˈkʌmfərtəbəl",
+        "yourLangMeaning": "đầy đủ, tiện nghi",
+        "userNoteToSave": "Unit 10: Our Houses in the Future"
+    },
+    {
+        "word": "dry",
+        "wordTypeArr": "(v)",
+        "phoneticTxt": "draɪ",
+        "yourLangMeaning": "làm khô, sấy khô",
+        "userNoteToSave": "Unit 10: Our Houses in the Future"
+    },
+    {
+        "word": "helicopter",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈhɛlɪˌkɑptər",
+        "yourLangMeaning": "máy bay trực thăng",
+        "userNoteToSave": "Unit 10: Our Houses in the Future"
+    },
+    {
+        "word": "hi-tech",
+        "wordTypeArr": "(adj)",
+        "phoneticTxt": "haɪ-tɛk",
+        "yourLangMeaning": "kỹ thuật cao",
+        "userNoteToSave": "Unit 10: Our Houses in the Future"
+    },
+    {
+        "word": "iron",
+        "wordTypeArr": "(v)",
+        "phoneticTxt": "ˈaɪərn",
+        "yourLangMeaning": "bàn là, ủi (quần áo)",
+        "userNoteToSave": "Unit 10: Our Houses in the Future"
+    },
+    {
+        "word": "look after",
+        "wordTypeArr": "(v)",
+        "phoneticTxt": "lʊk ˈæftər",
+        "yourLangMeaning": "trông nom, chăm sóc",
+        "userNoteToSave": "Unit 10: Our Houses in the Future"
+    },
+    {
+        "word": "modern",
+        "wordTypeArr": "(adj)",
+        "phoneticTxt": "ˈmɑdərn",
+        "yourLangMeaning": "hiện đại",
+        "userNoteToSave": "Unit 10: Our Houses in the Future"
+    },
+    {
+        "word": "motorhome",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "motorhome",
+        "yourLangMeaning": "nhà lưu động (có ôtô kéo)",
+        "userNoteToSave": "Unit 10: Our Houses in the Future"
+    },
+    {
+        "word": "skyscraper",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈskaɪˌskreɪpər",
+        "yourLangMeaning": "nhà chọc trời",
+        "userNoteToSave": "Unit 10: Our Houses in the Future"
+    },
+    {
+        "word": "smart",
+        "wordTypeArr": "(adj)",
+        "phoneticTxt": "smɑrt",
+        "yourLangMeaning": "thông minh",
+        "userNoteToSave": "Unit 10: Our Houses in the Future"
+    },
+    {
+        "word": "solar energy",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈsoʊlər ˈɛnərʤi",
+        "yourLangMeaning": "năng lượng mặt trời",
+        "userNoteToSave": "Unit 10: Our Houses in the Future"
+    },
+    {
+        "word": "space",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "speɪs",
+        "yourLangMeaning": "không gian vũ trụ",
+        "userNoteToSave": "Unit 10: Our Houses in the Future"
+    },
+    {
+        "word": "special",
+        "wordTypeArr": "(adj)",
+        "phoneticTxt": "ˈspɛʃəl",
+        "yourLangMeaning": "đặc biệt",
+        "userNoteToSave": "Unit 10: Our Houses in the Future"
+    },
+    {
+        "word": "UFO",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ju-ɛf-oʊ",
+        "yourLangMeaning": "viết tắt của từ Unidentified Flying Object; vật thể bay, đĩa bay",
+        "userNoteToSave": "Unit 10: Our Houses in the Future"
+    },
+    {
+        "word": "air pollution",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ɛr pəˈluʃən",
+        "yourLangMeaning": "ô nhiễm không khí",
+        "userNoteToSave": "Unit 11: Our Greener World"
+    },
+    {
+        "word": "soil pollution",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "sɔɪl pəˈluʃən",
+        "yourLangMeaning": "ô nhiễm đất",
+        "userNoteToSave": "Unit 11: Our Greener World"
+    },
+    {
+        "word": "deforestation",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "dɪˌfɔrɪˈsteɪʃən",
+        "yourLangMeaning": "nạn phá rừng, sự phá rừng",
+        "userNoteToSave": "Unit 11: Our Greener World"
+    },
+    {
+        "word": "noise pollution",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "nɔɪz pəˈluʃən",
+        "yourLangMeaning": "ô nhiễm tiếng ồn",
+        "userNoteToSave": "Unit 11: Our Greener World"
+    },
+    {
+        "word": "water pollution",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈwɔtər pəˈluʃən",
+        "yourLangMeaning": "ô nhiễm nước",
+        "userNoteToSave": "Unit 11: Our Greener World"
+    },
+    {
+        "word": "be in need",
+        "wordTypeArr": "(v)",
+        "phoneticTxt": "bi ɪn nid",
+        "yourLangMeaning": "cần",
+        "userNoteToSave": "Unit 11: Our Greener World"
+    },
+    {
+        "word": "cause",
+        "wordTypeArr": "(v)",
+        "phoneticTxt": "kɑz",
+        "yourLangMeaning": "gây ra",
+        "userNoteToSave": "Unit 11: Our Greener World"
+    },
+    {
+        "word": "charity",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈʧɛrɪti",
+        "yourLangMeaning": "từ thiện",
+        "userNoteToSave": "Unit 11: Our Greener World"
+    },
+    {
+        "word": "disappear",
+        "wordTypeArr": "(v)",
+        "phoneticTxt": "ˌdɪsəˈpɪr",
+        "yourLangMeaning": "biến mất",
+        "userNoteToSave": "Unit 11: Our Greener World"
+    },
+    {
+        "word": "do a survey",
+        "phoneticTxt": "du ə ˈsɜrˌveɪ",
+        "yourLangMeaning": "tiến hành cuộc điều tra",
+        "userNoteToSave": "Unit 11: Our Greener World"
+    },
+    {
+        "word": "effect",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ɪˈfɛkt",
+        "yourLangMeaning": "ảnh hưởng",
+        "userNoteToSave": "Unit 11: Our Greener World"
+    },
+    {
+        "word": "electricity",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ɪˌlɛkˈtrɪsəti",
+        "yourLangMeaning": "điện",
+        "userNoteToSave": "Unit 11: Our Greener World"
+    },
+    {
+        "word": "energy",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈɛnərʤi",
+        "yourLangMeaning": "năng lượng",
+        "userNoteToSave": "Unit 11: Our Greener World"
+    },
+    {
+        "word": "environment",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ɪnˈvaɪrənmənt",
+        "yourLangMeaning": "môi trường",
+        "userNoteToSave": "Unit 11: Our Greener World"
+    },
+    {
+        "word": "exchange",
+        "wordTypeArr": "(v)",
+        "phoneticTxt": "ɪksˈʧeɪnʤ",
+        "yourLangMeaning": "trao đổi",
+        "userNoteToSave": "Unit 11: Our Greener World"
+    },
+    {
+        "word": "invite",
+        "wordTypeArr": "(v)",
+        "phoneticTxt": "ɪnˈvaɪt",
+        "yourLangMeaning": "mời",
+        "userNoteToSave": "Unit 11: Our Greener World"
+    },
+    {
+        "word": "natural",
+        "wordTypeArr": "(adj)",
+        "phoneticTxt": "ˈnæʧərəl",
+        "yourLangMeaning": "tự nhièn",
+        "userNoteToSave": "Unit 11: Our Greener World"
+    },
+    {
+        "word": "pollute",
+        "wordTypeArr": "(v)",
+        "phoneticTxt": "pəˈlut",
+        "yourLangMeaning": "làm ô nhiễm",
+        "userNoteToSave": "Unit 11: Our Greener World"
+    },
+    {
+        "word": "pollution",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "pəˈluʃən",
+        "yourLangMeaning": "sự ô nhiễm",
+        "userNoteToSave": "Unit 11: Our Greener World"
+    },
+    {
+        "word": "president",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈprɛzəˌdɛnt",
+        "yourLangMeaning": "chủ tịch",
+        "userNoteToSave": "Unit 11: Our Greener World"
+    },
+    {
+        "word": "recycle",
+        "wordTypeArr": "(v)",
+        "phoneticTxt": "riˈsaɪkəl",
+        "yourLangMeaning": "tái chế",
+        "userNoteToSave": "Unit 11: Our Greener World"
+    },
+    {
+        "word": "recycling bin",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "riˈsaɪkəlɪŋ bɪn",
+        "yourLangMeaning": "thùng đựng đồ tái chế",
+        "userNoteToSave": "Unit 11: Our Greener World"
+    },
+    {
+        "word": "reduce",
+        "wordTypeArr": "(v)",
+        "phoneticTxt": "rəˈdus",
+        "yourLangMeaning": "giảm",
+        "userNoteToSave": "Unit 11: Our Greener World"
+    },
+    {
+        "word": "refillable",
+        "wordTypeArr": "(adj)",
+        "phoneticTxt": "riˈfɪləbl",
+        "yourLangMeaning": "có thể bơm, làm đầy lại",
+        "userNoteToSave": "Unit 11: Our Greener World"
+    },
+    {
+        "word": "reuse",
+        "wordTypeArr": "(v)",
+        "phoneticTxt": "riˈjuz",
+        "yourLangMeaning": "tái sử dụng",
+        "userNoteToSave": "Unit 11: Our Greener World"
+    },
+    {
+        "word": "sea level",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "si ˈlɛvəl",
+        "yourLangMeaning": "mực nước biển",
+        "userNoteToSave": "Unit 11: Our Greener World"
+    },
+    {
+        "word": "swap",
+        "wordTypeArr": "(v)",
+        "phoneticTxt": "swɑp",
+        "yourLangMeaning": "trao đổi",
+        "userNoteToSave": "Unit 11: Our Greener World"
+    },
+    {
+        "word": "wrap",
+        "wordTypeArr": "(v)",
+        "phoneticTxt": "ræp",
+        "yourLangMeaning": "gói, bọc",
+        "userNoteToSave": "Unit 11: Our Greener World"
+    },
+    {
+        "word": "play football",
+        "phoneticTxt": "pleɪ ˈfʊtˌbɔl",
+        "yourLangMeaning": "chơi bóng đá",
+        "userNoteToSave": "Unit 12: Robots"
+    },
+    {
+        "word": "sing a song",
+        "phoneticTxt": "sɪŋ ə sɔŋ",
+        "yourLangMeaning": "hát một bài hát",
+        "userNoteToSave": "Unit 12: Robots"
+    },
+    {
+        "word": "teaching robot",
+        "phoneticTxt": "ˈtiʧɪŋ ˈroʊˌbɑt",
+        "yourLangMeaning": "người máy dạy học",
+        "userNoteToSave": "Unit 12: Robots"
+    },
+    {
+        "word": "worker robot",
+        "phoneticTxt": "ˈwɜrkər ˈroʊˌbɑt",
+        "yourLangMeaning": "người máy công nhân",
+        "userNoteToSave": "Unit 12: Robots"
+    },
+    {
+        "word": "doctor robot",
+        "phoneticTxt": "ˈdɑktər ˈroʊˌbɑt",
+        "yourLangMeaning": "người máy bác sĩ",
+        "userNoteToSave": "Unit 12: Robots"
+    },
+    {
+        "word": "home robot",
+        "phoneticTxt": "hoʊm ˈroʊˌbɑt",
+        "yourLangMeaning": "người máy gia đình",
+        "userNoteToSave": "Unit 12: Robots"
+    },
+    {
+        "word": "laundry",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈlɔndri",
+        "yourLangMeaning": "giặt ủi",
+        "userNoteToSave": "Unit 12: Robots"
+    },
+    {
+        "word": "make the bed",
+        "phoneticTxt": "meɪk ðə bɛd",
+        "yourLangMeaning": "dọn giường",
+        "userNoteToSave": "Unit 12: Robots"
+    },
+    {
+        "word": "cut the hedge",
+        "phoneticTxt": "kʌt ðə hɛʤ",
+        "yourLangMeaning": "cắt tỉa hàng rào",
+        "userNoteToSave": "Unit 12: Robots"
+    },
+    {
+        "word": "do the dishes",
+        "phoneticTxt": "du ðə ˈdɪʃəz",
+        "yourLangMeaning": "rửa chén",
+        "userNoteToSave": "Unit 12: Robots"
+    },
+    {
+        "word": "(good/bad) habits",
+        "phoneticTxt": "(gʊd/bæd) ˈhæbəts",
+        "yourLangMeaning": "thói quen (tốt/xấu)",
+        "userNoteToSave": "Unit 12: Robots"
+    },
+    {
+        "word": "go to the pictures/the movies",
+        "phoneticTxt": "goʊ tu ðə ˈpɪkʧərz/ðə ˈmuviz",
+        "yourLangMeaning": "đi xem tranh/ đi xem phim",
+        "userNoteToSave": "Unit 12: Robots"
+    },
+    {
+        "word": "there’s a lot to do",
+        "phoneticTxt": "ðɛrz ə lɑt tu du",
+        "yourLangMeaning": "có nhiều việc cần phải làm",
+        "userNoteToSave": "Unit 12: Robots"
+    },
+    {
+        "word": "go out",
+        "phoneticTxt": "goʊ aʊt",
+        "yourLangMeaning": "đi ra ngoài, đi chơi",
+        "userNoteToSave": "Unit 12: Robots"
+    },
+    {
+        "word": "go/come to town",
+        "phoneticTxt": "goʊ/kʌm tu taʊn",
+        "yourLangMeaning": "đi ra thành phố",
+        "userNoteToSave": "Unit 12: Robots"
+    },
+    {
+        "word": "gardening",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈgɑrdənɪŋ",
+        "yourLangMeaning": "công việc làm vườn",
+        "userNoteToSave": "Unit 12: Robots"
+    },
+    {
+        "word": "guard",
+        "wordTypeArr": "(v)",
+        "phoneticTxt": "gɑrd",
+        "yourLangMeaning": "canh giữ, canh gác",
+        "userNoteToSave": "Unit 12: Robots"
+    },
+    {
+        "word": "laundry",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈlɔndri",
+        "yourLangMeaning": "quần áo cần phải giặt",
+        "userNoteToSave": "Unit 12: Robots"
+    },
+    {
+        "word": "lift",
+        "wordTypeArr": "(v)",
+        "phoneticTxt": "lɪft",
+        "yourLangMeaning": "nâng lèn, nhấc lên, giơ lên",
+        "userNoteToSave": "Unit 12: Robots"
+    },
+    {
+        "word": "minor",
+        "wordTypeArr": "(adj)",
+        "phoneticTxt": "ˈmaɪnər",
+        "yourLangMeaning": "nhỏ, không quan trọng",
+        "userNoteToSave": "Unit 12: Robots"
+    },
+    {
+        "word": "opinion",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "əˈpɪnjən",
+        "yourLangMeaning": "ý kiến, quan điểm",
+        "userNoteToSave": "Unit 12: Robots"
+    },
+    {
+        "word": "planet",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈplænət",
+        "yourLangMeaning": "hành tinh",
+        "userNoteToSave": "Unit 12: Robots"
+    },
+    {
+        "word": "recognize",
+        "wordTypeArr": "(v)",
+        "phoneticTxt": "ˈrɛkəgˌnaɪz",
+        "yourLangMeaning": "nhận ra",
+        "userNoteToSave": "Unit 12: Robots"
+    },
+    {
+        "word": "robot",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "ˈroʊˌbɑt",
+        "yourLangMeaning": "người máy",
+        "userNoteToSave": "Unit 12: Robots"
+    },
+    {
+        "word": "role",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "roʊl",
+        "yourLangMeaning": "vai trò",
+        "userNoteToSave": "Unit 12: Robots"
+    },
+    {
+        "word": "space station",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "speɪs ˈsteɪʃən",
+        "yourLangMeaning": "trạm vũ trụ",
+        "userNoteToSave": "Unit 12: Robots"
+    },
+    {
+        "word": "type",
+        "wordTypeArr": "(n)",
+        "phoneticTxt": "taɪp",
+        "yourLangMeaning": "kiểu, loại",
+        "userNoteToSave": "Unit 12: Robots"
+    },
+    {
+        "word": "water",
+        "wordTypeArr": "(v)",
+        "phoneticTxt": "ˈwɔtər",
+        "yourLangMeaning": "tưới, tưới nước",
+        "userNoteToSave": "Unit 12: Robots"
+    }
+]

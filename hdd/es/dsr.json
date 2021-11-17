@@ -1,0 +1,5 @@
+{
+    "word": "DSR",
+    "meaning": "DSR (Data Set Ready)Preparado para ser transmitido (en comunicación de datos), señal del modem (DCE) al ordenador (DTE) que esta listo para la transmisión",
+    "details": "<C><F><H><L>DSR (Data Set Ready)</L></H><I><N>Preparado para ser transmitido (en comunicación de datos), señal del modem (DCE) al ordenador (DTE) que esta listo para la transmisión</N></I></F></C>"
+}
