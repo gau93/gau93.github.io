@@ -1,0 +1,5 @@
+{
+    "word": "DPMI",
+    "meaning": "DPMI (Dos Protected Mode Interface)Mode DOS en situation protégée (situation où l'on peut faire tourner plusieurs programmes temporairement sans pour autant gêner ou imbriquer les uns dans les autres, dans la mesure où chaque programme a sa propre mémoire)",
+    "details": "<C><F><H><L>DPMI (Dos Protected Mode Interface)</L></H><I><N>Mode DOS en situation protégée (situation où l'on peut faire tourner plusieurs programmes temporairement sans pour autant gêner ou imbriquer les uns dans les autres, dans la mesure où chaque programme a sa propre mémoire)</N></I></F></C>"
+}

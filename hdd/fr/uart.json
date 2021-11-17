@@ -1,0 +1,6 @@
+{
+    "word": "UART",
+    "type": "n.",
+    "meaning": "UART (Universal Asynchronous Receiver Transmitter) émetteur récepteur universel asynchrone, circuit E/S transformant l'information en courant sériel et que l'on utilise dans les ports sériels",
+    "details": "<C><F><H><L>UART (Universal Asynchronous Receiver Transmitter)</L></H><I><N><span style=\"color:#c00000\">n.</span> émetteur récepteur universel asynchrone, circuit E/S transformant l'information en courant sériel et que l'on utilise dans les ports sériels</N></I></F></C>"
+}

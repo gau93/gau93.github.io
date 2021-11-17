@@ -1,0 +1,5 @@
+{
+    "word": "IRQ",
+    "meaning": "IRQ (interrupt request)canal de demande d'interruption, ligne permettant à un périphérique de communiquer avec le processeur",
+    "details": "<C><F><H><L>IRQ (interrupt request)</L></H><I><N>canal de demande d'interruption, ligne permettant à un périphérique de communiquer avec le processeur</N></I></F></C>"
+}
