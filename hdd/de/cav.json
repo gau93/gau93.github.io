@@ -1,0 +1,5 @@
+{
+    "word": "CAV",
+    "meaning": "Drehgsgeschwindigkeit eines Laufwerkes die sich nicht entsprechend der Position auf der Disk verändert (im Gegensatz zu CLV in dem die Geschwindigkeit zur Mitte hin schneller wird)",
+    "details": "<C><F><H><L>CAV (Constant Angular Velocity)</L></H><I><N>Drehgsgeschwindigkeit eines Laufwerkes die sich nicht entsprechend der Position auf der Disk verändert (im Gegensatz zu CLV in dem die Geschwindigkeit zur Mitte hin schneller wird)</N></I></F></C>"
+}

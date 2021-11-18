@@ -1,0 +1,6 @@
+{
+    "word": "UART",
+    "type": "n.",
+    "meaning": "universeller asynchronischer Sender und Empfänger, Schaltkreis der Daten in einen seriellen Datenfluß umwandelt und in seriellen Schnittstellen benutzt wird",
+    "details": "<C><F><H><L>UART (Universal Asynchronous Receiver Transmitter)</L></H><I><N><span style=\"color:#c00000\">n.</span> universeller asynchronischer Sender und Empfänger, Schaltkreis der Daten in einen seriellen Datenfluß umwandelt und in seriellen Schnittstellen benutzt wird</N></I></F></C>"
+}

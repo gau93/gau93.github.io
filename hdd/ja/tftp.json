@@ -1,0 +1,5 @@
+{
+    "word": "TFTP",
+    "meaning": "ファイルの転送のための簡単なプロトコル, ユーザーIDをチェックする機能をもたないFTPのシンプル版",
+    "details": "<C><F><H><L>TFTP (Trivial File Transfer Protocol)</L></H><I><N>ファイルの転送のための簡単なプロトコル, ユーザーIDをチェックする機能をもたないFTPのシンプル版</N></I></F></C>"
+}

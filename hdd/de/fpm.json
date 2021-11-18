@@ -1,0 +1,5 @@
+{
+    "word": "FPM",
+    "meaning": "FPM, Typ eines dynamischen Direktzugriffsspeichers der schnellen Zugang zu den Daten der offenen Zeile ermöglicht (nach dem ersten Zugang zur Zeile ist keine neue Suche nötig)",
+    "details": "<C><F><H><L>FPM (Fast Page Mode)</L></H><I><N>FPM, Typ eines dynamischen Direktzugriffsspeichers der schnellen Zugang zu den Daten der offenen Zeile ermöglicht (nach dem ersten Zugang zur Zeile ist keine neue Suche nötig)</N></I></F></C>"
+}

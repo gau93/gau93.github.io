@@ -1,0 +1,5 @@
+{
+    "word": "little-endian",
+    "meaning": "Eine Speichermethode bei der das niedrigste Byte einer Zahl an erster Stelle erscheint",
+    "details": "<C><F><I><N>Eine Speichermethode bei der das niedrigste Byte einer Zahl an erster Stelle erscheint</N></I></F></C>"
+}

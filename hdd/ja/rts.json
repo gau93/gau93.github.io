@@ -1,0 +1,5 @@
+{
+    "word": "RTS",
+    "meaning": "データターミナル（DTE）から（DCE）へデータを送る許可を要求する信号",
+    "details": "<C><F><H><L>RTS (Request To Send)</L></H><I><N>データターミナル（DTE）から（DCE）へデータを送る許可を要求する信号</N></I></F></C>"
+}

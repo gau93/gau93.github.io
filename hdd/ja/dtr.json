@@ -1,0 +1,5 @@
+{
+    "word": "DTR",
+    "meaning": "コンピューター（DTE）から交信の準備ができているモデム（DCE）への信号",
+    "details": "<C><F><H><L>DTR (Data Terminal Ready)</L></H><I><N>コンピューター（DTE）から交信の準備ができているモデム（DCE）への信号</N></I></F></C>"
+}

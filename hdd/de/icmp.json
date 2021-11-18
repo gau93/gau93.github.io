@@ -1,0 +1,5 @@
+{
+    "word": "ICMP",
+    "meaning": "ICMP, Protokoll das benutzt wird um Kontroll- und Fehlermeldungen zu übermitteln während der Übertragung eines Datenpaketes im IP-modus",
+    "details": "<C><F><H><L>ICMP (Internet Control Message Protocol)</L></H><I><N>ICMP, Protokoll das benutzt wird um Kontroll- und Fehlermeldungen zu übermitteln während der Übertragung eines Datenpaketes im IP-modus</N></I></F></C>"
+}

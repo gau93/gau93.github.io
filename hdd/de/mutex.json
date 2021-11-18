@@ -1,0 +1,5 @@
+{
+    "word": "MUTEX",
+    "meaning": "(Computer) MUTEX, Programm von Tex Macros zum Schreiben von Noten auf dem Computer (Erweiterung des \"Tex word Processor\"-Programms)(Computer) MUTEX, gegenseitiger Ausschluß, Programmiertechnik die den gleichzeitigen Zugriff mehrerer Programme auf eine bestimmte Ressource verhindert",
+    "details": "<C><F><H><L>MUTEX (Musical Tex)</L></H><I><N>(Computer) MUTEX, Programm von Tex Macros zum Schreiben von Noten auf dem Computer (Erweiterung des \"Tex word Processor\"-Programms)</N></I></F><F><H><L>MUTEX (Mutual Exclusion)</L></H><I><N>(Computer) MUTEX, gegenseitiger Ausschluß, Programmiertechnik die den gleichzeitigen Zugriff mehrerer Programme auf eine bestimmte Ressource verhindert</N></I></F></C>"
+}

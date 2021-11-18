@@ -1,0 +1,5 @@
+{
+    "word": "ICMP",
+    "meaning": "IP型データパケットの転送の際にコントロールメッセージとエラーメッセージを送るのに使われるプロトコル",
+    "details": "<C><F><H><L>ICMP (Internet Control Message Protocol)</L></H><I><N>IP型データパケットの転送の際にコントロールメッセージとエラーメッセージを送るのに使われるプロトコル</N></I></F></C>"
+}
