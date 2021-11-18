@@ -1,0 +1,7 @@
+{
+    "word": "yipe",
+    "phonetic": "[jaıp]",
+    "type": "int",
+    "meaning": "ой! (выражает боль, испуг)",
+    "details": "<C><F><H><L>yipe</L></H><I><N><x K=\"#0000D0\"><v>[jaıp]</v></x><br /><x K=\"#A0A0A0\"><em><x K=\"#C00000\">int</x></em></x><br /><Í> ой! (<x K=\"#A0A0A0\"><em>выражает боль, испуг</em></x>) <br /> </Í></N></I></F></C>"
+}

@@ -1,0 +1,7 @@
+{
+    "word": "pouff",
+    "phonetic": "[pu:f]",
+    "type": "int",
+    "meaning": "фу! (выражает презрение)",
+    "details": "<C><F><H><L>pouff</L></H><I><N><x K=\"#0000D0\"><v>[pu:f]</v></x><br /><x K=\"#A0A0A0\"><em><x K=\"#C00000\">int</x></em></x><br /><Í> фу! (<x K=\"#A0A0A0\"><em>выражает презрение</em></x>) <br /> </Í></N></I></F></C>"
+}

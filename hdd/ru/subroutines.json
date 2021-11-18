@@ -1,0 +1,7 @@
+{
+    "word": "subroutines",
+    "phonetic": "[ʹsʌbru:͵ti:n]",
+    "type": "n, вчт.",
+    "meaning": "подпрограмма",
+    "details": "<C><F><H><L>subroutine</L></H><I><N><x K=\"#0000D0\"><v>[ʹsʌbru:͵ti:n]</v></x><br /><x K=\"#A0A0A0\"><em><x K=\"#C00000\">n</x> <x K=\"#C00000\">вчт.</x></em></x><br /><Í> подпрограмма <br />  <x K=\"#009999\">linked subroutine - а) библиотечная /внешняя/ подпрограмма; б) замкнутая подпрограмма </x><br /> </Í></N></I></F></C>"
+}

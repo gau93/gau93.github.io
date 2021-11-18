@@ -1,0 +1,7 @@
+{
+    "word": "descriptor",
+    "phonetic": "[dısʹkrıptə]",
+    "type": "n, информ., вчт.",
+    "meaning": "1. дескриптор2. паспорт, идентификатор",
+    "details": "<C><F><H><L>descriptor</L></H><I><N><x K=\"#0000D0\"><v>[dısʹkrıptə]</v></x><br /><x K=\"#A0A0A0\"><em><x K=\"#C00000\">n</x></em></x><br /><Í> 1.  <x K=\"#A0A0A0\"><em><x K=\"#C00000\">информ.</x> </em></x>дескриптор <br />  <x K=\"#009999\">descriptor language - дескрипторный язык </x><br /> 2.  <x K=\"#A0A0A0\"><em><x K=\"#C00000\">вчт.</x> </em></x>паспорт, идентификатор <br />  <x K=\"#009999\">data [field, procedure] descriptor - идентификатор данных [поля, процедуры] </x><br /> </Í></N></I></F></C>"
+}
