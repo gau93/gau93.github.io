@@ -1,0 +1,5 @@
+{
+    "word": "DTR",
+    "meaning": "terminal de dados pronto (na comunicação de dados), sinal que um programa ou dispositivo de comunicação (DTE) informa ao modem (ou outro dispositivo DCE) que está pronto (ready) para enviar dados",
+    "details": "<C><F><H><L>DTR (Data Terminal Ready)</L></H><I><N>terminal de dados pronto (na comunicação de dados), sinal que um programa ou dispositivo de comunicação (DTE) informa ao modem (ou outro dispositivo DCE) que está pronto (ready) para enviar dados</N></I></F></C>"
+}

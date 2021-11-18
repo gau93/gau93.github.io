@@ -1,0 +1,5 @@
+{
+    "word": "RTS",
+    "meaning": "confirmação de transmissão (na comunicação de dados), sinal enviado pelo terminal de dados (DTE) ao equipamentos de comunicação de dados (DCE) pedindo permissão para iniciar a transmissão, RTS",
+    "details": "<C><F><H><L>RTS (Request To Send)</L></H><I><N>confirmação de transmissão (na comunicação de dados), sinal enviado pelo terminal de dados (DTE) ao equipamentos de comunicação de dados (DCE) pedindo permissão para iniciar a transmissão, RTS</N></I></F></C>"
+}

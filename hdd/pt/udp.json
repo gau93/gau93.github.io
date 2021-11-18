@@ -1,0 +1,5 @@
+{
+    "word": "UDP",
+    "meaning": "protocolo que permite o envio de bancos de dados através da Internet (considerado pouco confiável porque não assegura que o material enviado chega sem danos ou na ordem em que foi mandado)",
+    "details": "<C><F><H><L>UDP (User Datagram Protocol)</L></H><I><N>protocolo que permite o envio de bancos de dados através da Internet (considerado pouco confiável porque não assegura que o material enviado chega sem danos ou na ordem em que foi mandado)</N></I></F></C>"
+}

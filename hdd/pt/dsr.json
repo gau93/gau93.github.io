@@ -1,0 +1,5 @@
+{
+    "word": "DSR",
+    "meaning": "terminal de recepção pronto, sinal do modem (DCE) para o computador (DTE) afirmando que ele está pronto para transmitir, DSR",
+    "details": "<C><F><H><L>DSR (Data Set Ready)</L></H><I><N>terminal de recepção pronto, sinal do modem (DCE) para o computador (DTE) afirmando que ele está pronto para transmitir, DSR</N></I></F></C>"
+}

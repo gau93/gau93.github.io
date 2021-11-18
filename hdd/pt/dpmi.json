@@ -1,0 +1,5 @@
+{
+    "word": "DPMI",
+    "meaning": "interface DOS de modo protegido (situação na qual é possível rodar vários programas simultaneamente sem que haja interferência entre eles tendo cada um deles acesso a uma área exclusiva da memória)",
+    "details": "<C><F><H><L>DPMI (Dos Protected Mode Interface)</L></H><I><N>interface DOS de modo protegido (situação na qual é possível rodar vários programas simultaneamente sem que haja interferência entre eles tendo cada um deles acesso a uma área exclusiva da memória)</N></I></F></C>"
+}

@@ -1,0 +1,5 @@
+{
+    "word": "BECN",
+    "meaning": "bit (unidade básica simples de informação) enviado por uma rede de transmissão a um equipamento terminal de informação para indicar que o dispositivo de envio deve reduzir a velocidade do pacote de informação ou deverá começar algum procedimento para evitar o congestionamento na rede (Telecomunicação)",
+    "details": "<C><F><H><L>BECN (Backward Explicit Congestion Notification)</L></H><I><N>bit (unidade básica simples de informação) enviado por uma rede de transmissão a um equipamento terminal de informação para indicar que o dispositivo de envio deve reduzir a velocidade do pacote de informação ou deverá começar algum procedimento para evitar o congestionamento na rede (Telecomunicação)</N></I></F></C>"
+}

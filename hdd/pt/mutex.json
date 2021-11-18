@@ -1,0 +1,5 @@
+{
+    "word": "MUTEX",
+    "meaning": "(Informática) ampliação do processador de textos possibilitando a escrita de notas musicais(computação) método de sincronização de acessos múltiplos para fontes de informação combinadas (através do mecanismo \"lock-unlock\" que tranca e abre alternadamente o acesso a apenas um programa)",
+    "details": "<C><F><H><L>MUTEX (Musical Tex)</L></H><I><N>(Informática) ampliação do processador de textos possibilitando a escrita de notas musicais</N></I></F><F><H><L>MUTEX (Mutual Exclusion)</L></H><I><N>(computação) método de sincronização de acessos múltiplos para fontes de informação combinadas (através do mecanismo \"lock-unlock\" que tranca e abre alternadamente o acesso a apenas um programa)</N></I></F></C>"
+}
