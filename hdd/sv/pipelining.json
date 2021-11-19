@@ -1,0 +1,6 @@
+{
+    "word": "pipelining",
+    "type": "n.",
+    "meaning": "data-design som möjliggör för centralenheten att utföra flera kommandon under en kort tidsperiod genom att lagra dem i bufferten (data)",
+    "details": "<C><F><I><N><span style=\"color:#c00000\">n.</span> data-design som möjliggör för centralenheten att utföra flera kommandon under en kort tidsperiod genom att lagra dem i bufferten (data)</N></I></F></C>"
+}

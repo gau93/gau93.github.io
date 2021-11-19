@@ -1,0 +1,5 @@
+{
+    "word": "ECP",
+    "meaning": "ecp, felkorrigeringsprotokoll, protokoll som identifierar fel i modem-transmissioner och filtrerar ut oljud samt begär automatiskt om en ny transmission när ett meddelende innehåller felUtökad kapabilitets port, höghastig paralell port som stödjer tvåriktad kommunikation (data)",
+    "details": "<C><F><H><L>ECP (Error Correcting Protocol)</L></H><I><N>ecp, felkorrigeringsprotokoll, protokoll som identifierar fel i modem-transmissioner och filtrerar ut oljud samt begär automatiskt om en ny transmission när ett meddelende innehåller fel</N></I></F><F><H><L>ECP (Extended Capabilities Port)</L></H><I><N>Utökad kapabilitets port, höghastig paralell port som stödjer tvåriktad kommunikation (data)</N></I></F></C>"
+}

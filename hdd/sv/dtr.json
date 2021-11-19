@@ -1,0 +1,5 @@
+{
+    "word": "DTR",
+    "meaning": "DTR, dataterminal redo, datorens signal (DTE) till ett modem (DCE) att den är redo för kommunikation",
+    "details": "<C><F><H><L>DTR (Data Terminal Ready)</L></H><I><N>DTR, dataterminal redo, datorens signal (DTE) till ett modem (DCE) att den är redo för kommunikation</N></I></F></C>"
+}

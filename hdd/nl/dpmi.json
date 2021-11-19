@@ -1,0 +1,5 @@
+{
+    "word": "DPMI",
+    "meaning": "DOS uitvoering naar een beveiligde toestand (toestand waarin aantal programma's versneld kunnen worden op zelfde tijdstip zonder dat ze elkaar storen of in interaktie met elkaar komen, waarbij elk programma een eigen zelfstandig geheugen bezit)",
+    "details": "<C><F><H><L>DPMI (Dos Protected Mode Interface)</L></H><I><N>DOS uitvoering naar een beveiligde toestand (toestand waarin aantal programma's versneld kunnen worden op zelfde tijdstip zonder dat ze elkaar storen of in interaktie met elkaar komen, waarbij elk programma een eigen zelfstandig geheugen bezit)</N></I></F></C>"
+}

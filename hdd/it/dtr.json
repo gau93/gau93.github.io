@@ -1,0 +1,5 @@
+{
+    "word": "DTR",
+    "meaning": "terminale di dati disponibile (nella trasmissione di dati), segnale che il computer (DTE) invia al modem (DCE) quando è pronto alla connessione",
+    "details": "<C><F><H><L>DTR (Data Terminal Ready)</L></H><I><N>terminale di dati disponibile (nella trasmissione di dati), segnale che il computer (DTE) invia al modem (DCE) quando è pronto alla connessione</N></I></F></C>"
+}

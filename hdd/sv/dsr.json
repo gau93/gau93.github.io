@@ -1,0 +1,5 @@
+{
+    "word": "DSR",
+    "meaning": "DSR, data klar att skickas, modemets signal (DCE) till datoren (DTE) att det är redo att skicka data",
+    "details": "<C><F><H><L>DSR (Data Set Ready)</L></H><I><N>DSR, data klar att skickas, modemets signal (DCE) till datoren (DTE) att det är redo att skicka data</N></I></F></C>"
+}

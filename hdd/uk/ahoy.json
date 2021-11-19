@@ -1,0 +1,7 @@
+{
+    "word": "ahoy",
+    "phonetic": "ahoy",
+    "type": "int, мор.",
+    "meaning": "оклик; сигнал; ей!;ей, на кораблі!;аврал!, усі нагору!",
+    "details": "<C><F><H><L>ahoy</L></H><I><N><span style=\"color:#c00000\">int</span> <span style=\"color:#c00000\">мор.</span> оклик; сигнал; ей!; <x K=\"maroon\">ship ahoy!</x> ей, на кораблі!; <x K=\"maroon\">all hands ahoy!</x> аврал!, усі нагору!</N></I></F></C>"
+}

@@ -1,0 +1,5 @@
+{
+    "word": "RTS",
+    "meaning": "RTS, Begäran om att Sända, signal från terminalen (DTE) till modemet (DCE) som frågar om tillåtelse för att överföra data",
+    "details": "<C><F><H><L>RTS (Request To Send)</L></H><I><N>RTS, Begäran om att Sända, signal från terminalen (DTE) till modemet (DCE) som frågar om tillåtelse för att överföra data</N></I></F></C>"
+}

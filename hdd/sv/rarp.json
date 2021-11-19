@@ -1,0 +1,5 @@
+{
+    "word": "RARP",
+    "meaning": "rarp, omvänt adressupplösnings-protokoll, protokoll som översätter en fysisk Internet-adress till en IP-adress (mest använt i datorer som saknar hårddiskar för att avgöra deras individuella IP-adress)",
+    "details": "<C><F><H><L>RARP (Reverse Address Resolution Protocol)</L></H><I><N>rarp, omvänt adressupplösnings-protokoll, protokoll som översätter en fysisk Internet-adress till en IP-adress (mest använt i datorer som saknar hårddiskar för att avgöra deras individuella IP-adress)</N></I></F></C>"
+}

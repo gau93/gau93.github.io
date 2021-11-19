@@ -1,0 +1,5 @@
+{
+    "word": "ICMP",
+    "meaning": "icmp, Internet-protokoll för kontroll av meddelande, protokoll som används för att skicka kontrollerings- samt felmeddelanden under datapaketsöverföringen av IP-typ",
+    "details": "<C><F><H><L>ICMP (Internet Control Message Protocol)</L></H><I><N>icmp, Internet-protokoll för kontroll av meddelande, protokoll som används för att skicka kontrollerings- samt felmeddelanden under datapaketsöverföringen av IP-typ</N></I></F></C>"
+}

@@ -1,0 +1,5 @@
+{
+    "word": "IPC",
+    "meaning": "interprocess kommunikation, kommunikation mellan program som körs samtidigt på ett paralellbearbetande system data",
+    "details": "<C><F><H><L>IPC (InterProcess Communication)</L></H><I><N>interprocess kommunikation, kommunikation mellan program som körs samtidigt på ett paralellbearbetande system [data]</N></I></F></C>"
+}

@@ -1,0 +1,5 @@
+{
+    "word": "UDP",
+    "meaning": "gebruiker van datagram (bij verzenden v. gegevenspakketten is dit een op zichzelf staand gegevenspakket, dat onafhankelijk is van andere gegevenspakketten) protocol (reeks regels om gegevens tussen twee systemen uit te wisselen)",
+    "details": "<C><F><H><L>UDP (User Datagram Protocol)</L></H><I><N>gebruiker van datagram (bij verzenden v. gegevenspakketten is dit een op zichzelf staand gegevenspakket, dat onafhankelijk is van andere gegevenspakketten) protocol (reeks regels om gegevens tussen twee systemen uit te wisselen)</N></I></F></C>"
+}

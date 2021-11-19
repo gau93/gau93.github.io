@@ -1,0 +1,5 @@
+{
+    "word": "LBA",
+    "meaning": "het toekennen van adressen aan logisch blok (logisch verbonden, maar niet noodzakelijkerwijs aaneengesloten geheugengebieden waarin logische records worden opgeslagen)",
+    "details": "<C><F><H><L>LBA (Logical Block Addressing)</L></H><I><N>het toekennen van adressen aan logisch blok (logisch verbonden, maar niet noodzakelijkerwijs aaneengesloten geheugengebieden waarin logische records worden opgeslagen)</N></I></F></C>"
+}
